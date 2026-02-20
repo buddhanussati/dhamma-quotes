@@ -31,12 +31,13 @@ const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : ''
 // 6. Build the RSS XML
 const pubDate = new Date().toUTCString();
 const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thanissaro Bhikkhu Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/</link>
     <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
+	<atom:link href="https://buddhanussati.github.io/dhamma-quotes/rss.xml" rel="self" type="application/rss+xml" />
 	<image>
       <title>dhammatalks.org</title>
       <url>https://www.dhammatalks.org/static/images/newlogo.png</url>
@@ -58,6 +59,4 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 </rss>`;
 
 fs.writeFileSync('rss.xml', rssXml);
-
 console.log(`Generated RSS with title: ${titleText}`);
-
