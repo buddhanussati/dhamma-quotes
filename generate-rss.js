@@ -38,9 +38,11 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
     <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
 	<image>
-      <url>https://buddhanussati.github.io/dhamma-quotes/favicon.ico</url>
-      <title>Thanissaro Bhikkhu Quotes</title>
-      <link>https://buddhanussati.github.io/dhamma-quotes/</link>
+      <title>dhammatalks.org</title>
+      <url>https://www.dhammatalks.org/static/images/newlogo.png</url>
+      <link>https://www.dhammatalks.org/</link>
+      <width>42</width>
+      <height>42</height>
     </image>
 	
     <item>
@@ -58,3 +60,4 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 fs.writeFileSync('rss.xml', rssXml);
 
 console.log(`Generated RSS with title: ${titleText}`);
+
