@@ -12,13 +12,23 @@ if (!match) {
 
 const htmlContent = match[1];
 
-// 3. Split the block of text by the <hr> tags to isolate individual quotes
+// 3. Split by <hr> to get individual entries
 const quotes = htmlContent.split('<hr>').map(q => q.trim()).filter(q => q.length > 0);
 
 // 4. Select a random quote
 const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
-// 5. Build the RSS XML format
+// 5. Generate the Title:
+// Remove the <span class="cite-title">...</span><br> part
+// Then strip all other HTML tags to get plain text for the title
+let cleanText = randomQuote.replace(/<span class="cite-title">[\s\S]*?<\/span>\s*<br>/i, '');
+cleanText = cleanText.replace(/<\/?[^>]+(>|$)/g, "").trim();
+
+// Split into words and take the first 25
+const words = cleanText.split(/\s+/);
+const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '...' : '');
+
+// 6. Build the RSS XML
 const pubDate = new Date().toUTCString();
 const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
@@ -28,7 +38,7 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
     <description>Random Dhamma quotes updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <item>
-      <title>Dhamma Quote for ${pubDate}</title>
+      <title>${titleText}</title>
       <link>https://buddhanussati.github.io/dhamma-quotes/</link>
       <description><![CDATA[
         ${randomQuote}
@@ -39,6 +49,5 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
   </channel>
 </rss>`;
 
-// 6. Save the output to a new file called rss.xml
 fs.writeFileSync('rss.xml', rssXml);
-console.log("rss.xml generated successfully!");
+console.log(`Generated RSS with title: ${titleText}`);
