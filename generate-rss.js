@@ -31,20 +31,28 @@ const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : ''
 // 6. Build the RSS XML
 const pubDate = new Date().toUTCString();
 const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Thanissaro Bhikkhu Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/</link>
     <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
-	<atom:link href="https://buddhanussati.github.io/dhamma-quotes/rss.xml" rel="self" type="application/rss+xml" />
-	<image>
+    <atom:link href="https://buddhanussati.github.io/dhamma-quotes/rss.xml" rel="self" type="application/rss+xml" />
+    
+    <image>
       <title>dhammatalks.org</title>
       <url>https://www.dhammatalks.org/static/images/newlogo.png</url>
       <link>https://www.dhammatalks.org/</link>
-      <width>42</width>
-      <height>42</height>
     </image>
+
+    <webfeeds:icon>https://www.dhammatalks.org/static/images/newlogo.png</webfeeds:icon>
+    <webfeeds:logo>https://www.dhammatalks.org/static/images/newlogo.png</webfeeds:logo>
+    <webfeeds:accentColor>#9d2235</webfeeds:accentColor>
+
+    <itunes:image href="https://www.dhammatalks.org/static/images/newlogo.png" />
 	
     <item>
       <title>${titleText}</title>
