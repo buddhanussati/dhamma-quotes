@@ -3,7 +3,7 @@ name: Generate RSS Feed
 on:
   schedule:
     # This cron schedule runs at minute 0 past every 6th hour.
-    - cron: '0 */6 * * *'
+    - cron: '0 */5 * * *'
   workflow_dispatch: # This allows you to trigger the workflow manually for testing
 
 jobs:
@@ -31,4 +31,5 @@ jobs:
           # CHANGE THIS LINE: Add history.json to the list
           git add rss.xml history.json 
           git commit -m "chore: update RSS feed and quote history" || exit 0
+
           git push
