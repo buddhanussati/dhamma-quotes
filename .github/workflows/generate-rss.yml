@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add rss.xml
-          # The || exit 0 ensures the workflow doesn't fail if the quote randomly happens to be the same one
-          git commit -m "chore: update RSS feed with new random quote" || exit 0
+          # CHANGE THIS LINE: Add history.json to the list
+          git add rss.xml history.json 
+          git commit -m "chore: update RSS feed and quote history" || exit 0
           git push
