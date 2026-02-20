@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Thanissaro Bhikkhu Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/</link>
     <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
-    <lastBuildDate>Fri, 20 Feb 2026 10:03:01 GMT</lastBuildDate>
-	<atom:link href="https://buddhanussati.github.io/dhamma-quotes/rss.xml" rel="self" type="application/rss+xml" />
-	<image>
+    <lastBuildDate>Fri, 20 Feb 2026 10:22:20 GMT</lastBuildDate>
+    <atom:link href="https://buddhanussati.github.io/dhamma-quotes/rss.xml" rel="self" type="application/rss+xml" />
+    
+    <image>
       <title>dhammatalks.org</title>
       <url>https://www.dhammatalks.org/static/images/newlogo.png</url>
       <link>https://www.dhammatalks.org/</link>
-      <width>42</width>
-      <height>42</height>
     </image>
+
+    <webfeeds:icon>https://www.dhammatalks.org/static/images/newlogo.png</webfeeds:icon>
+    <webfeeds:logo>https://www.dhammatalks.org/static/images/newlogo.png</webfeeds:logo>
+    <webfeeds:accentColor>#9d2235</webfeeds:accentColor>
+
+    <itunes:image href="https://www.dhammatalks.org/static/images/newlogo.png" />
 	
     <item>
-      <title>It’s not an issue of learning not to have fear; it’s learning where fear should properly be focused. And where it should be focused is…</title>
+      <title>There are a lot of things in life that, if you thought, “This is your one lifetime, this is your one chance,” would strike you…</title>
       <link>https://buddhanussati.github.io/dhamma-quotes/</link>
       <description><![CDATA[
         <div class="quote-entry">
@@ -23,14 +31,14 @@
                                                 <span class="cite-title">Thanissaro Bhikkhu wrote:</span><br>
                                                 <div>
 <br/>
-It’s not an issue of learning not to have fear; it’s learning where fear should properly be focused. And where it should be focused is on the idea that if you don’t learn from your past mistakes, you’re never going to learn. At the very least you’re not learning anything right now, and in not learning anything right now you’re leaving yourself open to all kinds of mistakes in the future.<br/>
+There are a lot of things in life that, if you thought, <em class="text-italics">“This is your one lifetime, this is your one chance,”</em> would strike you as very unfair. It would be hard to live with the idea that, say, someone smeared your name and you couldn’t get it un-smeared. Other people who don’t seem to have any right to power have taken over a lot of power. But if you take the long view of things, you realize that this is going to pass, and this is not your only chance. It makes it a lot easier to live with the things you can’t change, and focus on the ones you can.<br/>
 <br/>
-From: <a class="postlink" href="https://www.dhammatalks.org/books/Meditations3/Section0032.html">Self Esteem</a> by Thanissaro Bhikkhu</div>
+From: <a class="postlink" href="https://www.dhammatalks.org/audio/evening/2017/170705-patience-hope.html">Patience &amp; Hope</a> by Thanissaro Bhikkhu</div>
                                             </blockquote>
                                         </div>
       ]]></description>
-      <pubDate>Fri, 20 Feb 2026 10:03:01 GMT</pubDate>
-      <guid isPermaLink="false">1771581781132</guid>
+      <pubDate>Fri, 20 Feb 2026 10:22:20 GMT</pubDate>
+      <guid isPermaLink="false">1771582940252</guid>
     </item>
   </channel>
 </rss>
