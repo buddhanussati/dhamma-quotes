@@ -26,7 +26,7 @@ cleanText = cleanText.replace(/<\/?[^>]+(>|$)/g, "").trim();
 
 // Split into words and take the first 25
 const words = cleanText.split(/\s+/);
-const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '...' : '');
+const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
 
 // 6. Build the RSS XML
 const pubDate = new Date().toUTCString();
@@ -35,8 +35,14 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
   <channel>
     <title>Thanissaro Bhikkhu Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/</link>
-    <description>Random Dhamma quotes updated every 6 hours</description>
+    <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
+	<image>
+      <url>https://buddhanussati.github.io/dhamma-quotes/favicon.png</url>
+      <title>Thanissaro Bhikkhu Quotes</title>
+      <link>https://buddhanussati.github.io/dhamma-quotes/</link>
+    </image>
+	
     <item>
       <title>${titleText}</title>
       <link>https://buddhanussati.github.io/dhamma-quotes/</link>
