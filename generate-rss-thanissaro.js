@@ -54,7 +54,7 @@ fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
 const itemsXml = history.map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
-      <link>https://buddhanussati.github.io/dhamma-quotes/1</link>
+      <link>https://buddhanussati.github.io/dhamma-quotes</link>
       <description><![CDATA[
         ${item.content}
       ]]></description>
@@ -68,13 +68,13 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>Thanissaro Bhikkhu Quotes</title>
-    <link>https://buddhanussati.github.io/dhamma-quotes/1</link>
+    <link>https://buddhanussati.github.io/dhamma-quotes</link>
     <description>Dhamma quotes by Thanissaro Bhikkhu, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <image>
-      <url>https://buddhanussati.github.io/dhamma-quotes/1/favicon.png</url>
+      <url>https://buddhanussati.github.io/dhamma-quotes/favicon.png</url>
       <title>Thanissaro Bhikkhu Quotes</title>
-      <link>https://buddhanussati.github.io/dhamma-quotes/1</link>
+      <link>https://buddhanussati.github.io/dhamma-quotes</link>
     </image>
     ${itemsXml}
   </channel>
