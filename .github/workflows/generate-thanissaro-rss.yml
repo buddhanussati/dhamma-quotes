@@ -22,7 +22,7 @@ jobs:
           node-version: '20'
 
       - name: Run generation script
-        run: node generate-rss.js
+        run: node generate-rss-thanissaro.js
 
       - name: Commit and Push changes
         run: |
@@ -33,5 +33,6 @@ jobs:
           git commit -m "chore: update RSS feed and quote history" || exit 0
 
           git push
+
 
 
