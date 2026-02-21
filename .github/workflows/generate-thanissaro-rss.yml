@@ -1,4 +1,4 @@
-name: Generate RSS Feed
+name: Generate Thanissaro Bhikkhu RSS Feed
 
 on:
   schedule:
@@ -33,4 +33,5 @@ jobs:
           git commit -m "chore: update RSS feed and quote history" || exit 0
 
           git push
+
 
