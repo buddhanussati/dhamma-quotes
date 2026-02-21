@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const HISTORY_FILE = 'history.json';
-const RSS_FILE = 'rss.xml';
+const HISTORY_FILE = 'history-thanissaro.json';
+const RSS_FILE = 'rss-thanissaro.xml';
 const MAX_ITEMS = 10;
 
 // 1. Read the JS file containing the quotes
@@ -81,4 +81,5 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 </rss>`;
 
 fs.writeFileSync(RSS_FILE, rssXml);
+
 console.log(`Generated RSS with ${history.length} items. Latest: ${titleText}`);
