@@ -19,9 +19,9 @@ const allQuotes = htmlContent.split('<hr>').map(q => q.trim()).filter(q => q.len
 const randomQuote = allQuotes[Math.floor(Math.random() * allQuotes.length)];
 
 // 3. Generate Title & Metadata for the new item
-let cleanText = randomQuote.replace(/<span class="cite-title">[\s\S]*?<\/span>\s*<br>/i, '');
-cleanText = cleanText.replace(/<\/?[^>]+(>|$)/g, "").trim();
-const words = cleanText.split(/\s+/);
+let cleanText = randomQuote.replace(/<\/?[^>]+(>|$)/g, " ");
+cleanText = cleanText.replace(/\s+/g, ' ').trim();
+const words = cleanText.split(' ');
 const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
 
 const newItem = {
