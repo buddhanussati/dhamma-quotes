@@ -2,8 +2,8 @@ name: Generate Ajahn Jayasaro RSS Feed
 
 on:
   schedule:
-    # Runs at minute 0 past every 8th hour.
-    - cron: '0 */8 * * *'
+    # Runs at minute 0 past every 6th hour.
+    - cron: '0 */6 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -30,4 +30,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add rss-jayasaro.xml history-jayasaro.json 
           git commit -m "chore: update Ajahn Jayasaro RSS feed and quote history" || exit 0
+
           git push
