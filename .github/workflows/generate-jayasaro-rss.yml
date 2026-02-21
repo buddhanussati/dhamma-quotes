@@ -1,0 +1,33 @@
+name: Generate Ajahn Jayasaro RSS Feed
+
+on:
+  schedule:
+    # Runs at minute 0 past every 8th hour.
+    - cron: '0 */8 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run generation script
+        run: node generate-rss-jayasaro.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rss-jayasaro.xml history-jayasaro.json 
+          git commit -m "chore: update Ajahn Jayasaro RSS feed and quote history" || exit 0
+          git push
