@@ -105,3 +105,51 @@ button:hover {
 .postlink:hover {
     text-decoration: underline;
 }
+
+/* Update this section in your style.css */
+#quote-container {
+    background-color: var(--container-bg);
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    min-height: 150px;
+    font-size: 1.15em;
+    line-height: 1.6;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    
+    /* ADD THESE TWO LINES */
+    transition: opacity 0.4s ease-in-out; 
+    opacity: 1; 
+}
+
+/* Add to the bottom of style.css */
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tab-btn {
+    background-color: var(--container-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 8px 16px;
+    font-weight: normal;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+.tab-btn:hover {
+    opacity: 1;
+    background-color: var(--border-color);
+}
+
+.tab-btn.active {
+    opacity: 1;
+    background-color: var(--btn-bg);
+    color: var(--btn-text);
+    border-color: var(--btn-bg);
+    font-weight: bold;
+}
