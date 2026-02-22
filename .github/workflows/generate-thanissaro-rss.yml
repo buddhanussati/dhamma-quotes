@@ -1,4 +1,4 @@
-name: Generate Thanissaro Bhikkhu RSS Feed
+name: Generate Thanissaro RSS Feed
 
 on:
   schedule:
@@ -29,10 +29,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           # CHANGE THIS LINE: Add history.json to the list
-          git add rss-thanissaro.xml history-thanissaro.json 
+          git add thanissaro.xml history-thanissaro.json 
           git commit -m "chore: update RSS feed and quote history" || exit 0
 
           git push
+
 
 
 
