@@ -3,7 +3,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const newQuoteBtn = document.getElementById('new-quote-btn');
     const themeToggleBtn = document.getElementById('theme-toggle');
     const tabsContainer = document.getElementById('tabs-container');
+    const rssLink = document.getElementById('rss-link'); // Added for RSS
 
+    // 2. RSS Mapping
+    const feedFiles = {
+        thanissaro: 'thanissaro.xml',
+        jayasaro: 'jayasaro.xml'
+    };
     // 1. Theme Persistence
     const applyTheme = (theme) => {
         document.body.setAttribute('data-theme', theme);
@@ -54,15 +60,24 @@ document.addEventListener('DOMContentLoaded', () => {
             const btn = document.createElement('button');
             btn.className = `tab-btn ${key === currentTeacherKey ? 'active' : ''}`;
             btn.textContent = teachers[key].name;
-            btn.onclick = () => {
+            
+            btn.addEventListener('click', () => {
                 currentTeacherKey = key;
+                
+                // Update the RSS link here!
+                if (rssLink) {
+                    rssLink.href = feedFiles[key];
+                }
+                
                 renderTabs();
                 displayRandomQuote();
-            };
+            });
+            
             tabsContainer.appendChild(btn);
         }
     };
-
+  
+  
     // 5. Display & Smooth Transition
     const displayRandomQuote = () => {
         const pool = teachers[currentTeacherKey].quotes;
@@ -87,4 +102,24 @@ document.addEventListener('DOMContentLoaded', () => {
     displayRandomQuote();
 
     newQuoteBtn.addEventListener('click', displayRandomQuote);
+});
+
+// 1. Add this mapping at the top of your script or inside the DOMContentLoaded
+const feedFiles = {
+    thanissaro: 'thanissaro.xml',
+    jayasaro: 'jayasaro.xml'
+};
+
+// 2. Update the RSS link inside your tab click handler
+const rssLink = document.getElementById('rss-link');
+
+// Inside your tab button click listener:
+btn.addEventListener('click', () => {
+    currentTeacherKey = key;
+    
+    // Update the RSS link to match the current teacher
+    rssLink.href = feedFiles[key];
+    
+    renderTabs(); 
+    displayRandomQuote();
 });
