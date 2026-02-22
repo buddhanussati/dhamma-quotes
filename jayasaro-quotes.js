@@ -5187,17 +5187,6 @@ Ajahn Jayasāro<br/>
                                             </div>
                                             <hr>
                                             
-                                            <div class="quote-entry">
-                                                <blockquote>
-  <span class="cite-title">Ajahn Jayasāro:</span><br>
-                                                    <blockquote cite="./viewtopic.php?p=686685#p686685"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=3795">Sam Vara</a> wrote: <a aria-label="View quoted post" data-cf-modified-9bb95658565d4c134fcf3da8-="" data-post-id="686685" href="./viewtopic.php?p=686685#p686685" onclick="if (!window.__cfRLUnblockHandlers) return false; if(document.getElementById(hash.substr(1)))href=hash"><i aria-hidden="true" class="icon fa-arrow-circle-up fa-fw"></i></a><span class="responsive-hide">Tue Jul 26, 2022 2:57 pm</span></cite>
-Sequeller, many thanks for taking on this task. I think it gives you a great deal of merit.  <img alt=":anjali:" class="smilies" height="35" src="./images/smilies/anjali.gif" title="Anjali" width="25"/>
-</div></blockquote>
-
-Ajahn Jayasaro's notes help me a lot to understand Dhamma and establish myself in Dhamma, and I hope they will help someone else too.
-                                                </blockquote>
-                                            </div>
-                                            <hr>
                                             
                                             <div class="quote-entry">
                                                 <blockquote>
@@ -5274,31 +5263,7 @@ Ajahn Jayasāro <br/>
                                             </div>
                                             <hr>
                                             
-                                            <div class="quote-entry">
-                                                <blockquote>
-  <span class="cite-title">Ajahn Jayasāro:</span><br>
-                                                    <blockquote cite="./viewtopic.php?p=673513#p673513"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=3795">Sam Vara</a> wrote: <a aria-label="View quoted post" data-cf-modified-bfcb25364ef01c6b864513b4-="" data-post-id="673513" href="./viewtopic.php?p=673513#p673513" onclick="if (!window.__cfRLUnblockHandlers) return false; if(document.getElementById(hash.substr(1)))href=hash"><i aria-hidden="true" class="icon fa-arrow-circle-up fa-fw"></i></a><span class="responsive-hide">Sat Apr 16, 2022 6:23 pm</span></cite>
-<blockquote cite="./viewtopic.php?p=673508#p673508"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=16965">Alino</a> wrote: <a aria-label="View quoted post" data-cf-modified-bfcb25364ef01c6b864513b4-="" data-post-id="673508" href="./viewtopic.php?p=673508#p673508" onclick="if (!window.__cfRLUnblockHandlers) return false; if(document.getElementById(hash.substr(1)))href=hash"><i aria-hidden="true" class="icon fa-arrow-circle-up fa-fw"></i></a><span class="responsive-hide">Sat Apr 16, 2022 5:36 pm</span></cite>
-=The power of familiarity=<br/>
-<br/>
- "One of the great underrated powers in the world is the power of familiarity. Humain beings can feel undifferent in the presence of great beauty or great horror, merely because they have seen it many times before. People completely unmoved by cruel violence are not monsters. They are simply used to what they see and do. <br/>
-<br/>
- By allowing ourselves to get used to things, life may become a little more peaceful. But it is a false peace, one gained by giving up part of what makes us truly humain. 
-</div></blockquote>
-
-That reminds me of a passage from Doktor Faustus, by Thomas Mann. He is talking about the death-agony of a disabled child:<br/>
-<br/>
-"The typical 'hydrocephalic shriek', against which only the physician, precisely because he knows it is typical, is tolerably armed. The typical leaves one calm, only what we think of as individual puts us beside ourselves. Science is calm."<br/>
-<br/>
-Thank you again for posting these, Alino. This time last week I had the privilege of listening to one of Ajahn Jayasaro's talks in person, and the impact is still resonating. If I can find a recording, I'll post it here.  <img alt=":anjali:" class="smilies" height="35" src="./images/smilies/anjali.gif" title="Anjali" width="25"/>
-</div></blockquote>
-
-It's a pleasure for me Dear Sam Vara <img alt="😊" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60a.svg"/><img alt="🙏" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"/><br/>
-Indeed Venerable Ajahn Cittaviro said me that there was a Q&amp;A session with Venerable Ajahn Jayasaro recently at Chithurst ! <br/>
-But i can't find the video <img alt=":(" class="smilies" height="17" src="./images/smilies/icon_e_sad.gif" title="Sad" width="15"/>
-                                                </blockquote>
-                                            </div>
-                                            <hr>
+                                            
                                             
                                             <div class="quote-entry">
                                                 <blockquote>
