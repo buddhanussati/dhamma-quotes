@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Buddhistdoor Global - News</title>
+    <link>https://www.buddhistdoor.net/news/</link>
+    <description>Latest news from Buddhistdoor Global</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</url>
+      <title>Buddhistdoor Global - News</title>
+      <link>https://www.buddhistdoor.net/news/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Feb 2026 10:03:33 +0000</lastBuildDate>
+  </channel>
+</rss>
