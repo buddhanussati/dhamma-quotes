@@ -1,0 +1,37 @@
+name: Generate Buddhistdoor RSS
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Tự động chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Cấp quyền ghi để lưu file rss.xml vào repo
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run scraper
+      run: python scripts/generate_rss.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "actions@github.com"
+        git add rss.xml
+        # Chỉ commit nếu có sự thay đổi trong file rss.xml
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS: $(date)" && git push)
