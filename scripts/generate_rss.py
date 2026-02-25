@@ -74,7 +74,6 @@ def get_buddhistdoor_news():
         })
 
    
-        articles_data.reverse()
 
     for data in articles_data:
         fe = fg.add_entry()
