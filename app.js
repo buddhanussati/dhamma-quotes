@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. RSS Mapping
     const feedFiles = {
         thanissaro: 'thanissaro.xml',
-        jayasaro: 'jayasaro.xml'
+        jayasaro: 'jayasaro.xml',
+		chah: 'ajahnchah.xml'
     };
     // 1. Theme Persistence
     const applyTheme = (theme) => {
@@ -38,7 +39,13 @@ document.addEventListener('DOMContentLoaded', () => {
             // Reference the variable name in jayasaro-quotes.js
             getData: () => typeof JayasaroQuotesData !== 'undefined' ? JayasaroQuotesData : "",
             quotes: []
-        }
+        },
+		chah: {
+            name: "Ajahn Chah",
+            getData: () => typeof AjahnChahQuotesData !== 'undefined' ? AjahnChahQuotesData : "",
+            quotes: []
+        },
+		
     };
 
     let currentTeacherKey = 'thanissaro';
