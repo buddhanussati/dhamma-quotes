@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // Use unique filenames so we don't overwrite the Thanissaro Bhikkhu feed
 const HISTORY_FILE = 'history-jayasaro.json';
-const RSS_FILE = 'rss-jayasaro.xml';
+const RSS_FILE = 'jayasaro.xml';
 const CYCLE_FILE = 'cycle-state-jayasaro.json'; // New file to track the current cycle
 const MAX_ITEMS = 10;
 
@@ -111,3 +111,4 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 fs.writeFileSync(RSS_FILE, rssXml);
 
 console.log(`Generated RSS with ${history.length} items. Quotes left in cycle: ${availableIndices.length}. Latest: ${titleText}`);
+
