@@ -28,8 +28,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add jayasaro.xml history-jayasaro.json 
+          git add jayasaro.xml history-jayasaro.json cycle-state-jayasaro.json
           git commit -m "chore: update Ajahn Jayasaro RSS feed and quote history" || exit 0
 
           git push
+
 
