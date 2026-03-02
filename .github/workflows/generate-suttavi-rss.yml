@@ -2,7 +2,7 @@ name: Tạo RSS Trích Dẫn Kinh Điển Nikaya
 
 on:
   schedule:
-    # Runs at minute 0 past every 6th hour.
+    # Every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch: 
 
@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,13 +24,10 @@ jobs:
       - name: Run generation script
         run: node generate-rss-suttavi.js
 
-      - name: Commit and Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add suttavi.xml history-suttavi.json cycle-state-suttavi.json
-          git commit -m "chore: update Trích Dẫn Kinh Điển Nikaya RSS and quote history" || exit 0
-
-          git push
-
-
+      - name: Commit & Push changes (only if files changed)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Trích Dẫn Kinh Điển Nikaya RSS and quote history"
+          file_pattern: suttavi.xml history-suttavi.json cycle-state-suttavi.json
+          commit_user_name: GitHub Action
+          commit_user_email: action@github.com
