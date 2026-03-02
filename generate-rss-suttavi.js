@@ -86,7 +86,7 @@ const itemsXml = history.map(item => `
       <description><![CDATA[
         ${item.content}
         <br><br>
-        <strong>Nguồn:</strong> ${item.ref}
+        <strong>Trích:</strong> ${item.ref}
         ${item.url ? `<br><a href="${item.url}">📖 Đọc kinh này</a>` : ''}
       ]]></description>
       <pubDate>${item.pubDate}</pubDate>
