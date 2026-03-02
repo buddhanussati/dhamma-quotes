@@ -3,7 +3,7 @@ name: Tạo RSS Trích Dẫn Kinh Điển Nikaya
 on:
   schedule:
     # Every 6 hours
-    - cron: '0 */6 * * *'
+    - cron: '13 */5 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -31,3 +31,4 @@ jobs:
           file_pattern: suttavi.xml history-suttavi.json cycle-state-suttavi.json
           commit_user_name: GitHub Action
           commit_user_email: action@github.com
+
