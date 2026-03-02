@@ -82,12 +82,12 @@ fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
 const itemsXml = history.map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
-      <link>${item.url || 'https://buddhanussati.github.io/dhamma-quotes/1/home'}</link>
+      <link>${item.url || 'https://loicuaducphat.org/congcu/trichdan'}</link>
       <description><![CDATA[
         ${item.content}
         <br><br>
         <strong>Nguồn:</strong> ${item.ref}
-        ${item.url ? `<br><a href="${item.url}">📖 Đọc đầy đủ</a>` : ''}
+        ${item.url ? `<br><a href="${item.url}">📖 Đọc kinh này</a>` : ''}
       ]]></description>
       <pubDate>${item.pubDate}</pubDate>
       <guid isPermaLink="false">${item.guid}</guid>
@@ -98,13 +98,13 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>Trích Dẫn Kinh Điển Nikaya</title>
-    <link>https://buddhanussati.github.io/dhamma-quotes/1/home</link>
+    <link>https://loicuaducphat.org/congcu/trichdan</link>
     <description>Trích Dẫn Kinh Điển Nikaya</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <image>
-      <url>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</url>
+      <url>https://loicuaducphat.org/congcu/images/favicon6.ico</url>
       <title>Trích Dẫn Kinh Điển Nikaya</title>
-      <link>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</link>
+      <link>https://loicuaducphat.org/congcu/images/favicon6.ico</link>
     </image>
     ${itemsXml}
   </channel>
