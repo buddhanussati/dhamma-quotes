@@ -46,22 +46,18 @@ fs.writeFileSync(CYCLE_FILE, JSON.stringify(availableIndices, null, 2));
 const randomQuote = allQuotes[selectedIndex];
 
 // 4. Generate Title & Metadata for the new item
-// Extract text between <h3> and </h3> tags
-const h3Match = randomQuote.match(/<h3>(.*?)<\/h3>/i);
+let cleanText = randomQuote
+    // 1. Replace the entire <h3>...</h3> block with "Ajahn Chah:" 
+    // (If you want to keep the text inside the <h3>, see the alternative below)
+    .replace(/<h3.*?>[\s\S]*?<\/h3>/gi, "A. Paññāvaddho:") 
+    // 2. Remove all other remaining HTML tags (like <p> or <div>)
+    .replace(/<\/?[^>]+(>|$)/g, "")
+    // 3. Replace multiple spaces/newlines with a single space
+    .replace(/\s+/g, " ")
+    .trim();
 
-let extractedTitle;
-if (h3Match && h3Match[1]) {
-    // Found an H3: Remove any nested HTML tags inside the H3
-    extractedTitle = h3Match[1].replace(/<\/?[^>]+(>|$)/g, "").trim();
-} else {
-    // Fallback: If no <h3> is found, use the first 25 words
-    let cleanText = randomQuote.replace(/<\/?[^>]+(>|$)/g, "").trim();
-    const words = cleanText.split(/\s+/);
-    extractedTitle = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
-}
-
-// Prepend the author's name to the final title
-const titleText = `A. Paññāvaddho: ${extractedTitle}`;
+const words = cleanText.split(/\s+/);
+const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
 
 const newItem = {
     title: titleText,
