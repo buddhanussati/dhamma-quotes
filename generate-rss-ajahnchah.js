@@ -46,8 +46,16 @@ fs.writeFileSync(CYCLE_FILE, JSON.stringify(availableIndices, null, 2));
 const randomQuote = allQuotes[selectedIndex];
 
 // 4. Generate Title & Metadata for the new item
-// Remove HTML tags to create a clean text preview for the title
-let cleanText = randomQuote.replace(/<\/?[^>]+(>|$)/g, "").trim();
+let cleanText = randomQuote
+    // 1. Replace the entire <h3>...</h3> block with "Ajahn Chah:" 
+    // (If you want to keep the text inside the <h3>, see the alternative below)
+    .replace(/<h3.*?>[\s\S]*?<\/h3>/gi, "Ajahn Chah:") 
+    // 2. Remove all other remaining HTML tags (like <p> or <div>)
+    .replace(/<\/?[^>]+(>|$)/g, "")
+    // 3. Replace multiple spaces/newlines with a single space
+    .replace(/\s+/g, " ")
+    .trim();
+
 const words = cleanText.split(/\s+/);
 const titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
 
