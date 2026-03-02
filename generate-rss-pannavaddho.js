@@ -49,16 +49,19 @@ const randomQuote = allQuotes[selectedIndex];
 // Extract text between <h3> and </h3> tags
 const h3Match = randomQuote.match(/<h3>(.*?)<\/h3>/i);
 
-let titleText;
+let extractedTitle;
 if (h3Match && h3Match[1]) {
-    // Found an H3: Remove any nested HTML tags inside the H3 just in case
-    titleText = h3Match[1].replace(/<\/?[^>]+(>|$)/g, "").trim();
+    // Found an H3: Remove any nested HTML tags inside the H3
+    extractedTitle = h3Match[1].replace(/<\/?[^>]+(>|$)/g, "").trim();
 } else {
-    // Fallback: If no <h3> is found, use the old "first 25 words" method
+    // Fallback: If no <h3> is found, use the first 25 words
     let cleanText = randomQuote.replace(/<\/?[^>]+(>|$)/g, "").trim();
     const words = cleanText.split(/\s+/);
-    titleText = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
+    extractedTitle = words.slice(0, 25).join(' ') + (words.length > 25 ? '…' : '');
 }
+
+// Prepend the author's name to the final title
+const titleText = `A. Paññāvaddho: ${extractedTitle}`;
 
 const newItem = {
     title: titleText,
@@ -90,7 +93,7 @@ fs.writeFileSync(HISTORY_FILE, JSON.stringify(history, null, 2));
 const itemsXml = history.map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
-      <link>https://loicuaducphat.org</link>
+      <link>https://buddhanussati.github.io/dhamma-quotes/1/home</link>
       <description><![CDATA[
         ${item.content}
       ]]></description>
@@ -103,8 +106,8 @@ const pubDate = new Date().toUTCString();
 const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Ajahn Chah Quotes</title>
-    <link>https://loicuaducphat.org</link>
+    <title>Ajahn Paññāvaddho Quotes</title>
+    <link>https://buddhanussati.github.io/dhamma-quotes/1/home</link>
     <description>Dhamma quotes by Ajaan Paññāvaddho, updated every 6 hours</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <image>
