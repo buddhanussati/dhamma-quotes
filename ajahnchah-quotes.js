@@ -1,5 +1,5 @@
 const AjahnChahQuotesData = ` <div class="unit">
-    <h3 id="sigil_toc_id_0">Your Real Home:</h3>
+    <h3 id="sigil_toc_id_0">Your Real Home</h3>
 
     <p>Your external home isn’t your real home.</p>
 
@@ -14,7 +14,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_1">To the Ocean:</h3>
+    <h3 id="sigil_toc_id_1">To the Ocean</h3>
 
     <p>The streams, lakes, and rivers that flow down to the ocean, when they reach the ocean, all have the same blue color, the same salty taste.</p>
 
@@ -23,7 +23,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_2">Groundwater:</h3>
+    <h3 id="sigil_toc_id_2">Groundwater</h3>
 
     <p>The Buddha is the Dhamma; the Dhamma is the Buddha. The Dhamma the Buddha awakened to is something always there in the world. It hasn’t disappeared. It’s like groundwater. Whoever digs a well down to the level of the groundwater will see water. It’s not the case that that person created or fashioned the water into being. All he’s done is to put his strength into digging the well so that it’s deep enough to reach the water already there.</p>
 
@@ -32,14 +32,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_3">It’s All Right Here:</h3>
+    <h3 id="sigil_toc_id_3">It’s All Right Here</h3>
 
     <p>The Buddha is the Dhamma; the Dhamma is the Buddha. He didn’t take away the knowledge he awakened to. He left it right here. To put it in simple terms, it’s like the teachers in schools. They haven’t been teachers from birth. They had to study the course of study for teachers before they could be teachers, teaching in school and getting paid. After a while, they’ll die away—away from being teachers. But you can say that in a way the teachers don’t die. The qualities that make people into teachers remain right here. It’s the same with the Buddha. The noble truths that made him the Buddha still remain right here. They haven’t run off anywhere at all.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_4">Elephants, Oxen, & Water Buffaloes:</h3>
+    <h3 id="sigil_toc_id_4">Elephants, Oxen, & Water Buffaloes</h3>
 
     <p>Training the mind well is a useful activity. You can see this even in draft animals, like elephants, oxen, and water buffaloes. Before we can put them to work, we have to train them. Only when they’re well trained can we use their strength and put it to different purposes. All of you know this.</p>
 
@@ -50,7 +50,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_5">The Roots:</h3>
+    <h3 id="sigil_toc_id_5">The Roots</h3>
 
     <p>We’re like a tree with roots, a base, and a trunk. Every leaf, every branch, depends on the roots to absorb nutrients from the soil and send them up to nourish the tree.</p>
 
@@ -59,7 +59,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_6">The Lost Wallet:</h3>
+    <h3 id="sigil_toc_id_6">The Lost Wallet</h3>
 
     <p>It’s as if you leave home and lose your wallet. It fell out of your pocket onto the road away back there, but as long as you don’t realize what happened you’re at ease—at ease because you don’t yet know what this ease is for. It’s for the sake of dis-ease at a later time. When you eventually see that you’ve really lost your money: That’s when you feel dis-ease—when it’s right in your face.</p>
 
@@ -68,7 +68,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_7">Wagon Wheels, Wagon Tracks:</h3>
+    <h3 id="sigil_toc_id_7">Wagon Wheels, Wagon Tracks</h3>
 
     <p>The cycle of rebirth is like a wagon wheel. An ox is pulling the wagon. If it keeps on pulling the wagon without stop, the wagon tracks will keep on erasing the ox tracks without stop. The wagon wheels aren’t long, but they’re round. You could say that they’re long, but their length is round. We see their roundness but we don’t see their length. As long as the ox pulls without stopping, the wagon wheels turn without stopping.</p>
 
@@ -79,7 +79,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_8">A Block of Ice:</h3>
+    <h3 id="sigil_toc_id_8">A Block of Ice</h3>
 
     <p>If you place a large block of ice out in the open sun, you can see it deteriorate—in the same way the body ages—bit by bit, bit by bit. After only a few minutes, only a few hours, it will all melt into water. This is called <em>khaya-vaya:</em> ending, deterioration.</p>
 
@@ -90,7 +90,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_9">Children, Bullets:</h3>
+    <h3 id="sigil_toc_id_9">Children, Bullets</h3>
 
     <p>A gun shoots its children—its bullets—outward. We shoot ours inward, into our heart. When they’re good, we’re shot in the heart. When they’re bad, we’re shot in the heart. They’re an affair of kamma, our children. There are good ones, there are bad ones, but both the good and bad are our children all the same.</p>
 
@@ -99,7 +99,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_10">The Tail of the Snake:</h3>
+    <h3 id="sigil_toc_id_10">The Tail of the Snake</h3>
 
     <p>We human beings don’t want suffering. We want nothing but pleasure. But actually, pleasure is nothing but subtle suffering. Pain is blatant suffering. To put it in simple terms, suffering and pleasure are like a snake. Its head is suffering; its tail is pleasure. Its head contains poison. Its mouth contains poison. If you get near its head, it’ll bite you. If you catch hold of its tail it seems safe, but if you hold onto its tail without letting go, it can turn around and bite you just the same. That’s because both the head of the snake and the tail of the snake are on the same snake.</p>
 
@@ -110,7 +110,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_11">The King of Death:</h3>
+    <h3 id="sigil_toc_id_11">The King of Death</h3>
 
     <p>We live like a chicken who doesn’t know what’s going on. In the morning it takes its baby chicks out to scratch for food. In the evening, it goes back to sleep in the coop. The next morning it goes out to look for food again. Its owner scatters rice for it to eat every day, but it doesn’t know why its owner is feeding it. The chicken and its owner are thinking in very different ways.</p>
 
@@ -123,7 +123,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_12">The Beginning Is the End:</h3>
+    <h3 id="sigil_toc_id_12">The Beginning Is the End</h3>
 
     <p>When we’re born we’re already dead, you know. Aging and death are the same thing. It’s like a tree. Part of it’s the base; part of it’s the end at the tip. When there’s a base, there’s an end. When there’s an end, there’s a base. When there’s no base, there’s no end. When there’s an end, there has to be a base. An end without a base: That can’t be. That’s how it is.</p>
 
@@ -132,7 +132,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_13">Leaves:</h3>
+    <h3 id="sigil_toc_id_13">Leaves</h3>
 
     <p>When we sit in a quiet forest when there’s no wind, the leaves are still. When the wind blows, the leaves flutter.</p>
 
@@ -141,7 +141,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_14">Colored Water:</h3>
+    <h3 id="sigil_toc_id_14">Colored Water</h3>
 
     <p>Our heart, when it’s at normalcy, is like rainwater. It’s clean water, clear, pure, and normal. If we put green coloring in the water, yellow coloring in the water, the color of the water turns to green, turns to yellow.</p>
 
@@ -150,21 +150,21 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_15">Orphaned:</h3>
+    <h3 id="sigil_toc_id_15">Orphaned</h3>
 
     <p>Our mind, when there’s no one looking after it, is like a child without parents to look after it—an orphaned child, a child with no protector. A person without a protector suffers, and it’s the same with the mind. If it’s not trained, if its views aren’t straightened out into right views, it’s put to a lot of difficulties.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_16">Why It’s Heavy:</h3>
+    <h3 id="sigil_toc_id_16">Why It’s Heavy</h3>
 
     <p>When suffering arises, you have to see that it’s suffering, and to see what this suffering arises from. Will you see anything? If we look at things in an ordinary way, there’s no suffering. For example, while we’re sitting here, we’re at ease. But at another moment we want this spittoon, so we lift it up. Now things are different. They’re different from when we hadn’t yet lifted up the spittoon. When we lift the spittoon, we sense that we’re more weighed down. There’s a reason for it. Why do we feel weighed down if it’s not from having lifted the spittoon? If we don’t lift it, there’s nothing. If we don’t lift it, we feel light. So what’s the cause and what’s the result? All you have to do is observe just this much and you know. You don’t have to go off studying anywhere else. When we grasp onto something, that’s the cause of suffering. When we let go there’s no suffering.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_17">A Hypodermic Needle:</h3>
+    <h3 id="sigil_toc_id_17">A Hypodermic Needle</h3>
 
     <p>… This is suffering. Ordinary suffering is one thing; suffering above and beyond the ordinary is something else. The regular pains of this bodily fabrication—pains when you’re standing, pains when you’re sitting down, pains when you’re lying down: This sort of thing is ordinary suffering, the regular suffering of these bodily fabrications. The Buddha experienced feelings like these. He felt pleasures like these, pains like these, but he realized that they were ordinary. All these ordinary pleasures and pains he was able to bring to stillness because he understood them. He understood ordinary suffering: It was just the way it was. It wasn’t all that strong. Instead, he kept a look-out for visiting suffering, suffering above and beyond the ordinary.</p>
 
@@ -173,14 +173,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_18">Meat Stuck in Your Teeth:</h3>
+    <h3 id="sigil_toc_id_18">Meat Stuck in Your Teeth</h3>
 
     <p>Sensual desire is something hard to escape from. It’s no different from eating meat and getting a piece of meat stuck in your teeth. Boy, does it hurt! Even before you finish the meal, you have to take a toothpick to get it out. Once it’s out you feel relieved for a while and you don’t want to eat meat anymore. But when more meat comes your way, another piece gets stuck in your teeth. You take it out again and you feel relieved again. That’s all there is to sensual desire: nothing more than a piece of meat stuck in your teeth. You feel agitated and unsettled, and then you get it out of your system in whatever the way. You don’t understand what it’s all about. It’s crazy.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_19">A Thirst unto Death:</h3>
+    <h3 id="sigil_toc_id_19">A Thirst unto Death</h3>
 
     <p>It’s like a man with a strong thirst from having traveled a long way. He asks for water, but the person with the water tells him, “You can drink this water if you want. Its color is good, its smell is good, its flavor is good, but it’s poisonous, I want you to know. It can poison you to death or give you pains like death.” But the thirsty man won’t listen because he’s so thirsty.</p>
 
@@ -193,14 +193,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_20">Poking a Red Ants’ Nest:</h3>
+    <h3 id="sigil_toc_id_20">Poking a Red Ants’ Nest</h3>
 
     <p>Sensuality is like taking a stick and using it to poke a big red ants’ nest. The more we poke it, the more the red ants come falling on us, onto our face, into our eyes, stinging our ears and eyes. But we don’t see the drawbacks of what we’re doing. It’s all good as far as we can see. Understand that if you don’t see the drawbacks of these things you’ll never work your way free of them.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_21">A Frog on the Hook:</h3>
+    <h3 id="sigil_toc_id_21">A Frog on the Hook</h3>
 
     <p>Animals caught in traps and snares suffer. They’re tied down, strapped down tight. All they can do is wait for the hunter to come and get them. Like a bird caught in a snare: The snare pulls at its neck, and no matter how much it struggles it can’t get free. It keeps struggling, thrashing back and forth, but it’s trapped. All it can do is wait for the hunter. When the hunter comes, that’s it. That’s Mara. Birds are afraid of him; all animals are afraid of him because they can’t get away.</p>
 
@@ -209,7 +209,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_22">A Sense That Your Arm is Short:</h3>
+    <h3 id="sigil_toc_id_22">A Sense That Your Arm is Short</h3>
 
     <p>The Buddha’s teachings are direct, straightforward, and simple, but hard for someone who’s starting to practice them because his knowledge can’t reach them. It’s like a hole: People by the hundreds and thousands complain that the hole is deep because they can’t reach to its bottom. There’s hardly anybody who will say that the problem is that his arm is short.</p>
 
@@ -218,7 +218,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_23">Rowf! Rowf! Rowf!:</h3>
+    <h3 id="sigil_toc_id_23">Rowf! Rowf! Rowf!</h3>
 
     <p>I once saw a dog who couldn’t eat all the rice I had given it, so he lay down and kept watch over the rice right there. He was so full he couldn’t eat any more, but he still lay keeping watch right there. He would drift off and get drowsy, and then suddenly glance over at the food that was left. If any other dog came to eat, no matter how big or how small, he’d growl at it. If chickens came to eat the rice, he’d bark: Rowf! Rowf! Rowf! His stomach was ready to burst, but he couldn’t let anyone else eat. He was stingy and selfish.</p>
 
@@ -227,7 +227,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_24">The Dog on a Pile of Unhusked Rice:</h3>
+    <h3 id="sigil_toc_id_24">The Dog on a Pile of Unhusked Rice</h3>
 
     <p>… This is like a dog lying on a pile of unhusked rice. Its stomach is gurgling<em>—jawk, jawk—</em>and it lies there thinking, “Where can I get something to eat?” Its stomach is hungry, so it jumps off the pile of unhusked rice and goes looking for some garbage.</p>
 
@@ -238,7 +238,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_25">Mange:</h3>
+    <h3 id="sigil_toc_id_25">Mange</h3>
 
     <p>The Buddha said, “Monks, did you see the jackal running around here in the evening? Did you see him? Standing still it suffered. Running around it suffered. Sitting down it suffered. Lying down it suffered. Going into the hollow of a tree, it suffered. Going into a cave, it felt ill at ease. It suffered because it thought, ‘Standing here isn’t good. Sitting isn’t good. Lying down isn’t good. This bush isn’t good. This tree hollow isn’t good. This cave isn’t good.’ So it kept running all the time. Actually, that jackal has mange. Its discomfort doesn’t come from the bush or the tree hollow or the cave, from sitting, standing, or lying down. It comes from the mange.”</p>
 
@@ -249,7 +249,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_26">Maggots:</h3>
+    <h3 id="sigil_toc_id_26">Maggots</h3>
 
     <p>When we give rise to right view in our hearts, we can be at ease wherever we are. It’s because we still have wrong views, still hold onto ideas that are poisonous, that we’re not at ease. Holding on in this way is like being a maggot. Where it lives is filthy; its food is filthy. Its food isn’t fit to be food—but it seems fitting to the maggot. Try taking a stick and flicking it out of the excrement where it’s feeding, and see what happens. It’ll wiggle and wriggle, eager to get back to the pile of excrement where it was before. Only then does it feel right.</p>
 
@@ -258,7 +258,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_27">Rivers:</h3>
+    <h3 id="sigil_toc_id_27">Rivers</h3>
 
     <p>It’s like rivers that flow down to the lowlands. They flow down in line with their nature. The Ayutthaya River, the Muun River—whatever the river: They all flow downhill. None of them flow uphill. That’s the way they ordinarily are.</p>
 
@@ -267,7 +267,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_28">The Chicken & the Duck:</h3>
+    <h3 id="sigil_toc_id_28">The Chicken & the Duck</h3>
 
     <p>Two people see a chicken and a duck. The first person wants the chicken to be a duck, and the duck to be a chicken, but it simply can’t be. Throughout their life, it can’t happen. If the first person doesn’t stop thinking in this way, he’ll have to suffer. The second person sees the chicken as a chicken, and the duck as a duck. That way there’s no problem. When your views are right, there’s no suffering.</p>
 
@@ -278,7 +278,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_29">Salt That’s Not Salty:</h3>
+    <h3 id="sigil_toc_id_29">Salt That’s Not Salty</h3>
 
     <p>A monk who claimed to be a meditator once came and asked to live here with me. He asked about the way we practice, and I told him, “If you live with me, you can’t keep money or stored up things. I follow the Vinaya.”</p>
 
@@ -295,14 +295,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_30">The Lonely Path:</h3>
+    <h3 id="sigil_toc_id_30">The Lonely Path</h3>
 
     <p>Whatever there is in the mind: If our reasons aren’t yet good enough, we can’t let it go. In other words, there are two sides: this side here and that side there. People tend to walk along this side or along that side. There’s hardly anybody who walks along the middle. It’s a lonely path. When there’s love, we walk along the path of love. When there’s hatred, we walk along the path of hatred. If we try to walk by letting go of love and hatred, it’s a lonely path. We aren’t willing to follow it.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_31">A Thorn:</h3>
+    <h3 id="sigil_toc_id_31">A Thorn</h3>
 
     <p>Things are simply the way they are. They don’t give us suffering. Like a thorn: Does a sharp thorn give us suffering? No. It’s simply a thorn. It doesn’t give suffering to anybody. If we step on it, we suffer immediately.</p>
 
@@ -311,7 +311,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_32">Carrying a Rock:</h3>
+    <h3 id="sigil_toc_id_32">Carrying a Rock</h3>
 
     <p>“Letting go” actually means this: It’s as if we’re carrying a heavy rock. As we carry it, we feel weighed down but we don’t know what to do with it, so we keep on carrying it. As soon as someone tells us to throw it away, we think, “Eh? If I throw it away, I won’t have anything left.” So we keep on carrying it. We aren’t willing to throw it away.</p>
 
@@ -322,7 +322,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_33">A Splinter:</h3>
+    <h3 id="sigil_toc_id_33">A Splinter</h3>
 
     <p>The Buddha teaches us to escape through discernment. It’s like having a tiny splinter or thorn in our foot. As we walk along, there are times when it hurts and times when it doesn’t. If we ram it into a stump, it hurts. So we feel around on our foot but don’t feel the splinter, so we let the matter go. After a while, we’re walking along and we stub our toe on a bump, and the splinter starts hurting again. This keeps happening over and over again. Why? Because the splinter or thorn is still in our foot. It hasn’t yet come out. The pain keeps coming back. When it hurts, we feel for the splinter but we can’t find it, so we let the matter go. After a while it hurts again, so we feel for it again. This keeps happening again and again. When pain arises, we have to determine what it is. We don’t have to just let it go. When our foot hurts: “Oh. That damned thorn is still there.”</p>
 
@@ -333,7 +333,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_34">Groping for Fish:</h3>
+    <h3 id="sigil_toc_id_34">Groping for Fish</h3>
 
     <p>… As long as you don’t see the dangers of these things enough to let them go, don’t see the rewards that will come when you do, your work won’t achieve any purpose. It’s as if you’re just playing around with these things, scratching at them with your fingernails. If we see their drawbacks clearly, see the rewards that come from letting it go clearly—Ah!</p>
 
@@ -342,7 +342,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_35">A Spittoon:</h3>
+    <h3 id="sigil_toc_id_35">A Spittoon</h3>
 
     <p>About <em>anatta:</em> In simple terms this means “not-self.” But it depends on there being a sense of self; it depends on there being a sense of <em>atta.</em> That’s why there’s <em>anatta.</em> And it’s a correct <em>anatta,</em> too. When there’s no <em>atta, anatta</em> doesn’t appear. For example: You don’t have this spittoon in your house, so the affairs of this spittoon don’t bother you. Whether it breaks or gets cracked or gets stolen by thieves, none of these things bother your heart—because there’s no cause, no condition. How is that? Because there’s no spittoon in your house.</p>
 
@@ -353,7 +353,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_36">Peels & Husks:</h3>
+    <h3 id="sigil_toc_id_36">Peels & Husks</h3>
 
     <p>I’ll give you a simple comparison. Suppose you’ve bought a banana or a coconut in the market and you walk along carrying it. Someone asks you, “Why did you buy the banana?”</p>
 
@@ -388,7 +388,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_37">Doing the Math:</h3>
+    <h3 id="sigil_toc_id_37">Doing the Math</h3>
 
     <p>The Dhamma is like doing math. There’s multiplication, division, addition, and subtraction. If we can think in this way, we’ll be intelligent. We know the right time and place for things. We subtract when we should subtract, multiply when we should multiply, divide when we should divide, add together when we should add together. If we multiply every time, our hearts will die from the burden. In other words, we have no sense of enough. No sense of enough means no sense that we’re growing old.</p>
 
@@ -397,7 +397,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_38">The Broken Glass:</h3>
+    <h3 id="sigil_toc_id_38">The Broken Glass</h3>
 
     <p>Suppose you get a glass. You say, “This is mine, and it isn’t broken. Look after it well, okay? Don’t break my glass, okay?” But can you prevent something breakable from breaking? If it doesn’t break now, it’ll break later on. If you don’t break it, someone else will break it. If someone else doesn’t break it, a chicken will break it! The Buddha says to accept this. When he uses this good glass, he penetrates all the way to seeing that this glass is already broken. <em>He sees this glass that isn’t broken, and has us know that it’s already broken.</em> Whenever you pick up the glass, he was you say, “This glass is already broken.” Drink from it and put it down: He tells you that it’s already broken. Right? The Buddha’s understanding was like this. He saw the broken glass in the unbroken one. <em>Why did he know that it was broken? Because it isn’t broken.</em> That’s how he knew it as broken. “Whenever its time is up, it’ll break”: He developed this attitude and kept on using the glass. One day it slipped out of his hand: “Smash!” No problem. Why no problem? “Because I saw it as broken before it broke.” See?</p>
 
@@ -408,14 +408,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_39">Salt:</h3>
+    <h3 id="sigil_toc_id_39">Salt</h3>
 
     <p>If you do merit for the sake of putting an end to suffering, you have to make merit and develop skillful qualities in the mind at the same time. If you don’t develop skillful qualities, no discernment will arise. Merit on its own is like raw meat or raw fish. If you just let it sit out like that, it goes rotten. But if you salt it, it’ll last for a long time. Or the same if you put it in the refrigerator.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_40">An Upside-down Basin:</h3>
+    <h3 id="sigil_toc_id_40">An Upside-down Basin</h3>
 
     <p>Once we’ve abandoned doing evil, then even when we make merit only a bit at a time, there’s still hope that our perfections will grow full. Like a basin set upright out in the open: Even if rain falls only a drop at a time, there’s a chance that the basin will get full.</p>
 
@@ -424,14 +424,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_41">A Leaky Basin:</h3>
+    <h3 id="sigil_toc_id_41">A Leaky Basin</h3>
 
     <p>If we do evil and then try to plug the leak by doing good, it’s like plugging a leak in the bottom of a pot and pouring water in. Or like plugging a leak in the bottom of a basin and pouring water in. The bottom of the pot, the bottom of the basin, isn’t in good shape. Our abandoning of evil isn’t yet in good shape. If you pour water in, it all still seeps out and the basin goes dry. Even if you pour water in all day, it still seeps out bit by bit, and eventually there’s no water left. You don’t gain the benefits from it that you wanted.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_42">Water in a Jar:</h3>
+    <h3 id="sigil_toc_id_42">Water in a Jar</h3>
 
     <p>When no forms of evil are in our hearts, all our troubles disappear. A sense of coolness arises because we look after ourselves. The mind becomes virtuous. When it grows still, it becomes concentrated. When it’s still, it starts to bloom into discernment. We know how to make the mind clear and bright. Whatever’s evil, we let go. Whatever’s wrong, we put aside. We contemplate and put things aside, let them go.</p>
 
@@ -442,7 +442,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_43">A Mold:</h3>
+    <h3 id="sigil_toc_id_43">A Mold</h3>
 
     <p>You schoolteachers are a mold for forming people, so you should turn toward the direction of the Dhamma and practice the Dhamma. Behave yourselves in a way that can be an example for others. You’re like a mold for making Buddha amulets. Have you ever seen one? Just a single mold: They carve it well, carving the face, the eyebrows, the chin so that they aren’t crooked or missing anything, so that the Buddha amulets they stamp out of it will come out beautiful. And when they come out they really are beautiful because of that one good mold.</p>
 
@@ -451,7 +451,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_44">Vines:</h3>
+    <h3 id="sigil_toc_id_44">Vines</h3>
 
     <p>Children are like vines. Wherever a vine sprouts up, it has to look for a tree to climb up. If one tree is 15 centimeters away and another 10 meters away, which tree do you think the vine will climb up? It’ll climb up the nearest tree. It’s probably not going to climb up the tree 10 meters away because that one is too far off.</p>
 
@@ -460,7 +460,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_45">A Cup of Dirty Water:</h3>
+    <h3 id="sigil_toc_id_45">A Cup of Dirty Water</h3>
 
     <p>Lots of people come here with a high position in society and views about things: about themselves, about the practice of meditation, about the Buddha’s teachings. Some of them are wealthy merchants, some have degrees, some are teachers or government officials. Their brains are full of views about all kinds of things. They’re too clever to listen to other people. It’s like water in a cup. If the cup is full of dirty water, it can’t be used for anything. Only when you pour out the water can the cup be put to use. You have to empty your mind of views before you can learn.</p>
 
@@ -469,7 +469,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_46">Picking Mangoes:</h3>
+    <h3 id="sigil_toc_id_46">Picking Mangoes</h3>
 
     <p>If a mango is five meters off the ground and we want it, we can’t use a ten-meter picking pole to pick it, because it’s too long. We can’t use a two-meter picking pole either, because it’s too short.</p>
 
@@ -478,7 +478,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_47">Your Inner Tape Recorder:</h3>
+    <h3 id="sigil_toc_id_47">Your Inner Tape Recorder</h3>
 
     <p>The teachings I’ve given you today: If listening to this Dhamma has made your mind empty and still, that’s good enough. You don’t have to memorize anything. Some of you may not believe this. If you make your mind still and then allow whatever you hear to pass by, pass by, but you keep on contemplating, you’re like a tape recorder. Whenever it’s open like this, turned on like this, it’s all right here. Don’t be afraid that there won’t be anything. Every time you open your recorder, turn on your recorder, everything’s right there.</p>
 
@@ -487,7 +487,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_48">Balloons:</h3>
+    <h3 id="sigil_toc_id_48">Balloons</h3>
 
     <p>In the Buddha’s time, there were those who broke through to the highest level of Dhamma while sitting and listening to the Dhamma. They were fast. Like a balloon: The air in the balloon has the force to push itself out. As soon as you prick it just a little bit with a needle, it all comes gushing out at once.</p>
 
@@ -496,7 +496,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_49">No Match for an Ox:</h3>
+    <h3 id="sigil_toc_id_49">No Match for an Ox</h3>
 
     <p>An ox that’s been pulling a loaded wagon a long way—the closer the sun lowers to the horizon and evening comes on, the faster it walks, because it wants to reach its destination quickly. It misses its home.</p>
 
@@ -505,7 +505,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_50">The Heart Its Own Teacher:</h3>
+    <h3 id="sigil_toc_id_50">The Heart Its Own Teacher</h3>
 
     <p>Each of us here is the same. We’re no different from one another. We have no teacher at present—for if you’re going to awaken to the Dhamma, the heart has to teach itself. If it doesn’t teach itself, then no matter how much you have other people teach you, it won’t listen, it won’t understand. The heart itself has to be the teacher.</p>
 
@@ -514,7 +514,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_51">Water & Oil:</h3>
+    <h3 id="sigil_toc_id_51">Water & Oil</h3>
 
     <p>Water is different from oil, just as smart people are different from stupid people. The Buddha lived with sights, sounds, smells, tastes, tactile sensations, and ideas, but he was an arahant, so he saw these things as “just that,” that’s all. He kept on letting go, ever since he saw that the heart was just that—the heart, that’s all; thoughts were just that—thoughts, that’s all. He didn’t mix them together.</p>
 
@@ -523,7 +523,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_52">Supposed Monks, Genuine Monks:</h3>
+    <h3 id="sigil_toc_id_52">Supposed Monks, Genuine Monks</h3>
 
     <p>Once you’ve been ordained in the Buddha’s teachings, you’ve been supposed into being a monk. But you’re not yet a genuine monk, you know. You’re a monk as far as your body: the shaved head, the yellow robes. You’re a monk on the level of supposition.</p>
 
@@ -534,7 +534,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_53">Making Tables & Chairs:</h3>
+    <h3 id="sigil_toc_id_53">Making Tables & Chairs</h3>
 
     <p>It’s good to make the mind pure and at peace, but it’s hard. You have to start with the externals—your bodily actions and words—and work your way in. The path that leads to purity, to being a contemplative, is a path that can wash away greed, anger, and delusion. You have to exercise restraint and self-control, which is why it’s hard—but so what if it’s hard?</p>
 
@@ -545,7 +545,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_54">The Millipede:</h3>
+    <h3 id="sigil_toc_id_54">The Millipede</h3>
 
     <p>When lots of us come to live together, it’s easy to practice if our views are correct and in line with one another. When we’re willing to bend and abandon our pride in the same way, we all come together at the level of the Buddha, Dhamma, and Sangha. You can’t say that having a lot of monks interferes with your practice. It’s kind of like a millipede. A millipede has lots of legs. When you look at it, you think that it’s sure to get all confused with so many legs. But it walks. It walks back and forth, and there’s really no confusion. It has its rhythm, its order.</p>
 
@@ -554,14 +554,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_55">Sweeping:</h3>
+    <h3 id="sigil_toc_id_55">Sweeping</h3>
 
     <p>Our routines give us lots of strength. Wherever in the monastery you can do them—regardless of whether it’s your own hut or someone else’s: If it’s dirty or messy, straighten it out. You don’t have to do it for anyone’s sake. You don’t have to do it to impress anyone. You do it for the sake of your practice. When we sweep our huts, sweep our buildings, it’s as if we sweep all the dirty things out of our hearts, because we’re people who practice. I want each of us to have this attitude in our hearts. Then we won’t have to ask for harmony or cooperation. It’ll already be there.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_56">Planting Peppers:</h3>
+    <h3 id="sigil_toc_id_56">Planting Peppers</h3>
 
     <p>The Buddha our Teacher said that the way things go is up to them. If we stick with our effort in the practice, we can’t control whether it’ll go quickly or slowly. It’s like planting a pepper tree. The tree knows what it’s doing. If we want it to grow fast, we have to know that that’s an affair of delusion. If we want it to grow slowly, we have to know that that’s an affair of delusion. Only when we actually plant it will we get the fruit that we want.</p>
 
@@ -570,7 +570,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_57">The Way to the Monastery:</h3>
+    <h3 id="sigil_toc_id_57">The Way to the Monastery</h3>
 
     <p>Virtue, concentration, and discernment: These three things the Buddha called a path. The path isn’t the religion, and it’s not what the Buddha really wanted, but they’re the way we get there.</p>
 
@@ -581,14 +581,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_58">Medicine:</h3>
+    <h3 id="sigil_toc_id_58">Medicine</h3>
 
     <p>… It’s like a doctor handing a bottle of medicine to a patient with a fever. On the outside of the bottle is a label telling the different diseases the medicine can cure. As for the medicine that cures the diseases, it’s inside the bottle. If the patient spends all his time reading the label—even if he reads it a hundred times, a thousand times—he’ll end up dying and never get any benefit out of the medicine. He’ll then go around making a big fuss, complaining that the doctor is bad, the medicine can’t cure the diseases it’s claimed to cure, even though he never opened the cap on the bottle to take the medicine.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_59">Rubbing Fire Sticks:</h3>
+    <h3 id="sigil_toc_id_59">Rubbing Fire Sticks</h3>
 
     <p>The practice is like a man rubbing fire sticks together. He‘s heard people say, “Take two pieces of bamboo and rub them together, and you’ll get fire.” So he takes two pieces of bamboo and rubs them together. But his heart is impatient. After rubbing them together a bit he wants there to be fire. His heart keeps pushing for the fire to come quickly, but the fire just won’t come. He starts getting lazy, so he stops to rest. Then he tries rubbing the sticks together again for a little bit, and then stops to rest. Whatever warmth there was disappears, because the warmth isn’t connected.</p>
 
@@ -597,14 +597,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_60">The Key of Meditation:</h3>
+    <h3 id="sigil_toc_id_60">The Key of Meditation</h3>
 
     <p>Practice is like a key, the key of meditation. It doesn’t matter what the lock is like, for we have the key to the lock in our hand. We don’t care how tight the lock may be, for whenever we turn the key to open the lock we accomplish our purpose. If the lock doesn’t have a key, we can’t accomplish our purpose. Whatever’s locked in the box, we can’t get it out.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_61">Hot & Cold:</h3>
+    <h3 id="sigil_toc_id_61">Hot & Cold</h3>
 
     <p>… It’s the same as wherever fire is burning, wherever it’s hot, that’s where it goes out. Wherever it’s hot, you make it cool right there. In the same way, nibbana lies in the same place as samsara, the round of wandering-on; samsara lies in the same place as nibbana.</p>
 
@@ -613,14 +613,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_62">Against the Flow:</h3>
+    <h3 id="sigil_toc_id_62">Against the Flow</h3>
 
     <p>To practice is to go against the flow: against the flow of the currents in our heart, against the flow of defilement. Anything that goes upstream against the flow is bound to be hard. If you row a boat upstream, it’s hard. To build goodness and virtue is a little bit hard because we people have defilements. We don’t want to do it. We don’t want to be bothered. We don’t want to build endurance. We want for the most part to let things flow in line with our moods. Like water: It flows in line with its ways. If we let things flow in line with the water, it’s easy but it’s not practice. With practice you have to resist. You have to resist defilement, resist your own heart, force your own heart, increase your powers of endurance. That’s when your practice will go against the flow.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_63">The Cat:</h3>
+    <h3 id="sigil_toc_id_63">The Cat</h3>
 
     <p>Defilements are like cats. If you give a cat something to eat whenever it wants, it’ll keep coming back more and more often. But the day will come when it’ll scratch you if you don’t feed it. So you don’t have to feed it. It’ll keep meowing and meowing, but if you don’t feed it for a day or two, it’ll stop coming back.</p>
 
@@ -629,14 +629,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_64">Work First, Wages Later:</h3>
+    <h3 id="sigil_toc_id_64">Work First, Wages Later</h3>
 
     <p>Some people come and practice to get nothing but pleasure. But what does pleasure come from? What is its cause? All forms of pleasure have to come following from pain. Only then can there be pleasure. Whatever we do: We have to work first before we get the wages to buy things, don’t we? We have to work in the fields before we get rice to eat. Everything has to go through pain and suffering first.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_65">Eating Sugarcane:</h3>
+    <h3 id="sigil_toc_id_65">Eating Sugarcane</h3>
 
     <p>Have you ever eaten sugarcane? When you eat from the tip to the base, what is it like? The closer you get to the base, the sweeter it becomes—to the point where even when there’s only an inch left, you don’t want to throw it away. It seems such a waste. The ants want to eat it but you won’t let them have it.</p>
 
@@ -645,7 +645,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_66">The Fence:</h3>
+    <h3 id="sigil_toc_id_66">The Fence</h3>
 
     <p>As for the practice, start out by establishing your powers of endurance and then contemplate. Contemplate your activities, your comings and goings. Contemplate what you’re up to. Whatever arises, the Buddha has us know all around. Whatever direction things come in from, he has us know all around. If we know all around, whatever comes in this way, we see it. Whatever comes in that way, we see it. Right we know. Wrong we know. Happy we know. Glad we know. We know all around.</p>
 
@@ -656,7 +656,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_67">In the Shape of a Circle:</h3>
+    <h3 id="sigil_toc_id_67">In the Shape of a Circle</h3>
 
     <p>In practicing, don’t think that you have to sit in order for it to be meditation, that you have to walk back and forth in order for it to be meditation. Don’t think like that. Meditation is simply a matter of practice. Whether you’re giving a sermon, sitting here listening, or going away from here, keep up the practice in your heart. Be alert to what’s proper and what’s not.</p>
 
@@ -669,7 +669,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_68">Fires & Floods:</h3>
+    <h3 id="sigil_toc_id_68">Fires & Floods</h3>
 
     <p>The Buddha taught that this is the way the mind and body are. This is the way they’ll continue to be. They won’t be any other way. In other words, at first they arise, then they grow old, then they hurt, and then they die. This is such a genuine truth, grandma, that you’re experiencing in the present. It’s a noble truth. So look at it with discernment in order to see it, that’s all.</p>
 
@@ -678,28 +678,28 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_69">Putting Down the Glass:</h3>
+    <h3 id="sigil_toc_id_69">Putting Down the Glass</h3>
 
     <p>Practice by letting go. Don’t hold on. Or if you hold on, don’t hold on tight. Do you understand not holding on? This glass here: We hold on to it to pick it up and look at it. When we know all about it, we put it down. That’s called not holding on—in other words, holding on but not holding on tight. You hold on to take a look and to know, and then you put it down. You’re at ease. It’s the same with this ….</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_70">The Poisoned Banana:</h3>
+    <h3 id="sigil_toc_id_70">The Poisoned Banana</h3>
 
     <p>I came to live in a monastery, ordained as a novice, when I was nine. I kept trying to practice, but I didn’t understand much of anything in those days. I came to understand only when I was ordained as a monk. Oho! I saw the fear in everything. I looked at the sensuality with which people live, and instead of seeing it as fun as they did, I saw it more as suffering. It’s like a custard banana. When we eat it, it’s nice and sweet. We know the sweetness of its taste. But if we know that someone put poison in that banana, we don’t care how sweet it is if we know that we’ll die when we eat it, right? That’s the way my views always were. As I was about to eat, I’d always see the poison placed inside it. That’s how I kept pulling further and further away, to the point where I’ve stayed ordained for these many years. Once you see, that sort of thing doesn’t tempt you to eat.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_71">Studying vs. Going into Battle:</h3>
+    <h3 id="sigil_toc_id_71">Studying vs. Going into Battle</h3>
 
     <p>There have been some scholarly monks who’ve researched in the texts, who have studied a lot. I tell them to give the meditation a try. This matter of going by the book: When you study, you study in line with the texts, but when you go into battle, you have to go outside of the texts. If you simply fight in line with the texts, you’ll be no match for the enemy. When things get serious, you have to go outside of the texts.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_72">The Hand:</h3>
+    <h3 id="sigil_toc_id_72">The Hand</h3>
 
     <p>Those who study the texts and those who practice the Dhamma tend to misunderstand each other. Those who study the texts tend to say, “Monks who do nothing but practice simply speak in line with their views.” They say that without any evidence of any kind.</p>
 
@@ -712,7 +712,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_73">Written Words:</h3>
+    <h3 id="sigil_toc_id_73">Written Words</h3>
 
     <p>Stop. Put your scholarly knowledge in a bundle or a trunk. Don’t bring it out to speak. You can’t bring that kind of knowledge into here. Here it’s a new kind of knowledge. When things actually arise, it’s not the same sort of thing.</p>
 
@@ -721,7 +721,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_74">Falling Out of a Tree:</h3>
+    <h3 id="sigil_toc_id_74">Falling Out of a Tree</h3>
 
     <p>… It’s the same with dependent co-arising. “Ignorance is the condition for fabrications. Fabrications are the condition for consciousness. Consciousness is the condition for name and form.” We’ve studied this and memorized it, and it’s true, the way the Buddha has divided things up like this for students to study. But when these things actually arise, they’re too fast for you to count.</p>
 
@@ -730,21 +730,21 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_75">The Knife:</h3>
+    <h3 id="sigil_toc_id_75">The Knife</h3>
 
     <p>Exercising the body to strengthen it and exercising the mind to strengthen it are the same sort of thing, but the methods are different. In exercising the body, you have to move the different parts, but in exercising the mind you make it stop and rest, as when you do concentration. Try to get the mind to let go of everything. Don’t let it think about this, that, or anything at all. Get it to stay with one object. It’ll then gain strength. Discernment will arise. It’s like having a knife that you’ve kept well sharpened. If you just keep on using it to cut stones, cut bricks, cut grass, cut without choosing, the knife will lose its edge.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_76">Learning How to Write:</h3>
+    <h3 id="sigil_toc_id_76">Learning How to Write</h3>
 
     <p>Make sure you practice every day, every day. When you feel lazy, keep doing it. When you feel diligent, keep doing it. Practice the Dhamma whether it’s day or night. When the mind is at peace, keep doing it. When it isn’t at peace, keep doing it. It’s like when you were a child learning how to write. At first the letters didn’t look pretty. Their bodies were too long; their legs were too long. You wrote like a child. With time, though, the letters looked better because you practiced.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_77">The Child & the Adult:</h3>
+    <h3 id="sigil_toc_id_77">The Child & the Adult</h3>
 
     <p>Concentration and discernment have to go together. In the first stage, the mind will go into peace and quiet through the methods of concentration. The mind will be able to stay quiet only when you sit with your eyes closed. That’s tranquility. You have to depend on concentration as a foundation to help give rise to discernment or insight in the end. Then the mind will stay quiet whether you’re sitting with your eyes closed or walking in the middle of a frenzied city.</p>
 
@@ -753,28 +753,28 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_78">A Stick:</h3>
+    <h3 id="sigil_toc_id_78">A Stick</h3>
 
     <p>Meditation is like a stick. Insight lies on this end of the stick. Tranquility lies on that end of the stick. If you lift this stick up, will one end of the stick come up with it, or will both ends come up? If you lift it up, both ends will come up with it. Whatever’s insight, whatever’s tranquility, it’s all this mind.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_79">Painting a Picture:</h3>
+    <h3 id="sigil_toc_id_79">Painting a Picture</h3>
 
     <p>Success in the practice is connected with discernment: insight meditation, where discernment and the mind stay together. Some people don’t have to do very much and yet these things come together on their own. People with discernment don’t have to do much at all. Concentration is like being an artist. You look at something and you understand it. You understand it until it stays there in your heart. You can paint a picture out of what’s in your heart. You don’t have to sit right there in front of it and paint it from sight. The person who doesn’t understand is the one who has to sit there sketching until it seeps into his heart. With discernment you don’t have to sit there and sketch. You look and you understand. You can paint straight from your understanding. That’s the way it is.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_80">The Food You Like:</h3>
+    <h3 id="sigil_toc_id_80">The Food You Like</h3>
 
     <p>The object of your tranquility meditation, if it’s not in line with your character, won’t give rise to dispassion or chastened dismay. The object in line with your character is the one you find yourself thinking about often. We don’t usually notice this, but we should notice this to get some benefit out of it. It’s like lots of different foods arranged on a tray. You taste the food from each bowl, each type of food, and you’ll know for yourself which ones you like, which ones you don’t. The ones you like you’ll say are more delicious than the others. Here I’m speaking about the food. You can compare it to your meditation. Whichever object is in line with your character will feel comfortable.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_81">Catching a Lizard:</h3>
+    <h3 id="sigil_toc_id_81">Catching a Lizard</h3>
 
     <p>The way to focus your mind on an object, to catch hold of the object, is to acquaint yourself with your mind and to acquaint yourself with your objects. It’s like the way men catch a lizard. The lizard lies inside the hollow of a termite’s nest with six holes. The men close off five of the holes, leaving just one hole for the lizard to come out. Then they sit there watching that one hole. When the lizard comes out, they can catch it.</p>
 
@@ -785,7 +785,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_82">Water Drops, Water Streams:</h3>
+    <h3 id="sigil_toc_id_82">Water Drops, Water Streams</h3>
 
     <p>Everything is right here, starting with your own heart and mind. In simple terms, you should all have the five precepts as your foundation. You don’t have to go study the Pali Canon. Watch your five precepts. Keep working at them always. Do this with care. At first you’ll make mistakes. When you realize it, stop, come back, and start over again. Maybe you’ll go astray and make another mistake. Call yourself back, each and every time, each and every time.</p>
 
@@ -794,7 +794,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_83">Herding Water Buffalo:</h3>
+    <h3 id="sigil_toc_id_83">Herding Water Buffalo</h3>
 
     <p>… It’s the same with the practice. When we keep watch over our mind, when awareness keeps watch over its own mind, whoever keeps track of the mind will escape from Mara’s snares.</p>
 
@@ -811,7 +811,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_84">Beating the Buffalo:</h3>
+    <h3 id="sigil_toc_id_84">Beating the Buffalo</h3>
 
     <p>The mind is like the buffalo. Its objects are like the rice plants. Awareness is like the buffalo’s owner. What do you do when you keep herd on a buffalo? You let the buffalo loose, but you try to keep watch over it. If it gets near the rice plants, you yell at it. When the buffalo hears you, it’ll back off. But you can’t be complacent. If it’s stubborn and won’t listen to you, you have to take a heavy stick and really beat it.</p>
 
@@ -820,7 +820,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_85">Teaching a Child:</h3>
+    <h3 id="sigil_toc_id_85">Teaching a Child</h3>
 
     <p>… So in this practice we’re told to sit. That’s the practice of sitting. And then you keep watching. There will be good moods and bad moods all mixed together in line with their normal nature. Don’t simply praise your mind; don’t simply punish it. Have a sense of time and place with it. When the time comes to praise it, give it a little praise—just enough, don’t spoil it. It’s like teaching a child. Sometimes you have to spank it. Take a small switch and spank it. You can’t <em>not</em> spank it. In other words, you have to punish it sometimes.</p>
 
@@ -829,28 +829,28 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_86">Standard Form:</h3>
+    <h3 id="sigil_toc_id_86">Standard Form</h3>
 
     <p>The standard way to sit in concentration is to sit with your legs crossed, right leg on top of the left leg, right hand on top of the left hand. Sit up straight. Some people say you can do it walking, you can do it sitting, so can you do it kneeling? Sure—but you’re beginning students. When you learn how to write, you have to practice making clear letters first, with all their parts. Once you understand your letters and you’re writing just for yourself to read, you can write in a scrawl if you want. It’s not wrong. But you have to learn the standard form first.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_87">Sowing Rice:</h3>
+    <h3 id="sigil_toc_id_87">Sowing Rice</h3>
 
     <p>Sit watching your in-and-out breath. Stay relaxed and comfortable, but don’t let yourself get distracted. If you’re distracted, stop. Look to see where the mind went and why it isn’t following the breath. Go looking for it and bring it back. Get it to keep running along with the breath, and one of these days you’ll come across something good. But keep on doing what you’re doing. Do it as if you’re not expecting to get anything from it, nothing will happen, you don’t know who’s doing it—but you keep on doing it. It’s like taking rice from the granary and sowing it on the ground. It looks like you’re throwing it away. You scatter it all over the ground as if you’re not interested in it. But it’ll turn into sprouts and plants. You put the plants in the paddies, and in return you get to eat rice treats. That’s just how it goes.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_88">Teaching a Child:</h3>
+    <h3 id="sigil_toc_id_88">Teaching a Child</h3>
 
     <p>Sometimes the breath isn’t right. It’s too long, too short, and it puts you in a frenzy. That’s because you’re fixing your mind too strongly on it, you’re squeezing it too much. It’s like teaching a child how to sit. If you beat it every time, will it become intelligent? You’re controlling it too much. It’s the same here. Think about it: When you walk from your house to your orchard, or from your house to your workplace, why aren’t you irritated by the breath? Because you don’t grab hold of it. You leave it alone in line with its affairs. The parts of the body that hurt are because you focus and fix your mind on them too strongly.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_89">Sending off a Relative:</h3>
+    <h3 id="sigil_toc_id_89">Sending off a Relative</h3>
 
     <p>Watch the breath. Focus on the breath. Gather the mind at the breath. Just be aware at the breath. You don’t have to be aware of anything else. Keep making your awareness more and more refined until it feels very small, but extremely awake.</p>
 
@@ -861,7 +861,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_90">Keeping Watch:</h3>
+    <h3 id="sigil_toc_id_90">Keeping Watch</h3>
 
     <p>If you’re forgetful for a minute, you’re crazy for a minute. If your mindfulness lapses two minutes, you’re crazy for two minutes. If it lapses for half a day, you’re crazy for half a day. That’s how it is.</p>
 
@@ -872,7 +872,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_91">Receiving Visitors:</h3>
+    <h3 id="sigil_toc_id_91">Receiving Visitors</h3>
 
     <p>Make your mind aware and awake. Keep looking after it. If anyone comes to visit, wave them away. There’s no place for them to sit, for there’s only one seat. Try to sit here receiving visitors all day long. This is what’s meant by <em>“buddho.”</em> Stay firmly right here. Keep this awareness going so that it can look after the mind. As you sit right here, all the visitors that have been coming to visit since way back when—when you were born little and tiny—will come right here where you <em>“buddho”</em> all by yourself.</p>
 
@@ -881,14 +881,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_92">Chicken in a Cage:</h3>
+    <h3 id="sigil_toc_id_92">Chicken in a Cage</h3>
 
     <p>When mindfulness and the mind in charge come together, there’s a kind of feeling. If the mind is ready to be at peace, it’ll be caged in a peaceful place, like a chicken we’ve put into a cage. The chicken doesn’t leave the cage but it can walk back and forth in the cage. Its walking back and forth is no problem, for it’s walking back and forth in the cage. The feelings of the mind when we use mindfulness to keep it at peace, the feelings in that peaceful place, aren’t anything that will stir us up. In other words, when it feels, when it thinks, let it feel within the peace. It’s no problem.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_93">A Mischievous Child:</h3>
+    <h3 id="sigil_toc_id_93">A Mischievous Child</h3>
 
     <p>It’s as if a mischievous child is having some fun, irritating us until we have to yell at it and spank it. We have to understand that that’s simply the nature of the child. When you understand this, you can let the child go ahead and play. Your sense of bother and irritation will disappear because you’re willing to accept the nature of the child. That’s how your feelings about the matter change.</p>
 
@@ -897,14 +897,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_94">Living with a Cobra:</h3>
+    <h3 id="sigil_toc_id_94">Living with a Cobra</h3>
 
     <p>Remember this: All the objects of the mind, regardless of whether they’re things you like or things you don’t like, are like poisonous cobras. If they attack and bite you, you can die. Objects are like cobras whose poison is fierce. The objects we like have lots of poison. The objects we don’t like have lots of poison. They can keep the mind from being free. They can make it go astray from the principles of the Buddha’s Dhamma.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_95">Leaving the Cobra Alone:</h3>
+    <h3 id="sigil_toc_id_95">Leaving the Cobra Alone</h3>
 
     <p>Objects and moods of the mind are like cobras whose poison is fierce. If nothing gets in the way of the cobra, it slithers along in line with its nature. Even though it contains poison, it doesn’t show it. It doesn’t cause us any danger because we don’t get near it. The cobra just goes along in line with its cobra affairs. It keeps going that way.</p>
 
@@ -913,7 +913,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_96">A Kiln:</h3>
+    <h3 id="sigil_toc_id_96">A Kiln</h3>
 
     <p>Be intent. Just sitting there with your eyes closed is not going to give rise to discernment. Your eyes, ears, nose, tongue, body, and mind are always there. If you’re always alert, you’ll get to learn from them all the time. Outside, you see leaves, you see animals, and you learn from them if you bring them in and make them <em>opanayika:</em> pertinent inside. You see clearly within you in a way that’s <em>paccattam:</em> personal. Even when external preoccupations come and strike you internally, you learn your personal lessons. You don’t throw them away.</p>
 
@@ -924,14 +924,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_97">Fallen Mangoes:</h3>
+    <h3 id="sigil_toc_id_97">Fallen Mangoes</h3>
 
     <p>Use your stillness to contemplate sights, sounds, smells, tastes, tactile sensations, and ideas that make contact, regardless of whether they’re good or bad, happy or sad. It’s as if a person has climbed a mango tree and is shaking it so that the mangoes fall to the ground. We’re under the tree, gathering up the mangoes. We don’t take the ones that are rotten. We take only the ones that are good. It doesn’t waste our strength because we haven’t climbed the mango tree. We just pick up what’s on the ground.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_98">The Spider:</h3>
+    <h3 id="sigil_toc_id_98">The Spider</h3>
 
     <p>I got a good example from watching spiders. A spider makes a web like a net. It weaves its web and spreads it at different openings. I once sat and contemplated one. It hung up its web like a movie screen, and when it was done it curled itself up quietly right in the middle of the web. It didn’t run around. As soon as a fly or another insect flew into its web, the web would vibrate. As soon as the web vibrated, the spider came running out of its place and caught the insect for food. When it was finished, it curled itself up in the middle of the web as before. It didn’t matter what kind of insect got caught in its web, a bee or whatever: As soon as the web vibrated, the spider ran out to catch it. Then it would go back and hold on, quiet in the middle of the web where no one could see it, every time.</p>
 
@@ -944,7 +944,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_99">Wild Chickens:</h3>
+    <h3 id="sigil_toc_id_99">Wild Chickens</h3>
 
     <p>I’ll give you a simple example. It’s like wild chickens. We all know what wild chickens are like. There’s no animal in the world more wary of human beings. When I first came to this forest, I taught the wild chickens. I observed them and learned many lessons from them.</p>
 
@@ -961,7 +961,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_100">Monkeys:</h3>
+    <h3 id="sigil_toc_id_100">Monkeys</h3>
 
     <p>Let me give you an example. Suppose you have a pet monkey at home. My monastery has a pet monkey, too. When you’re home and have a pet monkey, the monkey doesn’t sit still. Now it grabs this; now it goes there—all kinds of things. That’s how monkeys are. Now you come to my monastery. I have a monkey here too, and this monkey doesn’t sit still either. Now it grabs this; now it goes there, but it doesn’t irritate you, does it? Why? Because you’ve already had a pet monkey. You’re familiar with monkeys. “My monkey at home is just like this monkey here. Staying at your monastery is just like staying at home. It’s the same monkey.” If you know just one monkey, then no matter how many provinces you go to, you see the same monkey, and it doesn’t irritate you, right? That’s someone who understands monkeys.</p>
 
@@ -972,7 +972,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_101">The Tree Pulls Itself Down:</h3>
+    <h3 id="sigil_toc_id_101">The Tree Pulls Itself Down</h3>
 
     <p>Craving and desire lead us to suffering. But if we contemplate, our contemplation leans out from craving. It contemplates craving, and it pulls on the craving, shakes it up, so that it goes away or lessens on its own.</p>
 
@@ -981,14 +981,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_102">Heavy Lifting:</h3>
+    <h3 id="sigil_toc_id_102">Heavy Lifting</h3>
 
     <p>Mindfulness and alertness are like two people lifting a heavy log. A third person is watching and when he sees that the log is heavy, he comes to help. When it’s heavy like that, he can’t <em>not</em> help. He has to help. The person helping here is discernment. It can’t stay still. When there’s mindfulness and alertness, discernment has to run in and join them.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_103">Bottled Water, Spring Water:</h3>
+    <h3 id="sigil_toc_id_103">Bottled Water, Spring Water</h3>
 
     <p>It’s like putting water in a bottle and giving it to someone to drink. Once he’s finished drinking it, he’ll have to come back and ask for more—for the water isn’t water in a spring. It’s water in a bottle. But if you show the spring to the person and tell him to get water there, he can sit there and keep on drinking water and won’t ask you for any more, for the water never runs out.</p>
 
@@ -997,14 +997,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_104">Still, Flowing Water:</h3>
+    <h3 id="sigil_toc_id_104">Still, Flowing Water</h3>
 
     <p>Have you ever seen flowing water? Flowing water: Have you ever seen it? Have you ever seen still water? If your mind is peaceful, it’s kind of like still, flowing water. Have you ever seen still, flowing water? <em>[Laughs]</em> There! You’ve only seen still water and flowing water. You’ve never seen still, flowing water. Right there, right where your thinking can’t take you: where the mind is still but can develop discernment. When you look at your mind, it’ll be kind of like flowing water, and yet it’s still. It looks like it’s still, it looks like it’s flowing, so it’s called still, flowing water. That’s what it’s like. That’s where discernment can arise.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_105">The Log in the Canal:</h3>
+    <h3 id="sigil_toc_id_105">The Log in the Canal</h3>
 
     <p>It’s like cutting a log, throwing it into a canal, and letting it flow along with the water in the canal. If it doesn’t get worm-eaten, doesn’t rot, doesn’t get smashed, doesn’t get snagged on this bank or that bank, it’ll keep flowing down the canal. I’m convinced that it’ll ultimately reach the ocean.</p>
 
@@ -1013,14 +1013,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_106">Waves Coming Ashore:</h3>
+    <h3 id="sigil_toc_id_106">Waves Coming Ashore</h3>
 
     <p>Suffering and mental stress aren’t for sure. They’re inconstant. Keep this point in mind. When these things arise, we know them right now and we let them go. This strength of mind will gradually see more and more. When it’s grown more resilient, it can suppress defilements extremely fast. As time passes, whatever arises right here disbands right here, like waves on the sea coming ashore. As soon as they reach the shore they simply dissolve. A new wave comes and it dissolves too. It can’t go beyond the shore. Inconstancy, stress, and not-self are the shore of the sea. As for the sense objects that come passing in, that’s all there is to them.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="sigil_toc_id_107">The Saw:</h3>
+    <h3 id="sigil_toc_id_107">The Saw</h3>
 
     <p>… But when the mind sees and knows everything, it doesn’t carry the Dhamma along with it. Like this saw: They’re going to use it to cut wood. When all the wood is cut and everything is done, they put the saw away. They don’t need to use it anymore. The saw is the Dhamma. We have to use the Dhamma to practice the paths leading to the fruitions. When the job is done, we put the Dhamma that’s there away. Like a saw used to cut wood: They cut this piece, cut that piece. When they’re finished cutting, they put the saw away here. When that’s the case, the saw has to be the saw; the wood has to be the wood.</p>
 
@@ -1029,7 +1029,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
   
   <div class="unit">
-    <h3 id="ajch_toc_id_0">A Bird in a Cage:</h3>
+    <h3 id="ajch_toc_id_0">A Bird in a Cage</h3>
 
     <p>Use the mind to contemplate the body so that you’re familiar with it. When you’re familiar with it, you’ll see that it’s not for sure—every part of it is inconstant. When you see in this way, your mind will give rise to a sense of disenchantment—disenchanted with the body and mind because they’re not for sure, they’re unreliable. So you want to find a way out, a way to gain release from suffering and stress.</p>
 
@@ -1040,14 +1040,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_1">The Power of the Dhamma:</h3>
+    <h3 id="ajch_toc_id_1">The Power of the Dhamma</h3>
 
     <p>The teachings of the Buddha get rid of people and give rise to venerables. In other words, they get rid of what’s wrong in the mind. Only then can what’s right arise. They get rid of what’s evil so that goodness can arise. As when your house is dirty: If you sweep it out and wipe away the dirt, it’ll be clean—because the dirt is gone. As long as what’s wrong in the mind isn’t gone, what’s right can’t arise. If you don’t meditate, you won’t know the truth. The Buddha’s Dhamma is very powerful. If it couldn’t change your heart, it wouldn’t be a Dhamma with any power. But the Dhamma can turn ordinary people into noble ones, because it enables people with wrong views to give rise to right views.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_2">Your Own Witness:</h3>
+    <h3 id="ajch_toc_id_2">Your Own Witness</h3>
 
     <p>With the Dhamma, it’s like going to the home of friends or relatives and they give you some fruit. When you take the fruit in your hand, you don’t know whether it’s sour, sweet, or unripe. In other words, if you simply hold the fruit in your hand, you can’t know its taste. To know the taste, you have to bite into it and chew it. That’s when you’ll know that it’s sour or sweet or what its various flavors are, in line with your own perceptions.</p>
 
@@ -1056,7 +1056,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_3">The Language of the Dhamma:</h3>
+    <h3 id="ajch_toc_id_3">The Language of the Dhamma</h3>
 
     <p>All languages come together in the language of the Dhamma. I’ll give you a simple example. When we boil water for tea so that it’s hot, the word “hot” in Thai is <em>rawn.</em> In Isaan it’s <em>hawn.</em> In English, they say, <em>hot.</em> That’s the way it is.</p>
 
@@ -1065,7 +1065,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_4">Open Your Eyes:</h3>
+    <h3 id="ajch_toc_id_4">Open Your Eyes</h3>
 
     <p>People, if they don’t feel pain, don’t open their eyes. If they’re happy, everything shuts down and they get lazy. When suffering stabs you: That’s what gets you thinking, and you can really expand your awareness. The greater the pain, the more you have to investigate it to see what causes it. You can’t just sit there and let the pain go away on its own. Right now my arm feels heavy—why? Because I’ve picked up this glass. If I let it go, the glass won’t be heavy, or at least won’t be heavy on me, because I’m not connected with it.</p>
 
@@ -1074,7 +1074,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_5">Dyeing the Cloth:</h3>
+    <h3 id="ajch_toc_id_5">Dyeing the Cloth</h3>
 
     <p>Our Lord Buddha wanted us to get our foundation in good shape first, get everything clear and clean first. It’s like building a house or a building. We have to inspect the ground, the area where we’re going to put up the building, so that it’s in proper shape. Or like dyeing cloth: If you want to dye a piece of cloth, you have to look it over to see if it’s dirty. If it’s dirty, you have to wash it in detergent until it’s clean. Only then will it take the color when you dye it. In other words, wash it until it’s clean, and then it will take the dye. It’s the same with making merit. You first have to make your mind clean.</p>
 
@@ -1083,7 +1083,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_6">Remove the Weeds:</h3>
+    <h3 id="ajch_toc_id_6">Remove the Weeds</h3>
 
     <p>For your vegetable to grow big and beautiful, you have to remove the weeds. That’s when your vegetables will have a chance to grow large and beautiful—because you’ve removed the weeds. You’ve removed the bad things around the vegetables, so the vegetables can grow. It’s the same with our body, speech, and mind. If we remove our bad actions, then our goodness—our virtue—will grow. So take the precepts and follow them with restraint, with care.</p>
   </div>
@@ -1099,14 +1099,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_8">Awakening to the Dhamma:</h3>
+    <h3 id="ajch_toc_id_8">Awakening to the Dhamma</h3>
 
     <p>Reaching the Dhamma, awakening to the Dhamma: These things sound awfully exalted, too exalted to talk about. But actually, people like us are on a level where we can reach the Dhamma. Reaching the Dhamma is understanding, “This is evil. It’s wrong and doesn’t benefit me or anyone else at all.” When you understand in this way, that’s called reaching the Dhamma of what should be abandoned. This is what’s called awakening to the Dhamma. It’s like going to a boat landing. When you’ve arrived at the landing, you’ve reached the landing. When you come up here to the meeting hall, you’ve reached the meeting hall. When you’re correctly acquainted with the truth, that’s what’s meant by reaching the truth, reaching the Dhamma. When you’ve reached the Dhamma, your defilements gradually fade away and decrease. When your views are right, it’s normal that you’ll abandon your wrong views.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_9">Knowledge & Goodness:</h3>
+    <h3 id="ajch_toc_id_9">Knowledge & Goodness</h3>
 
     <p>Knowledge is like a knife. You hone it until it’s sharp—really sharp. Then you put it away. The knife can cause both benefits and harm. When a person of discernment uses it, it’s sharp. A person of discernment can get lots of benefits from it because it’s sharp. But a person without discernment can use it to destroy the nation, destroy happiness, destroy harmony—all kinds of things. And he can do it easily because the knife is sharp.</p>
 
@@ -1117,7 +1117,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_10">Goodness Without Discernment:</h3>
+    <h3 id="ajch_toc_id_10">Goodness Without Discernment</h3>
 
     <p>Skillfulness doesn’t focus only on pleasure or happiness. It has to see where that happiness comes from and what it’s like. You have to use your discernment to see what it comes from.</p>
 
@@ -1134,14 +1134,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_11">Genuine Wealth:</h3>
+    <h3 id="ajch_toc_id_11">Genuine Wealth</h3>
 
     <p><em>Silena bhoga-sampada:</em> A person with virtue has wealth. In terms of external wealth, all the things that we search out for our livelihood will be Right Livelihood. The things we gain from Right Livelihood, even if they’re not much, are large. They’re large because they have value. That’s why they count as <em>bhoga-sampada:</em> consummation in terms of wealth. Like diamonds and jewels: Even tiny pieces have a high price because they’re free of things that are worthless. All the things that we use to maintain our livelihood: If they’re free of harm, they have value. They’re wealth.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_12">Seeing the Fullness:</h3>
+    <h3 id="ajch_toc_id_12">Seeing the Fullness</h3>
 
     <p>When you make merit, what is merit? It’s correctness. In other words, it’s bringing the mind to peace, away from all kinds of evil. All of you lay people have gathered to make merit, but when you look for the merit, each of you has to look for yourself. These things you’ve brought here are objects—lots of different objects. It’s like eating. You gain delicious tastes because of objects. But when you’re full, where is the fullness? You don’t know.</p>
 
@@ -1154,7 +1154,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_13">The Teacup:</h3>
+    <h3 id="ajch_toc_id_13">The Teacup</h3>
 
     <p>I’ll tell you a story about the Supreme Patriarch, something I’ve heard from other people. He went to China and, when he arrived, the Chinese gave him a teacup. It was really beautiful. There was nothing like it in Thailand. And as soon as he received the teacup, he suffered: Where was he going to put it? Where was he going to keep it? He put it in his shoulder bag. If anyone touched his shoulder bag, he’d say, “Watch out. Don’t break the teacup. Watch out for the thing that can break in there.” So he was always worried about it, suffering from it: suffering from having and then clinging. That’s what made him suffer.</p>
 
@@ -1165,14 +1165,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_14">Pouncing on Fire:</h3>
+    <h3 id="ajch_toc_id_14">Pouncing on Fire</h3>
 
     <p>We should all train our heart, look after our mind. Our mind, when it’s not trained, is like a small, innocent child that doesn’t know anything. Whatever it comes across, it pounces. If it comes across water, it pounces on the water. If it comes across fire, it pounces on the fire. It keeps causing harm to itself.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_15">Learning about Fire:</h3>
+    <h3 id="ajch_toc_id_15">Learning about Fire</h3>
 
     <p>When you see the harm of what you’re doing, you can stop. You watch it until you can stop, until you can give it up. It’s like lighting a lantern and letting your child loose. The child doesn’t know anything. It crawls over and tries to catch hold of the flame. Then it’ll start crying. The next day, if you try to take the child to the flame, it won’t touch it, for it’s seen the harm from the day before. It’ll stop trying to catch it.</p>
 
@@ -1181,7 +1181,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_16">Teaching from the Top:</h3>
+    <h3 id="ajch_toc_id_16">Teaching from the Top</h3>
 
     <p>The way we teach when we follow the Buddha’s teachings is that virtue comes first, concentration comes in the middle, and discernment comes at the end. That’s how we memorize these things. But with some people, you don’t teach virtue first. You get them to sit until their minds are quiet. You don’t yet talk about, one, virtue; two, concentration; three, discernment. Have them sit until their minds are quiet. When they’re quiet, they’ll sense things on their own. It’s as if there were a poisonous snake under a piece of cloth right here. We can stand on the cloth and feel relaxed because we don’t know it’s there. But when the mind is quiet, we’ll sense that something is wrong.</p>
 
@@ -1192,7 +1192,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_17">Drop after Drop:</h3>
+    <h3 id="ajch_toc_id_17">Drop after Drop</h3>
 
     <p>When contemplating a meditation object, check to see which object is right for you. It’s like food on a tray. You have to contemplate for yourself to choose which foods are right for the conditions of your body. In the same way, you choose a meditation object right for you. The in-and-out breath. Or you can contemplate the body.</p>
 
@@ -1201,14 +1201,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_18">Just Right:</h3>
+    <h3 id="ajch_toc_id_18">Just Right</h3>
 
     <p>Ever notice how the Buddha image is sitting? Is his head bent back? Is it hanging down in front? He’s sitting there just right. So right now, let’s make our bodies just right, our minds just right. If the mind and body aren’t just right, there won’t be any stillness. Have you ever noticed that things whose goodness isn’t just right aren’t really good? When things are good, it’s because their goodness is just right in every way. You don’t have to look far away. It’s like the curry we eat. If it’s too salty, is it good? If it’s too bland, is it good? When a cook fixes curry, she puts everything together just right. She aims at “just right.” So today let’s make our bodies just right, our minds just right.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_19">Everything Gathers in the Ocean:</h3>
+    <h3 id="ajch_toc_id_19">Everything Gathers in the Ocean</h3>
 
     <p>The water in the ocean comes from little rivers. They flow into the ocean from different directions, but they all come together there.</p>
 
@@ -1217,14 +1217,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_20">Coconut Water:</h3>
+    <h3 id="ajch_toc_id_20">Coconut Water</h3>
 
     <p>The crude, beginning level of the practice is a little hard to maintain, but the refined levels of virtue, concentration, and discernment all come out of this. It’s as if they’re distilled from this same thing. To put it in simple terms, it’s like a coconut tree. A coconut tree absorbs ordinary water up through its trunk, but when the water reaches the coconuts, it’s sweet and clean. It comes from ordinary water, the trunk, the crude dirt. But as the water gets absorbed up the tree, it gets distilled. It’s the same water but when it reaches the coconuts it’s cleaner than before. And sweet. In the same way, the virtue, concentration, and discernment of your path are crude, but if the mind contemplates these things until they’re more and more refined, their crudeness will disappear. They get more and more refined, so that the area you have to maintain grows smaller and smaller, into the mind. Then it’s easy.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_21">Patience:</h3>
+    <h3 id="ajch_toc_id_21">Patience</h3>
 
     <p>Desire is something known right at the mind. We’re like fishermen who go out to cast their nets. As soon as they catch a fish, they rush to pounce on it, which scares the fish away. The fishermen are afraid that the fish will escape from the net. When that’s the case, the fish are confused and hard to control, and so they quickly escape from the net.</p>
 
@@ -1237,7 +1237,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_22">The Dhamma in a Pot:</h3>
+    <h3 id="ajch_toc_id_22">The Dhamma in a Pot</h3>
 
     <p>When cooked rice is just sitting in the pot, what purpose does it serve? If we don’t practice with it—if we don’t spoon it onto a plate, add a little curry and pepper sauce, and then eat it—what purpose will it serve? Even though the rice is good. The Buddha’s teachings are the cooked rice in a pot. If we just keep the teachings there in the pot, what purpose will they serve? They just stay there in the pot. If you cook good jasmine rice and then just set it high on the table, will it give you any flavor? Will it make you full?</p>
 
@@ -1246,7 +1246,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_23">Chickens Coming to the Monastery:</h3>
+    <h3 id="ajch_toc_id_23">Chickens Coming to the Monastery</h3>
 
     <p>Some people come to the monastery but never come to the meditation hall to hear the Dhamma. They sit way out there, chatting with their children and grandchildren, and don’t understand anything. This isn’t coming into the monastery like people. This is coming into the monastery like chickens. Chickens bring their baby chicks into the monastery, scratching around for dog shit and pig shit. They’re not looking for anything else. This is not the right way to come to a monastery. It’s coming into the monastery without seeing the monastery, coming into the monastery without seeing monks. It’s like a fish living in water without seeing water, or an earthworm living in the dirt, eating the dirt, but not seeing the dirt.</p>
 
@@ -1255,14 +1255,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_24">Thieves:</h3>
+    <h3 id="ajch_toc_id_24">Thieves</h3>
 
     <p><em>Hiri,</em> a sense of shame; and <em>ottappa,</em> a sense of compunction: These are qualities that protect the world. But they can protect the world only because we practice them. If we don’t practice them, they don’t protect anything. Some Westerners have called me on this. They say, “You live in Thailand. Thailand is a Buddhist country, so why does it have so many thieves?” I admit that it’s true. Thailand has lots of thieves, but it’s people who are thieves. The Dhamma isn’t a thief. It’s probably the same in the West. Not only in Thailand do we have dishonest people. They’re thieves. There are good laws, and morality is still good. So I admit that there are thieves in Thailand, but the Dhamma isn’t a thief.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_25">The Blind Person:</h3>
+    <h3 id="ajch_toc_id_25">The Blind Person</h3>
 
     <p>Venerable father, what is white like? It’s like white lime. What is white lime like? It’s like a pale sky. What’s a pale sky like? This never comes to an end because you don’t know the truth. Fish live in the water but don’t see the water. Earthworms live in the dirt but don’t see the dirt. Not seeing yourself, not knowing the truth, is like a person living with his skeleton and getting frightened by skeletons—because he doesn’t see the truth.</p>
 
@@ -1271,7 +1271,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_26">don’t run along:</h3>
+    <h3 id="ajch_toc_id_26">don’t run along</h3>
 
     <p>Meditation means contemplating in a way that solves problems at the same time. Look at yourself a lot. Keep track of the mind, your sensitivity, your thought-fabrications. Actually, all your thoughts are an affair of fabrication. To put it in simple terms, don’t run along with them. Don’t follow in line with them. They’re just an affair of mental fabrication. Fabrications fabricate things, now wanting this, now wanting that. Try to fix your attention on keeping track of their stages as they’re happening. Whatever they’re about, they’re all not for sure, each and every one. When you see this clearly, that will end your doubts.</p>
 
@@ -1280,21 +1280,21 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_27">The Salt of Meditation:</h3>
+    <h3 id="ajch_toc_id_27">The Salt of Meditation</h3>
 
     <p>Generosity and virtue are like meat. Meditation is like salt. For the meat to keep without spoiling, you have to salt it. Meditation is what makes your generosity correct, makes your virtue correct. That’s why meditation is something of very high value. It’s the ultimate perfection.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_28">Complete Food for the Mind:</h3>
+    <h3 id="ajch_toc_id_28">Complete Food for the Mind</h3>
 
     <p>Virtue, concentration, and discernment are like our food. If virtue were food, we’d say that it’s sweet but without any richness. If you add concentration, that adds some richness. Now it’s both sweet and rich. It’s good that way. But if all you have is sweet and rich, it’s still not complete. It has to be good-smelling, too. If you have all three, then the food is complete. Whether it’s inner food or outer food, it’s complete: sweet, rich, and good-smelling. It makes you want to eat your fill. That’s what it’s like.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_29">Moving the Glass:</h3>
+    <h3 id="ajch_toc_id_29">Moving the Glass</h3>
 
     <p><em>Samadhi</em> means firm concentration. <em>Bhavana,</em> meditation, means making the mind have a single preoccupation. You don’t have to do a lot of things. It’s kind of like taking this glass and setting it here for a minute, then lifting it and setting it there for a minute. Lifting and setting it, back and forth like this, without doing anything else.</p>
 
@@ -1303,14 +1303,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_30">Better Than No Rice:</h3>
+    <h3 id="ajch_toc_id_30">Better Than No Rice</h3>
 
     <p>When you come to sit in concentration, then even if your mind isn’t yet quiet, simply sitting in the meditation posture is something good. It’s better than people who don’t even do that much. It’s like being hungry, but today there’s only rice, with nothing to go with it. We feel disgruntled, but I’d say that it’s better than having no rice at all. Eating plain rice is better than not eating anything, right? If all you have is plain rice, eat that for the time being. It’s better than not eating anything at all. The same with this: Even if we know only a little about how to practice, it’s still good.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_31">The Chicken in the Cage:</h3>
+    <h3 id="ajch_toc_id_31">The Chicken in the Cage</h3>
 
     <p>It’s like having a chicken and putting it into a cage. Let it stay in just one cage. When the chicken’s in the cage, it won’t get out of the cage, but it will walk back and forth inside the cage. Its walking back and forth is no problem, because it’s walking back and forth in the cage.</p>
 
@@ -1323,7 +1323,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_32">Only One Hole Open:</h3>
+    <h3 id="ajch_toc_id_32">Only One Hole Open</h3>
 
     <p>Focus your heart in your heart. Make mindfulness continuous. Get the mind to calm down its preoccupations, leaving just awareness. Like Tuccho Potthila: He went to learn the Dhamma from a novice. The novice taught him that there’s a termite nest with six openings. You want to catch the lizard hiding in the hollow inside the termite nest, so what do you do? You close off five of the holes and leave open only one hole, so that you can catch the lizard when it comes out. In other words, leave your eyes, ears, nose, tongue, and body alone, and be aware right at the heart. That’s what it means to focus your heart in your heart.</p>
 
@@ -1332,14 +1332,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_33">The Water Cooler:</h3>
+    <h3 id="ajch_toc_id_33">The Water Cooler</h3>
 
     <p>If you know something simply by memorizing it, there can still be doubts. If you know the truth, that’s the end of your doubts. It’s like this water cooler that has only a single opening for the water to go out. It won’t go out any other way. If you tilt it in any other direction, the water won’t go out, for there’s no opening. And the advice you hear from this person here is for you to go right to that opening. Try to make your mind go right to that opening. If you try to pour the water out in another direction, it won’t come out, for there’s no opening. You have to pour it in this direction, and it will flow right out. “Oh. This is how it comes out.” That’s when you understand it.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_34">Recognizing Fire:</h3>
+    <h3 id="ajch_toc_id_34">Recognizing Fire</h3>
 
     <p>When we see the truth, we’ll admit the truth. When we see the cause that gives rise to stress, then wherever stress would arise, we don’t do that. We don’t say that. We practice so that our practice becomes correct, and stress won’t arise.</p>
 
@@ -1350,7 +1350,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_35">Looking for a Teacher:</h3>
+    <h3 id="ajch_toc_id_35">Looking for a Teacher</h3>
 
     <p>When you go looking for teachings on how to meditate, you have to look for people who are pure, monks who are pure, who really act in line with what they say: people who are content with little, who practice to gain release from suffering, to gain release from the cycle of wandering-on. This energizes your practice because it gives rise to a sense of conviction and inspiration.</p>
 
@@ -1363,7 +1363,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_36">The Stick in the Stream:</h3>
+    <h3 id="ajch_toc_id_36">The Stick in the Stream</h3>
 
     <p>All of us who have come here to practice: Walk in a way that correctly follows the Dhamma of the Buddha. Follow in line with his footsteps, in line with virtue, concentration, and discernment so that your practice is right, and I firmly believe that the results are sure to arise within you.</p>
 
@@ -1374,14 +1374,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_37">Addicted to Curry:</h3>
+    <h3 id="ajch_toc_id_37">Addicted to Curry</h3>
 
     <p>It’s like a dog. If you feed it plain rice every day, it’ll get fat like a pig. But if one day you start mixing some curry in with the rice, just one or two meals, then after that if you give it plain rice again, it won’t eat it. It gets addicted to the curry really fast. Sights, sounds, smells, and tastes are things that can destroy our practice. If we don’t contemplate our four requisites—clothing, food, shelter, and medicine—Buddhism won’t be able to survive.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_38">Eating the Hook:</h3>
+    <h3 id="ajch_toc_id_38">Eating the Hook</h3>
 
     <p>When people are deluded, they deludedly see that hair of the head, hair of the body, nails, teeth, and skin are wonderful things. Beautiful. It’s like a fish biting a hook. Whether it’s biting the hook or biting the bait, it doesn’t know. It wants to bite the bait, but what comes into its mouth is the hook, snagging its mouth so that the fish can’t get away. No matter how much it wants to get away, it can’t. It’s stuck.</p>
 
@@ -1392,7 +1392,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_39">The Tree in the Seed:</h3>
+    <h3 id="ajch_toc_id_39">The Tree in the Seed</h3>
 
     <p><em>Samadhi</em> is firm concentration. If you’re firm in your practice, it’s a kind of concentration, but it doesn’t yet give you the fruit. It’s still just the flower—but out of the flower comes the fruit, big or small. The potentials of people are not the same. Things that are buried inside, we don’t yet see. Like the seed of a jackfruit: Suppose that you eat some jackfruit and lift out a seed. When you do that, you’re lifting a whole jackfruit tree, but at the moment, you don’t see it. You don’t yet know it. Even if you were to split open the seed, you still wouldn’t see the tree because it’s subtle. When you don’t see it, you feel that there’s no tree in there. Why? Because it hasn’t been mixed with the right things. If you plant a jackfruit seed in the dirt, then it will start growing. Leaves will appear. Branches will appear. They’ll get bigger and bigger. Flowers will appear. Small fruits will appear. Big fruits will appear. Ripe fruits will appear. But as long as the seed is still just a seed, you can’t point to these things in there. This is why people don’t take any interest.</p>
 
@@ -1403,7 +1403,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_40">Running in Circles:</h3>
+    <h3 id="ajch_toc_id_40">Running in Circles</h3>
 
     <p>When you live alone, you can still be stupid. You can still suffer. When you live with a lot of people, you can be stupid and suffer. It’s like chicken shit. If you hold it by yourself, it stinks. If you hold it with a lot of people, it stinks.</p>
 
@@ -1414,7 +1414,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_41">Lifting the Bowl:</h3>
+    <h3 id="ajch_toc_id_41">Lifting the Bowl</h3>
 
     <p>What do stress and suffering come from? It’s like lifting this bowl and feeling that it’s heavy. If you put it down, it’s not heavy any more. As soon as you lift it up again, it’s heavy again. So what does the heaviness come from? We feel heavy because we’ve lifted this thing. So we put it down. We put down the cause of its heaviness and we’re light. Right? Know stress. Know the cause of stress. Know the cessation of stress. Know the path of practice leading to the cessation of stress. That’s all you do. Just put down the cause, and the stress and suffering ceases. That’s the practice.</p>
 
@@ -1423,7 +1423,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_42">See for Yourself:</h3>
+    <h3 id="ajch_toc_id_42">See for Yourself</h3>
 
     <p>Now that you’ve come here to the monastery, you no longer have any questions about what Paa Pong Monastery is like or where it is. That’s because you’ve already seen for yourself. As long as you haven’t seen for yourself, you have to keep asking other people. Keep that up until you die, and you still won’t know Paa Pong Monastery. Why? Because all you know is what other people say. Do you know anything about it? You know, but it’s not clear. Your knowledge doesn’t reach the monastery. That’s why there are still questions.</p>
 
@@ -1432,14 +1432,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_43">Talk about Blindness:</h3>
+    <h3 id="ajch_toc_id_43">Talk about Blindness</h3>
 
     <p>This issue of nibbana: The Buddha describes it in a way that’s unclear because there’s no way you can describe it clearly. It’s like talking to a person who’s totally blind. Try describing a color in a way that’s clear. Something really yellow: Go and ask a blind person if he knows it. The more you try to describe it, the less he knows. So how do you solve the problem? You have to focus back on the cause: “Why are you blind?” You’d do better to talk about how to cure the disease in his eyes. Once his eyes are good, then you don’t have to teach him about red or green. He’ll know for himself.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_44">Your Duty:</h3>
+    <h3 id="ajch_toc_id_44">Your Duty</h3>
 
     <p>Your duty is to plant a tree, water it, and fertilize it, that’s all. Whether it’s going to grow fast or grow slowly, that’s not your duty. It’s the duty of the tree. You can stand there complaining about it until the day you die, but it won’t get you what you want. Where do your thoughts go? “Maybe the soil here isn’t good.” So you pull up the tree. Its roots are just beginning to grow, but now they’re torn off. You keep pulling it up, again and again, until it finally dies. Why do you want it to grow fast? Your desire for it to grow fast is craving. Your desire for it to grow slowly is craving.</p>
 
@@ -1448,14 +1448,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_45">Sitting with a Cobra:</h3>
+    <h3 id="ajch_toc_id_45">Sitting with a Cobra</h3>
 
     <p>Make the mind mindful and keep it aware all the time. The problem is how to keep it aware. Suppose you have an area about three meters wide and you’re sitting inside it. And there’s a big cobra staying in there, too. What would your mind be like then? Because you don’t trust the cobra, because it’s poisonous, you won’t dare lie down. You won’t dare get drowsy. Why? Because you’re afraid of the cobra. When you understand in this way, your awareness will get a lot clearer.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_46">The Spider:</h3>
+    <h3 id="ajch_toc_id_46">The Spider</h3>
 
     <p>When we’re mindful, we’re like a spider making its web. It stretches its web across the air and then it puts itself in the center. Quiet. Still. Unmoving. Mindful. If a fly or a bee comes flying along and touches the web, the spider knows. It gets up and runs out to catch that insect and turn it into food. Once the spider has caught its food, it hurries back to its original spot. It makes itself quiet and alert. Mindful. It knows when something is about to touch the web. As soon as something touches it, it’s already awake—because it lives with mindfulness.</p>
 
@@ -1464,21 +1464,21 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_47">A Road Through the Wilderness:</h3>
+    <h3 id="ajch_toc_id_47">A Road Through the Wilderness</h3>
 
     <p>Training the mind is something we have to do. As you train the mind over time, it’s like making a road into the wilderness. At first, you’re walking in the wilderness, but if you keep walking along the same path every day, every day, the path gradually changes. The dirt gets harder. Stumps get worn down, and the road becomes an easy place to walk.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_48">Roads to Pass By:</h3>
+    <h3 id="ajch_toc_id_48">Roads to Pass By</h3>
 
     <p>When you come here to Nong Paa Pong Monastery, there are roads crossing your way. But they don’t matter. You simply go past them, because you don’t want them. The same with all the preoccupations in the world: We want the mind to quiet down but then we bring in disturbing preoccupations to stir it up again. If we understand that they’re simply roads to pass by, we pass them by without paying them any attention. That’s what it means to cut preoccupations away. For example, “When the mind is quiet, what will it know? What will it see?” Cut those thoughts away. They simply clutter up your path.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_49">Know One, Know Them All:</h3>
+    <h3 id="ajch_toc_id_49">Know One, Know Them All</h3>
 
     <p>Sights, sounds, smells, tastes, everything: When you know one, you know them all. They all have the same characteristics. It’s kind of like recognizing what characteristics this chicken has. All you have to do is learn to recognize one chicken. Then when you go to different provinces and find other animals like this one, you’ll know that they’re like this chicken. You don’t have to go remembering that those other ones aren’t ducks. They’re chickens. You’re sure of the matter.</p>
 
@@ -1487,7 +1487,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_50">Two Different Things:</h3>
+    <h3 id="ajch_toc_id_50">Two Different Things</h3>
 
     <p>If you sit in one place and sounds get you all upset, you go away from that place and find another place that’s quiet. But if there are sounds there, you get upset again. That’s because your knowledge comes from perceptions. You don’t know in line with the truth. The truth is that you live with sounds, and sounds live with you, and there are no issues, because you’re two different things. I’ll give you an example. If you lift up this object, it’s heavy. If you put it down, it’s not heavy.</p>
 
@@ -1496,14 +1496,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_51">Killed by the Mind:</h3>
+    <h3 id="ajch_toc_id_51">Killed by the Mind</h3>
 
     <p>The mind is something really important. It can kill you or it can get you out of danger. We can see this from wild animals that we tame. Wild chickens, for instance, are really afraid of people. If you pounce on one and hold it to have a good look at it, it’ll die. What killed it? The fierceness of its mind killed it. If it’s afraid, it can be so afraid that it dies. Just like people: When we get sad, the tears will flow. When we get too happy, the tears will flow—because the mind doesn’t stay in a condition that’s just right.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_52">Hiding in the Mind:</h3>
+    <h3 id="ajch_toc_id_52">Hiding in the Mind</h3>
 
     <p>When a child is born, we don’t see any good or bad kamma. There’s just a body. It comes naked. This shows that the things in one life can’t be held in our hands to see in the next life. This is why, when a child is born, it doesn’t bring anything along in its hands. But there <em>are</em> things that come along, simply that they come along somewhere else. They come along in the mind.</p>
 
@@ -1514,7 +1514,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_53">Strength & Harmony:</h3>
+    <h3 id="ajch_toc_id_53">Strength & Harmony</h3>
 
     <p>Virtue is a strength. Concentration is a strength. Discernment is a strength. When they pool their strengths and work together so that they’re one and the same, that’s called <em>magga-samangi:</em> the path in harmony. As soon as this harmony arises, that’s when you awaken to the Dhamma. It’s like all of us here. When we’re in harmony, we can be at our ease. Like students or teachers: If the teachers are in harmony, if the students are in harmony, the whole school is at ease. When the students are not in harmony and the teachers are not in harmony, running off in different directions, then there’s no peace. The teachers and students have to cooperate: teachers following their duties as teachers, students following their duties as students. Each person performs his or her duties to the full. No problems will arise.</p>
 
@@ -1525,7 +1525,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_54">You Know You’re Full:</h3>
+    <h3 id="ajch_toc_id_54">You Know You’re Full</h3>
 
     <p>The Buddha emphasized that we should think about what we’re doing as days and nights fly past, fly past. If we know what we’re doing, we have a refuge we can depend on. For example, if you do something right today, but a friend says, “What you did is wrong,” then you get angry with your friend. That shows that you do good things but think things that aren’t good. Other people say you’re not good, and you become not good in line with their words. Actually, if you do good, then even if other people say, “not good,” you’re still good. You can stand your ground. After all, what you did was good. It’s like eating rice today until you’re full. If other people come and say you’re not full, will you believe them? You believe in yourself that you’re already full. When you can believe in yourself, that’s when you can depend on yourself.</p>
 
@@ -1534,7 +1534,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_55">Husk & Not-husk:</h3>
+    <h3 id="ajch_toc_id_55">Husk & Not-husk</h3>
 
     <p>When they say, “Admonish yourself,” “self” is <em>atta.</em> As for yourself, it’s not like that. Suppose that some water is murky. You filter it and see the clear water that comes from the murky water: “That’s clear water.” If you filter yourself, it’ll be <em>anatta,</em> not-self, coming out of self. You’ll see that it’s not-self. That’s when it’s <em>anatta</em> in line with the understanding of your discernment. But some people think that if everything is <em>anatta,</em> not-self, then what’s there to gain?</p>
 
@@ -1545,7 +1545,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_56">What’s Wrong in What’s Right:</h3>
+    <h3 id="ajch_toc_id_56">What’s Wrong in What’s Right</h3>
 
     <p>We’ve seen that this bowl, no matter where you put it, will someday have to break. This plate, no matter where you put it, will someday have to break. But we have to teach our children to wash these things so that they’re clean and put them away safely. We have to teach children in line with these conventions so that we can use the bowl for a long time. This is a sign that we understand the Dhamma and are practicing the Dhamma.</p>
 
@@ -1556,7 +1556,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_57">Feeding Through the Mouth:</h3>
+    <h3 id="ajch_toc_id_57">Feeding Through the Mouth</h3>
 
     <p>People who are intelligent: You don’t have to teach a lot. People who are not intelligent: No matter how much you teach them, they don’t understand. But this depends on the teacher, too. By and large, we teach when we’re in a bad mood. As when we teach our children: It’s only when we’re angry with them that we “teach” them, and then it’s just a matter of yelling at them. We’re not willing to teach them nicely. When people are in a bad mood, why should you teach one another? I’d say not to teach at that time. Wait until everyone’s in a better mood. No matter how wrong the other person is, put it aside for the time being. Wait until you’re both in a good mood.</p>
 
@@ -1565,14 +1565,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_58">Potters Beating Pots:</h3>
+    <h3 id="ajch_toc_id_58">Potters Beating Pots</h3>
 
     <p>When raising your children, you need to have discernment. Have you ever watched potters? Potters beat their pots all day. They beat them to make them into pots. They don’t beat them to break them. It’s the same with your children. You have to keep teaching them. When the time comes to be fierce with them, be fierce only with your mouth, but not with your heart. Don’t make yourself suffer. Even though you may be in a bad mood, you keep on teaching them, in the same way that a potter beats his pots all day. His intention is to make the pots beautiful. He doesn’t beat them to break them. You should teach your children in the same way.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_59">Forcing the Fruit:</h3>
+    <h3 id="ajch_toc_id_59">Forcing the Fruit</h3>
 
     <p>Don’t get angry with people who can’t yet do the practice. Just keep on teaching them. When their faculties mature, they’ll be ready to accept what you say. If you keep on acting in this way, problems fall away.</p>
 
@@ -1581,7 +1581,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_60">The Turtle & the Snake:</h3>
+    <h3 id="ajch_toc_id_60">The Turtle & the Snake</h3>
 
     <p>A forest fire was coming, and a turtle struggled to get away from the flames. It walked past a snake coiled up and it forgot all about death. It felt sorry for the snake. The fire kept spreading closer and closer, and the turtle felt sorry for the snake. Why? Because it didn’t have any legs, so how was it going to get away? The turtle was so afraid that the fire would burn the snake that it turned around to help the snake. The snake didn’t do anything. As the fire got closer and closer, the snake uncoiled itself and slithered away. The turtle was stuck right there. It couldn’t walk fast enough to get away from the fire, so it was burned to death.</p>
 
@@ -1590,14 +1590,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_61">The Cow Knows the Field:</h3>
+    <h3 id="ajch_toc_id_61">The Cow Knows the Field</h3>
 
     <p>A person with conviction is like a cow eating grass. If we let it loose in a field of grass, it eats grass. If it won’t eat grass, it’s a pig. The same with people of conviction: You don’t have to teach them a lot. Just let them loose in the field of merit—the monastic Sangha—and they’ll follow your example, practice in line with your example of their own accord.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_62">Barking at Leaves:</h3>
+    <h3 id="ajch_toc_id_62">Barking at Leaves</h3>
 
     <p>When you go for alms in the village, put on your robes neatly before you go. Exercise restraint as you go for alms. I’ve seen new monks and novices who don’t know anything. When they eat in someone’s house, they have to look around, all over the place. Why do they have to look around? Some of them even stare—it’s even worse than lay people. It’s because they’ve been living in the wilderness and haven’t seen anything like this for a long while. When they go into someone’s home, they see this, see that, and it pulls at their eyes. They look all around because they’re hungry. It’s kind of like a dog: When it stays in the village market, it doesn’t bark very much. But if you take it out into the wilderness and the wind blows the leaves around, it barks all night.</p>
 
@@ -1606,7 +1606,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_63">Dye in the Mind:</h3>
+    <h3 id="ajch_toc_id_63">Dye in the Mind</h3>
 
     <p>It’s like rain water, which is water that’s clear and clean. Its clarity is normally clean. But if we put green or yellow dye into it, the water will turn green or yellow. It’s the same with the mind. When it meets up with a preoccupation it likes, it’s at ease. When it meets up with a preoccupation it doesn’t like, it’s ill at ease. It’s like a leaf blown by the wind. It flutters. You can’t depend on it.</p>
 
@@ -1615,7 +1615,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_64">Not Awfully Anything:</h3>
+    <h3 id="ajch_toc_id_64">Not Awfully Anything</h3>
 
     <p>Suppose there’s a rock placed right here in front of us. It weighs about twelve kilograms, placed right here in front of us. Its weight is normal for it. It just stays right there. It’s normal for it. But if we go to lift it, it doesn’t feel normal at all. We find fault with it, “This rock is awfully heavy!” That’s how we find fault with it. Actually, it’s not awfully anything. When it sits there, it’s perfectly normal for itself. Even though it’s heavy, it doesn’t cause anyone to suffer—as long as no one tries to pick it up and carry it.</p>
 
@@ -1624,7 +1624,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_65">Playthings for the Mind:</h3>
+    <h3 id="ajch_toc_id_65">Playthings for the Mind</h3>
 
     <p>It’s like a child in your home. Suppose your child is always getting into mischief. No matter what you do, it won’t stop. It won’t stay still. So what do you do? You give it a balloon to play with. It’s content to stay engrossed in its balloon. It doesn’t cry; it doesn’t bother you. Why? Because you give it something to play with, and so it’s engrossed in its balloon.</p>
 
@@ -1633,7 +1633,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_66">The Balloon of Tranquility:</h3>
+    <h3 id="ajch_toc_id_66">The Balloon of Tranquility</h3>
 
     <p>It’s as if your child gets a balloon. Whatever else it’s been playing with, it puts aside. Its interest in other preoccupations grows quiet. It plays as it likes with the balloon. It’s right there. Its mind is quiet. This level of quiet is just the level of quiet of a child with a balloon. Its mind is all tied up in the balloon. But this level of quiet isn’t enough. The child sees the balloon floating in the air and it’s engrossed, that’s all. It doesn’t think about whether or not the balloon is going to burst. It doesn’t think. It sees the balloon floating in the air and it’s engrossed. This is what’s called <em>samatha,</em> tranquility.</p>
 
@@ -1646,7 +1646,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_67">The Balloon is Already Burst:</h3>
+    <h3 id="ajch_toc_id_67">The Balloon is Already Burst</h3>
 
     <p>It’s like a child or an adult playing with a balloon. You see the balloon floating and you ask, “What’s eventually going to happen to the balloon?” “Oh. It’s not for sure. It’s inconstant, stressful, and not-self. There’s nothing dependable about it. Eventually it’s sure to burst.” This is the view of the adult, the view of a person of discernment. It doesn’t trust the balloon. It always sees that the balloon will burst for sure. It sees clearly. Eventually the balloon bursts—boom!—and the mind is still at ease.</p>
 
@@ -1661,7 +1661,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_68">When You Know How:</h3>
+    <h3 id="ajch_toc_id_68">When You Know How</h3>
 
     <p>Don’t get stuck on the texts. Don’t focus on what all the different teachers say. Talk about things that are Dhamma.</p>
 
@@ -1672,14 +1672,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_69">The One Mango:</h3>
+    <h3 id="ajch_toc_id_69">The One Mango</h3>
 
     <p>So we should always keep on practicing in this way. Tranquility is right in here; insight is right in here. You can’t separate them out. We can separate them in our speech, but we can’t separate them in reality. It’s like a mango: You can’t separate it out. You can’t separate ripe from unripe in the mango. We see that at one point in time it’s sour, and then after that it’s ripe and sweet. Where did the sour go? It’s turned into sweet. At first its peel is green, but when it’s ripe, it’s yellow. Where did the green go? It’s turned into the yellow. You can’t separate these things out.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_70">The One Mango Explained:</h3>
+    <h3 id="ajch_toc_id_70">The One Mango Explained</h3>
 
     <p>This mango is first small, then it’s half-ripe, then it’s ripe. When it’s ripe, is it the same mango as the small one? When it comes out as a flower, it’s this mango. When it’s small, it’s this mango. When it’s big, it’s the same mango. When it’s half-ripe, it’s the same mango. When it’s ripe, it’s the same mango.</p>
 
@@ -1692,7 +1692,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_71">The Mango in Harmony:</h3>
+    <h3 id="ajch_toc_id_71">The Mango in Harmony</h3>
 
     <p>You have to look for concentration, discernment, and virtue all together at the same time. When they develop, they develop together. When your perfections reach fullness, they’re full together. Your right views: When your discernment sees rightly, every factor in the eightfold path will be right. If it’s right only ten percent, then each of the ten perfections will be only ten percent.</p>
 
@@ -1703,21 +1703,21 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_72">The Fluttering Mind:</h3>
+    <h3 id="ajch_toc_id_72">The Fluttering Mind</h3>
 
     <p>Stillness of mind without discernment is like a leaf that flutters when stirred by a breeze. In other words, stillness of mind without discernment is dark and then bright, back and forth. It’s like a person who eats meat and gets a piece stuck in his teeth. When he pries it out, he feels better. When he’s hungry he eats some more and gets another piece stuck in his teeth. It hurts again. When he pries it out, he feels better again.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_73">The Snake under the Cloth:</h3>
+    <h3 id="ajch_toc_id_73">The Snake under the Cloth</h3>
 
     <p>Mental stillness, on its own, has other things mixed in with it. It’s still because there are things mixed in with it, but it’s not aware of them. That’s why it’s still. Suppose that this foot-wiping cloth that my feet are on has a poisonous snake living under it. I can put my feet here without any fear because I don’t see the snake. But actually, there’s a poisonous snake right here. I have no idea, so I can relax, with no fear of anything. The fact that I don’t feel any fear is because I don’t know that there’s a poisonous snake right here. This is <em>samatha:</em> tranquility. “Who cares if there are defilements there? I feel peaceful right now.” This is called stillness of mind without the defilements being still. It’s called <em>samatha.</em> We train the mind to be still so that, in the next step, the defilements will be still. That’s an affair of discernment.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_74">Healing the Wound:</h3>
+    <h3 id="ajch_toc_id_74">Healing the Wound</h3>
 
     <p>Tranquility is stillness that lasts only for a little while. The stillness is the foundation for insight. Insight is seeing clearly, understanding more clearly than you did before. Insight is not simply still. The stillness of tranquility is like running away from noises to a wilderness where there’s no noise. If you have lots of children, you run away to a wilderness where there are no children. When you don’t see your children or don’t hear any noise, you find stillness.</p>
 
@@ -1728,14 +1728,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_75">The Stillness of Insight:</h3>
+    <h3 id="ajch_toc_id_75">The Stillness of Insight</h3>
 
     <p>When the mind reaches that level of stillness, it’s not enough—the stillness of tranquility. You have to make it still through insight. You have to give rise to discernment. With the stillness of tranquility, it’s like not being able to be still in a hot place. You have to go to the seaside to be still. When you go back to where it’s hot, you’re not still anymore. The preoccupations of tranquility are only on this level of stillness. But with the preoccupations of insight, then when it’s hot in the mountains, you can stay there comfortably. When you go down to the seaside, you can stay there comfortably. You can focus on knowing these things, and the mind doesn’t run. It knows pleasure; it knows pain. That’s how we know when we practice.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_76">Rocks in the Way:</h3>
+    <h3 id="ajch_toc_id_76">Rocks in the Way</h3>
 
     <p>We’re walking along a road that goes straight ahead. It doesn’t matter how many kilometers it goes, we just keep walking straight ahead. When we find a log or a rock obstructing our way, we pick it up and throw it off to the side of the road.</p>
 
@@ -1746,7 +1746,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_77">Killing Your Meditation:</h3>
+    <h3 id="ajch_toc_id_77">Killing Your Meditation</h3>
 
     <p>When standing, walking, sitting, and lying down, keep your mindfulness continuous at all times. This is called practicing meditation <em>(kammatthana)</em> correctly. The reason why our mindfulness isn’t continuous is because we don’t do it. “Doing it” isn’t something the body does. The mind is what does it. If we do our mindfulness so that it’s continuous, so that we’re constantly aware, it’s like drops of water that flow continuously so that they become a continuous stream of water. If you can train the mind in this way, your meditation will progress quickly and well.</p>
 
@@ -1755,7 +1755,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_78">Staying at Home:</h3>
+    <h3 id="ajch_toc_id_78">Staying at Home</h3>
 
     <p>If you have mindfulness and alertness at all times, you’ll come to your senses. If you waste your time playing with other things, suffering will arise and you’ll suffer—because you don’t have any mindfulness. Your alertness isn’t here. It’s like your home. If you leave and don’t close the door, dogs will come in and eat your stored-up rice. Thieves will come in and steal all your things. It’s the same when you don’t have mindfulness.</p>
 
@@ -1766,14 +1766,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_79">Fix It Right Here:</h3>
+    <h3 id="ajch_toc_id_79">Fix It Right Here</h3>
 
     <p>This practice is called the practice of the Dhamma. If you can see every day, if you can try to see continually into your mind, then even if you’re doing work, you’ll see. Try to see with every moment. You might say, “Oho, Venerable Father, I don’t have any time to meditate. I can’t meditate. I’m always busy.” That’s how we tend to see things. Actually, where you’re busy is the place where you practice. Wherever there’s heat, there’s coolness right there. You don’t understand. All you see is that when heat arises, there’s nothing but heat there. No coolness at all. Actually, wherever there’s busyness, there’s stillness right there. Wherever there’s wrongness, there’s rightness right there. Wherever there’s turmoil, there’s stillness right there. Look. If you do something wrong right here, where are you going to correct it? It’s as if something goes wrong in your motorcycle right here, right in this spot. Where are you going to fix it? You fix it right where something has gone wrong, and then it’ll go right, right there, that’s all. Wherever you encounter a preoccupation you like, you practice right there: “Oh. This isn’t for sure. We’ve already experienced pleasure. We’ve already experienced pain many, many times. This won’t turn into anything else. It’ll turn into nothing but suffering.” If you can think correctly like this, the mind will keep staying in that state.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_80">A Fish on Land:</h3>
+    <h3 id="ajch_toc_id_80">A Fish on Land</h3>
 
     <p>Our different postures hide pain. When you’ve been sitting a long time and then switch positions because of the pain, the pain disappears. That’s why we don’t see the pain. It’s like youth hiding old age inside. The mind is taken with the looks, the sounds, the smells, the tastes of youth, but if you stay with it for a while, old age starts to show its face.</p>
 
@@ -1782,7 +1782,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_81">Overcoming Pain:</h3>
+    <h3 id="ajch_toc_id_81">Overcoming Pain</h3>
 
     <p>Suppose you’re sitting in concentration and it really hurts. When it hurts, you come out of meditation. Then you meditate some more until you reach the point where it hurts, and then you come out again. This is why you don’t understand suffering even though you suffer. Wherever you sit and meditate, you suffer pain. So you ask yourself, “What can I do to overcome this?” You have to make a decision: “Sit, but don’t move. Let the body die.”</p>
 
@@ -1806,7 +1806,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_83">The Name of the Fruit:</h3>
+    <h3 id="ajch_toc_id_83">The Name of the Fruit</h3>
 
     <p>The fruit that you offered to the monks: I don’t know its name, but I know that its flavor is sweet and delicious. That much I know, but I don’t know what it’s called—and it’s not really necessary. All that’s necessary is knowing that its flavor is sweet and delicious. Right? That’s really necessary. “What’s the name of this fruit?” That’s not really necessary. If someone tells you, you can remember it. But if you don’t know the name, you can let the matter go. After all, knowing the name doesn’t increase the sweetness or make the fruit more sour.</p>
 
@@ -1815,7 +1815,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_84">Counting the Rootlets:</h3>
+    <h3 id="ajch_toc_id_84">Counting the Rootlets</h3>
 
     <p>Some people have to keep thinking: “What is the mind? What is the heart?”—all kinds of things, keeping at it, back and forth until they go crazy. They don’t understand anything. You don’t have to think that far. Just simply ask yourself, “What do you have in yourself?” There are physical phenomena and mental phenomena; or there’s a body and there’s a mind. That’s enough.</p>
 
@@ -1826,7 +1826,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_85">Mr. A & the Letter A:</h3>
+    <h3 id="ajch_toc_id_85">Mr. A & the Letter A</h3>
 
     <p>When we speak about the Dhamma, it’s all a matter of strategy for understanding what’s right there. It’s matter of suppositions, a strategy. The genuine Dhamma exists, but it’s something you can’t see. We have to bring in other things so that we contemplate it.</p>
 
@@ -1846,7 +1846,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_87">The Farmer & the Cobra:</h3>
+    <h3 id="ajch_toc_id_87">The Farmer & the Cobra</h3>
 
     <p>In short, the Dhamma teaches that whatever suffering arises will pass away. There’s nothing more than this. There’s just suffering arising and suffering passing away. That’s all there is, which is why we suffer, why we’re in a turmoil in this cycle of wandering-on. Why are we in a turmoil? Because we don’t know this truth as it actually is. When you don’t recognize suffering, you feed it, thinking that it’ll be pleasure. But eventually it bites you, because it’s suffering.</p>
 
@@ -1855,7 +1855,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_88">Awakening to the Cobra:</h3>
+    <h3 id="ajch_toc_id_88">Awakening to the Cobra</h3>
 
     <p>Most of us, when we hear the words, “awakening to the Dhamma,” understand that it’s something so high and far away that we probably won’t awaken in this lifetime. That’s how we understand things. Actually, if something is evil and we don’t clearly see that it’s evil, then we can’t abandon it. That means we haven’t awakened much to the Dhamma. But if we listen, contemplate, and practice until we see it clearly, we’ll see the drawbacks for sure that that thing is evil and we won’t dare ever do it again. We won’t dare store it up as seeds to plant again. We’ll have to throw it away because we’ve seen the harm it does.</p>
 
@@ -1868,7 +1868,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_89">Our Responsibilities:</h3>
+    <h3 id="ajch_toc_id_89">Our Responsibilities</h3>
 
     <p>When we practice we’re like a man planting a tree. He goes out and gets a tree, digs a hole, puts the tree in the hole, fills the hole with soil, waters it, gives it fertilizer, and keeps it safe from insects. These are our responsibilities. And that’s the end of our responsibilities. The responsibility of the tree is to grow. Whether it grows fast or slow, don’t force it. If you force it, you suffer. You plant it and then you think, “Hey. When is it ever going to grow so that I can get some fruit?” As soon as you start complaining, you suffer. Why? Because you don’t understand your responsibilities. You take on the responsibilities of others. You take on the responsibilities of the tree.</p>
 
@@ -1879,7 +1879,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_90">Cleaning the House:</h3>
+    <h3 id="ajch_toc_id_90">Cleaning the House</h3>
 
     <p>When you construct a house, then when it’s finished, only the construction of it is finished, right? The next step is that you have to live in the house and always keep cleaning it. It’s not the case that when you finish constructing the house you can rest at your ease. That’s not the case at all. You have to keep cleaning the house continually.</p>
 
@@ -1890,7 +1890,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_91">Better & Better:</h3>
+    <h3 id="ajch_toc_id_91">Better & Better</h3>
 
     <p>When discernment arises, you can abandon your defilements. As your discernment grows, your behavior will change. You’ll abandon your old ways. It’s like going into the forest to look for fruit. At first you find some fruit that’s not especially good, but even though it’s sour, you take it. You carry it in your basket until you find fruits that are better than that. You throw the old fruits out of your basket. It’s because you see that the new ones are better that you change what you’re carrying.</p>
 
@@ -1899,14 +1899,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_92">The Compass:</h3>
+    <h3 id="ajch_toc_id_92">The Compass</h3>
 
     <p>It’s like having a compass that points north and south. You go into the forest carrying the compass with you, and it will still point north and south. But suppose that the day after you go into the forest you open your compass and decide that the south end of the needle is pointing west, and the north end of the needle is pointing east. That’s when you have to realize that it’s just a matter of your own thinking. You’re thinking wrong. The needle’s still pointing north and south all the time, but you understand that it’s pointing east and west. You “know” and you follow this kind of knowledge. But it’s an issue of your thoughts, which you can dissolve; an issue of your feelings, which you can dissolve. The compass is always pointing north and south, north and south, but you feel that it’s pointing east and west. The mistake is with you.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_93">The Saltiness of Salt:</h3>
+    <h3 id="ajch_toc_id_93">The Saltiness of Salt</h3>
 
     <p>Buddhism is like salt. Salt is always salty. Whoever eats it will find that it’s always salty. Whoever doesn’t eat it won’t taste the saltiness. In the same way, Buddhism can’t degenerate. People degenerate. Buddhism doesn’t degenerate.</p>
 
@@ -1915,7 +1915,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_94">Lead <em>vs.</em> Gold:</h3>
+    <h3 id="ajch_toc_id_94">Lead <em>vs.</em> Gold</h3>
 
     <p>I’ll ask you a question. Suppose there’s a hunk of lead weighing one kilogram and a hunk of gold weighing one kilogram. If you were to ask people to take one of them, which one would they take?</p>
 
@@ -1924,7 +1924,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_95">The Thinking of Earthworms:</h3>
+    <h3 id="ajch_toc_id_95">The Thinking of Earthworms</h3>
 
     <p>These days, Thai people are ordaining less and less. I don’t know why. Whether it’s because of their work or because the world is developing, I don’t know. In the past, people would ordain for at least four years, five years. But now there are people ordaining for seven days, fifteen days. There are even people who ordain in the morning and disrobe in the evening. It’s because of this sort of thing that Buddhism will disappear.</p>
 
@@ -1935,7 +1935,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_96">Neither Large nor Small:</h3>
+    <h3 id="ajch_toc_id_96">Neither Large nor Small</h3>
 
     <p>This bell here: Do you think it’s large or small?</p>
 
@@ -1948,14 +1948,14 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_97">Why:</h3>
+    <h3 id="ajch_toc_id_97">Why</h3>
 
     <p>When we understand that the movements of the mind have to be the way they are on their own, that’s the way they are. They don’t “why” anyone at all. The problem is that we latch onto things. It’s like water flowing. It flows along in its water way. If you latch onto it, asking why it flows, you give rise to suffering. If you understand that it flows in line with its own affairs, there’s no suffering.</p>
   </div>
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_98">Grabbing Hold of a Dog:</h3>
+    <h3 id="ajch_toc_id_98">Grabbing Hold of a Dog</h3>
 
     <p>Even when you see that something is true, you can’t grab hold of it. It’s like a dog: Try grabbing hold of a dog’s leg without letting go, and it will turn around and bite you. Or a snake: Try grabbing hold of its tail, grabbing hold without letting go. It’ll simply bite you. So don’t hold on. Let it go. Put it down.</p>
 
@@ -1964,7 +1964,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_99">When the Bees Leave the Hive:</h3>
+    <h3 id="ajch_toc_id_99">When the Bees Leave the Hive</h3>
 
     <p>When we see emptiness, the King of Death can’t catch up with us. Death can’t reach us. Why? Because there’s no “us.” There are just piles of form, piles of feelings, piles of perceptions, piles of fabrications, piles of consciousness, that’s all. So where’s the person? Like that beehive over there: If all the bees leave and you try to take the hive, will you touch any bees? No, because it’s empty. All you’ll touch will be the beeswax. You don’t know where the bees went, because they don’t live there anymore.</p>
 
@@ -1973,7 +1973,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_100">Eating Out of the Shit-pot:</h3>
+    <h3 id="ajch_toc_id_100">Eating Out of the Shit-pot</h3>
 
     <p>To see things as empty means seeing that there’s nothing there. You see that this spittoon is there, you see a cup and a plate, and the cup and the plate are there. It’s not that they’re <em>not</em> there, but they’re there in emptiness. They’re empty. If you ask this spittoon what it is, it won’t answer you—because it’s not anything. You can call it a spittoon if you want, but it’s just your supposition. Or you could call it a pot—it’s still just a supposition that you’ve made. Its actuality is there’s nothing to it. But we grab onto it and hold onto it firmly.</p>
 
@@ -1986,7 +1986,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_101">The Parts of a Knife:</h3>
+    <h3 id="ajch_toc_id_101">The Parts of a Knife</h3>
 
     <p>This knife placed here: It has the edge of its blade, it has the back of its blade, it has its handle—all of its parts. When you lift it up, can you lift just the edge of the blade? Can you pick up just the back of the blade? Just the handle? The handle is the handle of the knife. The back of the blade is the back of the knife’s blade. The edge of the blade is the edge of the knife’s blade. When you pick up the knife, you also pick up its handle, the back of its blade, and the edge of its blade. Could it split off just the edge of its blade for you?</p>
 
@@ -1995,7 +1995,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_102">Knowing In-between:</h3>
+    <h3 id="ajch_toc_id_102">Knowing In-between</h3>
 
     <p>It’s like going up on the roof or coming down to the floor. When someone climbs up there, he gets on the roof. When he comes down, he comes down to the floor. If he climbs up to the roof again and falls down, he falls down to the same floor. That’s all that most people know. No one knows being in-between because there’s nothing to measure it. When they say that in-between there’s no state of becoming, we can’t point it out. We can’t point it out because there’s nothing to mark it.</p>
 
@@ -2006,7 +2006,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_103">When the Cabinet is Done:</h3>
+    <h3 id="ajch_toc_id_103">When the Cabinet is Done</h3>
 
     <p>I want us all to have endurance—enduring until there’s no more endurance. In other words, as soon as you see the truth, you let go. When you let go, you see peace arising. When peace arises, you don’t have to practice—because you’ve finished practicing. It’s like a cabinet. Before, it was a tree, but there was a problem that required making a cabinet. The tree was cut and shaped because there was still a reason to make the cabinet. Once the cabinet is finished and we’ve coated it with shellac and put it on display, that’s the end of having to do anything. It ends right there in the cabinet.</p>
 
@@ -2017,7 +2017,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_104">Our Own Affair:</h3>
+    <h3 id="ajch_toc_id_104">Our Own Affair</h3>
 
     <p>Eventually, the teachings run out. When you know causes, you let go of causes. When you know results, you let go of results. So where will you stay? Above causes and beyond results. Above birth and beyond death. That’s where you stay. You stay where everything is ended and runs out. The mind is at peace, away from causes and results; at peace away from birth and death; at peace away from pleasure and pain. It stays in peace like that. There are no causes and effects right there.</p>
 
@@ -2026,7 +2026,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_105">In the Cage:</h3>
+    <h3 id="ajch_toc_id_105">In the Cage</h3>
 
     <p>Whether we’re happy or sad, feel pleasure or pain, cry or sing, as long as we’re in this world, these things happen in a cage. We don’t escape from the cage. Even if we’re wealthy, we’re in a cage. If we’re poor, we’re in a cage. If we cry, we’re in a cage. If we dance, we’re dancing in a cage. Which cage? The cage of birth, aging, illness, and death.</p>
 
@@ -2037,7 +2037,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_106">Filling the Glass:</h3>
+    <h3 id="ajch_toc_id_106">Filling the Glass</h3>
 
     <p>The way that people think once they’re born is that, having been born, they don’t want to die. Is that the right way to think? Take this glass here. If we pour water into it and yet don’t want it to be full—if we keep on pouring water into it and yet don’t want to be full—can we get what we want? It’s the same with people once they’re born. Once they’re born, they don’t want to die. Is that kind of thinking right? If things could really be that way, with everybody born and not having to die, we’d suffer even more than we do now. If nobody born into this world ever died, we’d all be eating one another’s shit. Where could we go to get away?</p>
 
@@ -2046,7 +2046,7 @@ const AjahnChahQuotesData = ` <div class="unit">
                                             <hr>
 
   <div class="unit">
-    <h3 id="ajch_toc_id_107">Mindfulness of Death:</h3>
+    <h3 id="ajch_toc_id_107">Mindfulness of Death</h3>
 
     <p>If you were to break the law, and in seven days they were going to execute you, how would you feel? If you were sentenced to death, and in seven days they were going to execute you, what would you do? I want you to reflect on this. As you are, you’re already sentenced to be executed, simply that you don’t know how many days you’ve got left. It might even be less than seven. Do you have a sense of this? You’re already sentenced to death. They’re going to have to execute you, but if you don’t know, you don’t feel anything. But if you were to break the law and the authorities were to catch you and execute you in seven days—oh, you’d really suffer.</p>
 
