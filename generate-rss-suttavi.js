@@ -99,7 +99,7 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
   <channel>
     <title>Trích Dẫn Kinh Điển Nikaya</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/1/home</link>
-    <description>Trích Dẫn Kinh Điển Nikaya - Daily Sutta Quotes</description>
+    <description>Trích Dẫn Kinh Điển Nikaya</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <image>
       <url>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</url>
