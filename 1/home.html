@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Dhamma Quotes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+    <h1>Dhamma Quotes</h1>
+    <div class="header-controls">
+        <a id="rss-link" href="thanissaro.xml" target="_blank" title="RSS Feed">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>
+        </a>
+        <button id="theme-toggle" title="Toggle Dark Mode"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M9.528 1.718a.75.75 0 01.162.819A8.97 8.97 0 009 6c0 4.97 4.03 9 9 9a8.97 8.97 0 003.463-.69.75.75 0 01.981.98 10.503 10.503 0 01-9.694 6.46c-5.799 0-10.5-4.701-10.5-10.5 0-4.368 2.667-8.112 6.46-9.694a.75.75 0 01.818.162z" clip-rule="evenodd" /></svg></button>
+    </div>
+</div>
+    
+    <div class="container">
+        <div id="tabs-container" class="tabs"></div>
+
+        <div id="quote-container"></div>
+        <button id="new-quote-btn">Get Random Quote</button>
+    </div>
+
+    <script src="thanissaro-quotes.js"></script>
+    <script src="jayasaro-quotes.js"></script>
+    <script src="ajahnchah-quotes.js"></script>
+	<script src="pannavaddho-quotes.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

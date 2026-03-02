@@ -1,0 +1,219 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #333333;
+    --container-bg: #f5f5f5;
+    --border-color: #dddddd;
+    --btn-bg: #4a6fa5;
+    --btn-hover: #3d5c8a;
+    --btn-text: #ffffff;
+    --cite-color: #9e3636;
+    --link-color: #2b5797;
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #e4e4e4;
+    --container-bg: #2d2d2d;
+    --border-color: #444444;
+    --btn-bg: #3d5c8a;
+    --btn-hover: #5275a8;
+    --btn-text: #ffffff;
+    --cite-color: #e57373;
+    --link-color: #64b5f6;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--container-bg);
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#quote-container {
+    background-color: var(--container-bg);
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    min-height: 150px;
+    font-size: 1.15em;
+    line-height: 1.6;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+button {
+    background-color: var(--btn-bg);
+    color: var(--btn-text);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    align-self: center;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: var(--btn-hover);
+}
+
+/* Original Quote Structure Styles */
+.quote-entry blockquote {
+    margin: 0;
+}
+.cite-title {
+    font-weight: bold;
+    color: var(--cite-color);
+    font-size: 1.1em;
+}
+.text-strong {
+    font-weight: bold;
+}
+.text-italics {
+    font-style: italic;
+}
+.postlink {
+    color: var(--link-color);
+    text-decoration: none;
+    word-break: break-all;
+}
+.postlink:hover {
+    text-decoration: underline;
+}
+
+/* Update this section in your style.css */
+#quote-container {
+    background-color: var(--container-bg);
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    min-height: 150px;
+    font-size: 1.15em;
+    line-height: 1.6;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    
+    /* ADD THESE TWO LINES */
+    transition: opacity 0.4s ease-in-out; 
+    opacity: 1; 
+}
+
+/* Add to the bottom of style.css */
+.tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tab-btn {
+    background-color: var(--container-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 8px 16px;
+    font-weight: normal;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+.tab-btn:hover {
+    opacity: 1;
+    background-color: var(--border-color);
+}
+
+.tab-btn.active {
+    opacity: 1;
+    background-color: var(--btn-bg);
+    color: var(--btn-text);
+    border-color: var(--btn-bg);
+    font-weight: bold;
+}
+.header-controls {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#rss-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-color);
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+#rss-link:hover {
+    background-color: var(--border-color);
+    color: #ee802f; /* Standard RSS Orange */
+}
+
+
+#theme-toggle {
+    background: none;
+    border: 1px solid var(--border-color);
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex; /* Centers the SVG */
+    align-items: center;
+    justify-content: center;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+}
+
+#theme-toggle:hover {
+    background-color: var(--border-color);
+    color: var(--link-color); /* Subtle color shift on hover */
+}
+
+.moon-icon {
+    /* Optional: slightly tilt the moon for a more natural look */
+    transform: rotate(-15deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
