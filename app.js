@@ -9,7 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const feedFiles = {
         thanissaro: 'thanissaro.xml',
         jayasaro: 'jayasaro.xml',
-		chah: 'ajahnchah.xml'
+		chah: 'ajahnchah.xml',
+		panna: 'pannavaddho.xml'
     };
     // 1. Theme Persistence
     const applyTheme = (theme) => {
@@ -45,7 +46,11 @@ document.addEventListener('DOMContentLoaded', () => {
             getData: () => typeof AjahnChahQuotesData !== 'undefined' ? AjahnChahQuotesData : "",
             quotes: []
         },
-		
+		panna: {
+            name: "Ajaan Paññāvaddho",
+            getData: () => typeof PannavaddhoQuotesData !== 'undefined' ? PannavaddhoQuotesData : "",
+            quotes: []
+        },
     };
 
     let currentTeacherKey = 'thanissaro';
@@ -114,7 +119,9 @@ document.addEventListener('DOMContentLoaded', () => {
 // 1. Add this mapping at the top of your script or inside the DOMContentLoaded
 const feedFiles = {
     thanissaro: 'thanissaro.xml',
-    jayasaro: 'jayasaro.xml'
+    jayasaro: 'jayasaro.xml',
+	chah: 'ajahnchah.xml',
+	panna: 'pannavaddho.xml',
 };
 
 // 2. Update the RSS link inside your tab click handler
