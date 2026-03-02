@@ -1,0 +1,36 @@
+name: Generate Ajaan Paññāvaddho RSS Feed
+
+on:
+  schedule:
+    # Runs at minute 0 past every 6th hour.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run generation script
+        run: node generate-rss-pannavaddho.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pannavaddho.xml history-pannavaddho.json cycle-state-pannavaddho.json
+          git commit -m "chore: update Ajaan Paññāvaddho RSS feed and quote history" || exit 0
+
+          git push
+
+
