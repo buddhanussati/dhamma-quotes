@@ -3,7 +3,7 @@ name: Generate Ajaan Paññāvaddho RSS Feed
 on:
   schedule:
     # Runs at minute 0 past every 6th hour.
-    - cron: '0 */6 * * *'
+    - cron: '47 */5 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -32,5 +32,6 @@ jobs:
           git commit -m "chore: update Ajaan Paññāvaddho RSS feed and quote history" || exit 0
 
           git push
+
 
 
