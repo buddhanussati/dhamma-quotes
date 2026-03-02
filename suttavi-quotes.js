@@ -1,4 +1,4 @@
-const SuttaQuotesData = {
+const SuttaQuotesData = [
    
                 { text: `“Công đức người bố thí, \nLuôn luôn được tăng trưởng,\nTrừ được tâm hận thù.\nKhông chất chứa, chế ngự,\nKẻ chí thiện từ bỏ.\nMọi ác hạnh bất thiện,\nDiệt trừ tham, sân, si.\nTâm giải thoát thanh tịnh.”`, ref: "DN 16 – Kinh Đại Bát Niết Bàn", url: "https://loicuaducphat.org/dn/dn16.html#content" },
                 { text: `"Hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa chính mình, chớ nương tựa một gì khác."`, ref: "DN 16 – Kinh Đại Bát Niết Bàn", url: "https://loicuaducphat.org/dn/dn16.html#content" },
@@ -104,6 +104,6 @@ const SuttaQuotesData = {
 { text: `Trưởng Lão Ni Bhadhà\n\n9. Hỡi Bhàdha hiền thiện,\nVới lòng tin xuất gia,\nHãy sống vui hoan hỷ,\nTrong các pháp hiền thiện,\nHãy tu tập rèn luyện,\nTrong các pháp chí thiện,\nCố gắng đạt cho được,\nAn ổn khỏi ách nạn.`, ref: "Trưởng Lão Ni Kệ 1.9", url: "https://loicuaducphat.org/thig/thig1.9.html#content" },
 
          
-        };
+        ];
 
        module.exports = { SuttaQuotesData };
