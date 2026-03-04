@@ -3,14 +3,56 @@
   <channel>
     <title>Ajahn Chah Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes</link>
-    <description>Dhamma quotes by Ajahn Chah, updated every 6 hours</description>
-    <lastBuildDate>Wed, 04 Mar 2026 09:36:49 GMT</lastBuildDate>
+    <description>Dhamma quotes by Ajahn Chah, updated every day</description>
+    <lastBuildDate>Wed, 04 Mar 2026 23:50:31 GMT</lastBuildDate>
     <image>
       <url>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</url>
       <title>Ajahn Chah Quotes</title>
       <link>https://buddhanussati.github.io/dhamma-quotes</link>
     </image>
     
+    <item>
+      <title><![CDATA[Ajahn Chah: I’ll give you a simple comparison. Suppose you’ve bought a banana or a coconut in the market and you walk along carrying it.…]]></title>
+      <link>https://buddhanussati.github.io/dhamma-quotes</link>
+      <description><![CDATA[
+        <div class="unit">
+    <h3 id="sigil_toc_id_36">Peels & Husks</h3>
+
+    <p>I’ll give you a simple comparison. Suppose you’ve bought a banana or a coconut in the market and you walk along carrying it. Someone asks you, “Why did you buy the banana?”</p>
+
+    <p>“I bought it to eat it.”</p>
+
+    <p>“But do you have to eat the peel, too?”</p>
+
+    <p>“No.”</p>
+
+    <p>“I don’t believe you. If you’re not going to eat the peel, why are you carrying it too?”</p>
+
+    <p>Or suppose you’re carrying a coconut:</p>
+
+    <p>“Why are you carrying the coconut?”</p>
+
+    <p>“I’m carrying it home to make a curry.”</p>
+
+    <p>“And you’re going to curry the husk too?”</p>
+
+    <p>“No.”</p>
+
+    <p>“Then why are you carrying it?”</p>
+
+    <p>So. How are you going to answer his question?</p>
+
+    <p>Through desire. If there’s no desire, you can’t give rise to ingenuity, to discernment.</p>
+
+    <p>That’s the way it is as we make an effort in our meditation. Even though we do this through letting go, it’s like the banana or the coconut: Why are you carrying the peel or the husk? Because the time hasn’t come yet to throw it away. It’s still protecting the inner flesh. The time hasn’t come yet to throw it away, so you hold onto it for the time being.</p>
+
+    <p>The same with our practice: Suppositions and release have to be mixed together, just as the coconut has a husk mixed together with a shell and the flesh, so you carry them all together. If they accuse us of eating the coconut husk, so what? We know what we’re doing.</p>
+  </div>
+      ]]></description>
+      <pubDate>Wed, 04 Mar 2026 23:50:31 GMT</pubDate>
+      <guid isPermaLink="false">1772668231430</guid>
+    </item>
+
     <item>
       <title><![CDATA[Ajahn Chah: Children are like vines. Wherever a vine sprouts up, it has to look for a tree to climb up. If one tree is…]]></title>
       <link>https://buddhanussati.github.io/dhamma-quotes</link>
@@ -161,20 +203,6 @@
       ]]></description>
       <pubDate>Sun, 01 Mar 2026 01:13:09 GMT</pubDate>
       <guid isPermaLink="false">1772327589699</guid>
-    </item>
-
-    <item>
-      <title><![CDATA[The Lonely Path: Whatever there is in the mind: If our reasons aren’t yet good enough, we can’t let it go. In other words, there…]]></title>
-      <link>https://buddhanussati.github.io/dhamma-quotes</link>
-      <description><![CDATA[
-        <div class="unit">
-    <h3 id="sigil_toc_id_30">The Lonely Path:</h3>
-
-    <p>Whatever there is in the mind: If our reasons aren’t yet good enough, we can’t let it go. In other words, there are two sides: this side here and that side there. People tend to walk along this side or along that side. There’s hardly anybody who walks along the middle. It’s a lonely path. When there’s love, we walk along the path of love. When there’s hatred, we walk along the path of hatred. If we try to walk by letting go of love and hatred, it’s a lonely path. We aren’t willing to follow it.</p>
-  </div>
-      ]]></description>
-      <pubDate>Sat, 28 Feb 2026 18:17:38 GMT</pubDate>
-      <guid isPermaLink="false">1772302658701</guid>
     </item>
   </channel>
 </rss>
