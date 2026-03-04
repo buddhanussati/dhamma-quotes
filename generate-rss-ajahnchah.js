@@ -104,7 +104,7 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
   <channel>
     <title>Ajahn Chah Quotes</title>
     <link>https://buddhanussati.github.io/dhamma-quotes</link>
-    <description>Dhamma quotes by Ajahn Chah, updated every 6 hours</description>
+    <description>Dhamma quotes by Ajahn Chah, updated every day</description>
     <lastBuildDate>${pubDate}</lastBuildDate>
     <image>
       <url>https://buddhanussati.github.io/dhamma-quotes/favicon2.png</url>
@@ -118,4 +118,5 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 fs.writeFileSync(RSS_FILE, rssXml);
 
 console.log(`Generated RSS with ${history.length} items. Quotes left in cycle: ${availableIndices.length}. Latest: ${titleText}`);
+
 
