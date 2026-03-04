@@ -4,13 +4,28 @@
     <title>Trích Dẫn Kinh Điển Nikaya</title>
     <link>https://loicuaducphat.org/congcu/trichdan</link>
     <description>Trích Dẫn Kinh Điển Nikaya</description>
-    <lastBuildDate>Wed, 04 Mar 2026 05:57:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 09:36:16 GMT</lastBuildDate>
     <image>
       <url>https://loicuaducphat.org/congcu/images/favicon6.ico</url>
       <title>Trích Dẫn Kinh Điển Nikaya</title>
       <link>https://loicuaducphat.org/congcu/images/favicon6.ico</link>
     </image>
     
+    <item>
+      <title><![CDATA["Hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa chính mình, chớ nương tựa một gì khác."]]></title>
+      <link>https://loicuaducphat.org/dn/dn16.html#content</link>
+      <description><![CDATA[
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/500px-Gandhara_Buddha_%28tnm%29.jpeg" alt="Buddhist imagery" style="max-width: 100%; height: auto; margin-bottom: 15px;" /><br>
+        "Hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa chính mình, chớ nương tựa một gì khác."
+        <br><br>
+        <strong>Trích:</strong> Trường Bộ 16 – Kinh Đại Bát Niết Bàn
+        <br><a href="https://loicuaducphat.org/dn/dn16.html#content">📖 Đọc kinh này</a>
+      ]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/500px-Gandhara_Buddha_%28tnm%29.jpeg" type="image/jpeg" length="0" />
+      <pubDate>Wed, 04 Mar 2026 09:36:16 GMT</pubDate>
+      <guid isPermaLink="false">1772616976323</guid>
+    </item>
+
     <item>
       <title><![CDATA[Ở đây, này các Gia chủ, vị Thánh đệ tử suy nghĩ như sau: “Ta muốn sống, không muốn chết, muốn lạc, ghét khổ. Nếu…]]></title>
       <link>https://loicuaducphat.org/sn/sn55.7.html#content</link>
@@ -144,21 +159,6 @@
       <enclosure url="https://budsas.net/sen/hoasen_tranh09.jpg" type="image/jpeg" length="0" />
       <pubDate>Mon, 02 Mar 2026 23:52:54 GMT</pubDate>
       <guid isPermaLink="false">1772495574615</guid>
-    </item>
-
-    <item>
-      <title><![CDATA[Này các Tỷ kheo, và thế nào là Chánh tinh tấn? Này các Tỷ kheo, ở đây Tỷ kheo, đối với các ác, bất thiện…]]></title>
-      <link>https://loicuaducphat.org/dn/dn22.html#content</link>
-      <description><![CDATA[
-        <img src="https://budsas.net/senv/sen_vn001.jpg" alt="Buddhist imagery" style="max-width: 100%; height: auto; margin-bottom: 15px;" /><br>
-        Này các Tỷ kheo, và thế nào là Chánh tinh tấn? Này các Tỷ kheo, ở đây Tỷ kheo, đối với các ác, bất thiện pháp chưa sanh, khởi lên ý muốn không cho sanh khởi; vị này nỗ lực, tinh tấn, quyết tâm, trì chí. Ðối với các ác, bất thiện pháp đã sanh, khởi lên ý muốn trừ diệt, vị này nỗ lực, tinh tấn, quyết tâm, trì chí. Ðối với các thiện pháp chưa sanh, khởi lên ý muốn khiến cho sanh khởi; vị này nỗ lực, tinh tấn, quyết tâm, trì chí. Ðối với các thiện pháp đã sanh, khởi lên ý muốn khiến cho an trú, không cho băng hoại, khiến cho tăng trưởng, phát triển, viên mãn. Vị này nỗ lực, tinh tấn, quyết tâm, trì chí. Này các Tỷ kheo, như vậy gọi là Chánh tinh tấn.
-        <br><br>
-        <strong>Trích:</strong> Trường Bộ 22 – Kinh Ðại Niệm xứ
-        <br><a href="https://loicuaducphat.org/dn/dn22.html#content">📖 Đọc kinh này</a>
-      ]]></description>
-      <enclosure url="https://budsas.net/senv/sen_vn001.jpg" type="image/jpeg" length="0" />
-      <pubDate>Mon, 02 Mar 2026 23:23:05 GMT</pubDate>
-      <guid isPermaLink="false">1772493785506</guid>
     </item>
   </channel>
 </rss>
