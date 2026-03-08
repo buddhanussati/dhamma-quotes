@@ -1,7 +1,7 @@
 const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantara Jataka (#281)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/281-Abbhantara-Jataka.jpg" alt="temple painting of Abbhantara Jataka" class="wp-image-6090" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/281-Abbhantara-Jataka.jpg" alt="temple painting of Abbhantara Jataka" class="wp-image-6090" width="400" height="348" >
 <link>https://thejatakatales.com/abbhantara-jataka-281</link>
 
 
@@ -54,7 +54,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Abhinha Jataka (#27)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/27-Abhinha-Jataka.jpg" alt="painting of Abhinha Jataka" class="wp-image-5204" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/27-Abhinha-Jataka.jpg" alt="painting of Abhinha Jataka" class="wp-image-5204" width="400" height="348" >
 <link>https://thejatakatales.com/abhinha-jataka-27</link>
 
 
@@ -83,7 +83,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Adiccupatthana Jataka (#175)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/175-Adiccupatthana-Jataka.jpg" alt="temple painting of Adiccupatthana Jataka" class="wp-image-5877" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/175-Adiccupatthana-Jataka.jpg" alt="temple painting of Adiccupatthana Jataka" class="wp-image-5877" width="400" height="348" >
 <link>https://thejatakatales.com/adiccupatthana-jataka-175</link>
 
 
@@ -116,7 +116,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Aditta Jataka (#424)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/424-Aditta-Jataka.jpg" alt="temple painting of Aditta Jataka" class="wp-image-6463" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/424-Aditta-Jataka.jpg" alt="temple painting of Aditta Jataka" class="wp-image-6463" width="400" height="348" >
 <link>https://thejatakatales.com/aditta-jataka-424</link>
 
 
@@ -149,7 +149,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Aggika Jataka (#129)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/129-Aggika-Jataka.jpg" alt="temple painting of Aggika Jataka" class="wp-image-5752" width="346" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/129-Aggika-Jataka.jpg" alt="temple painting of Aggika Jataka" class="wp-image-5752" width="346" height="400" >
 <link>https://thejatakatales.com/aggika-jataka-129</link>
 
 
@@ -184,7 +184,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ajanna Jataka (#24)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/24-Ajanna-Jataka.jpg" alt="painting of Ajanna Jataka" class="wp-image-5201" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/24-Ajanna-Jataka.jpg" alt="painting of Ajanna Jataka" class="wp-image-5201" width="400" height="348" >
 <link>https://thejatakatales.com/ajanna-jataka-24</link>
 
 
@@ -225,7 +225,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Akalaravi Jataka (#119)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/119-Akalaravi-Jataka.jpg" alt="temple painting of Akalaravi Jataka" class="wp-image-5717" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/119-Akalaravi-Jataka.jpg" alt="temple painting of Akalaravi Jataka" class="wp-image-5717" width="400" height="348" >
 <link>https://thejatakatales.com/akalaravi-jataka-119</link>
 
 
@@ -254,7 +254,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Akatannu Jataka (#90)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/90-Akatannu-Jataka.jpg" alt="temple painting of Akatannu Jataka" class="wp-image-5630" width="225" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/90-Akatannu-Jataka.jpg" alt="temple painting of Akatannu Jataka" class="wp-image-5630" width="225" height="400" >
 <link>https://thejatakatales.com/akatannu-jataka-90</link>
 
 
@@ -287,7 +287,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Akitta Jataka (#480)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/480-Akitta-Jataka.jpg" alt="temple painting of Akitta Jataka" class="wp-image-6552" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/480-Akitta-Jataka.jpg" alt="temple painting of Akitta Jataka" class="wp-image-6552" width="400" height="348" >
 <link>https://thejatakatales.com/akitta-jataka-480</link>
 
 
@@ -328,7 +328,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Alambusa Jataka (#523)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/523-Alambusa-Jataka.jpg" alt="temple painting of Alambusa Jataka" class="wp-image-5479" width="218" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/523-Alambusa-Jataka.jpg" alt="temple painting of Alambusa Jataka" class="wp-image-5479" width="218" height="400" >
 <link>https://thejatakatales.com/alambusa-jataka-523</link>
 
 
@@ -369,7 +369,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Alinacitta Jataka (#156)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/156-Alinacitta-Jataka.jpg" alt="temple painting of Alinacitta Jataka" class="wp-image-5810" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/156-Alinacitta-Jataka.jpg" alt="temple painting of Alinacitta Jataka" class="wp-image-5810" width="400" height="348" >
 <link>https://thejatakatales.com/alinacitta-jataka-156</link>
 
 
@@ -426,7 +426,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Amaradevi-Panha Jataka (#112)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/112-Amaradevi-Panha-Jataka.jpg" alt="temple painting of Amaradevi-Panha Jataka" class="wp-image-5397" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/112-Amaradevi-Panha-Jataka.jpg" alt="temple painting of Amaradevi-Panha Jataka" class="wp-image-5397" width="400" height="348" >
 <link>https://thejatakatales.com/amaradevi-panha-jataka-112</link>
 
 
@@ -459,7 +459,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Amba Jataka (#124)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/124-Amba-Jataka.jpg" alt="temple painting of Amba Jataka" class="wp-image-5451" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/124-Amba-Jataka.jpg" alt="temple painting of Amba Jataka" class="wp-image-5451" >
 <link>https://thejatakatales.com/amba-jataka-124</link>
 
 
@@ -484,7 +484,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Amba Jataka (#474)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/474-Amba-Jataka.jpg" alt="temple painting of Amba Jataka" class="wp-image-6547" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/474-Amba-Jataka.jpg" alt="temple painting of Amba Jataka" class="wp-image-6547" width="400" height="348" >
 <link>https://thejatakatales.com/amba-jataka-474</link>
 
 
@@ -545,7 +545,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ambacora Jataka (#344)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/344-Ambacora-Jataka.jpg" alt="temple painting of Ambacora Jataka" class="wp-image-6230" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/344-Ambacora-Jataka.jpg" alt="temple painting of Ambacora Jataka" class="wp-image-6230" width="400" height="348" >
 <link>https://thejatakatales.com/ambacora-jataka-344</link>
 
 
@@ -574,7 +574,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Anabhirati Jataka (#185)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/185-Anabhirati-Jataka.jpg" alt="temple painting of Anabhirati Jataka" class="wp-image-6720" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/185-Anabhirati-Jataka.jpg" alt="temple painting of Anabhirati Jataka" class="wp-image-6720" width="400" height="348" >
 <link>https://thejatakatales.com/anabhirati-jataka-185</link>
 
 
@@ -603,7 +603,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Anabhirati Jataka (#65)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/65-Anabhirati-Jataka.jpg" alt="painting of Anabhirati Jataka" class="wp-image-5298" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/65-Anabhirati-Jataka.jpg" alt="painting of Anabhirati Jataka" class="wp-image-5298" width="400" height="348" >
 <link>https://thejatakatales.com/anabhirati-jataka-65</link>
 
 
@@ -632,7 +632,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ananusociya Jataka (#328)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/328-Ananusociya-Jataka.jpg" alt="temple painting of Ananusociya Jataka" class="wp-image-6217" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/328-Ananusociya-Jataka.jpg" alt="temple painting of Ananusociya Jataka" class="wp-image-6217" width="400" height="348" >
 <link>https://thejatakatales.com/ananusociya-jataka-328</link>
 
 
@@ -669,7 +669,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Andabhuta Jataka (#62)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/62-Andabhuta-Jataka.jpg" alt="painting of Andabhuta Jataka" class="wp-image-5296" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/62-Andabhuta-Jataka.jpg" alt="painting of Andabhuta Jataka" class="wp-image-5296" width="400" height="348" >
 <link>https://thejatakatales.com/andabhuta-jataka-62</link>
 
 
@@ -726,7 +726,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Anta Jataka (#295)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/295-Anta-Jataka.jpg" alt="temple painting of Anta Jataka" class="wp-image-6137" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/295-Anta-Jataka.jpg" alt="temple painting of Anta Jataka" class="wp-image-6137" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/anta-jataka-295</link>
 
 
@@ -755,7 +755,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Anusasika Jataka (#115)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/115-Anusasika-Jataka.jpg" alt="temple painting of Anusasika Jataka" class="wp-image-5713" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/115-Anusasika-Jataka.jpg" alt="temple painting of Anusasika Jataka" class="wp-image-5713" width="400" height="348" >
 <link>https://thejatakatales.com/anusasika-jataka-115</link>
 
 
@@ -784,7 +784,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Apannaka Jataka (#1)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/1-Apannaka-Jataka.jpg" alt="painting of Apannaka Jataka" class="wp-image-5076" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/1-Apannaka-Jataka.jpg" alt="painting of Apannaka Jataka" class="wp-image-5076" width="400" height="348" >
 <link>https://thejatakatales.com/apannaka-jataka-1</link>
 
 
@@ -825,7 +825,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Araka Jataka (#169)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/169-Araka-Jataka.jpg" alt="temple painting of Araka Jataka" class="wp-image-5848" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/169-Araka-Jataka.jpg" alt="temple painting of Araka Jataka" class="wp-image-5848" width="400" height="348" >
 <link>https://thejatakatales.com/araka-jataka-169</link>
 
 
@@ -866,7 +866,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Aramadusaka Jataka (#46)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/46-Aramadusaka-Jataka.jpg" alt="painting of Aramadusaka Jataka" class="wp-image-5241" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/46-Aramadusaka-Jataka.jpg" alt="painting of Aramadusaka Jataka" class="wp-image-5241" width="400" height="348" >
 <link>https://thejatakatales.com/arama-dusa-jataka-268</link>
 
 
@@ -899,7 +899,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Aranna Jataka (#348)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/348-Aranna-Jataka.jpg" alt="temple painting of Aranna Jataka" class="wp-image-6232" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/348-Aranna-Jataka.jpg" alt="temple painting of Aranna Jataka" class="wp-image-6232" width="400" height="348" >
 <link>https://thejatakatales.com/aranna-jataka-348</link>
 
 
@@ -932,7 +932,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asadisa Jataka (#181)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/181-Asadisa-Jataka.jpg" alt="temple painting of Asadisa Jataka" class="wp-image-6796" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/181-Asadisa-Jataka.jpg" alt="temple painting of Asadisa Jataka" class="wp-image-6796" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/asadisa-jataka-181</link>
 
 
@@ -977,7 +977,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asamkiya Jataka (#76)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/76-Asamkiya-Jataka.jpg" alt="temple painting of Asamkiya Jataka" class="wp-image-5350" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/76-Asamkiya-Jataka.jpg" alt="temple painting of Asamkiya Jataka" class="wp-image-5350" width="400" height="348" >
 <link>https://thejatakatales.com/asamkiya-jataka-76</link>
 
 
@@ -1014,7 +1014,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asampadana Jataka (#131)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/131-Asampadana-Jataka.jpg" alt="temple painting of Asampadana Jataka" class="wp-image-5753" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/131-Asampadana-Jataka.jpg" alt="temple painting of Asampadana Jataka" class="wp-image-5753" width="400" height="348" >
 <link>https://thejatakatales.com/asampadana-jataka-131</link>
 
 
@@ -1043,7 +1043,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asanka Jataka (#380)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/380-Asanka-Jataka.jpg" alt="temple painting of Asanka Jataka" class="wp-image-6366" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/380-Asanka-Jataka.jpg" alt="temple painting of Asanka Jataka" class="wp-image-6366" width="400" height="348" >
 <link>https://thejatakatales.com/asanka-jataka-380</link>
 
 
@@ -1088,7 +1088,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asatamanta Jataka (#61)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/61-Asatamanta-Jataka.jpg" alt="painting of Asatamanta Jataka" class="wp-image-5295" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/61-Asatamanta-Jataka.jpg" alt="painting of Asatamanta Jataka" class="wp-image-5295" width="400" height="348" >
 <link>https://thejatakatales.com/asatamanta-jataka-61</link>
 
 
@@ -1133,7 +1133,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asatarupa Jataka (#100)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/100-Asatarupa-Jataka.jpg" alt="temple painting of Asatarupa Jataka" class="wp-image-5704" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/100-Asatarupa-Jataka.jpg" alt="temple painting of Asatarupa Jataka" class="wp-image-5704" width="400" height="348" >
 <link>https://thejatakatales.com/asatarupa-jataka-100</link>
 
 
@@ -1162,7 +1162,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asilakkhana Jataka (#126)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/126-Asilakkhana-Jataka.jpg" alt="temple painting of Asilakkhana Jataka" class="wp-image-6737" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/126-Asilakkhana-Jataka.jpg" alt="temple painting of Asilakkhana Jataka" class="wp-image-6737" width="400" height="348" >
 <link>https://thejatakatales.com/asilakkhana-jataka-126</link>
 
 
@@ -1207,7 +1207,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Asitabhu Jataka (#234)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/234-Asitabhu-Jataka.jpg" alt="temple painting of Asitabhu Jataka" class="wp-image-5992" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/234-Asitabhu-Jataka.jpg" alt="temple painting of Asitabhu Jataka" class="wp-image-5992" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/asitabhu-jataka-234</link>
 
 
@@ -1240,7 +1240,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Assaka Jataka (#207)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/207-Assaka-Jataka.jpg" alt="temple painting of Assaka Jataka" class="wp-image-5948" width="296" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/207-Assaka-Jataka.jpg" alt="temple painting of Assaka Jataka" class="wp-image-5948" width="296" height="400" >
 <link>https://thejatakatales.com/assaka-jataka-207</link>
 
 
@@ -1277,7 +1277,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Atthana Jataka (#425)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/425-Atthana-Jataka.jpg" alt="temple painting of Atthana Jataka" class="wp-image-6464" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/425-Atthana-Jataka.jpg" alt="temple painting of Atthana Jataka" class="wp-image-6464" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/atthana-jataka-425</link>
 
 
@@ -1368,7 +1368,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Atthasadda Jataka (#418)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/418-Atthasadda-Jataka.jpg" alt="temple painting of Atthasadda Jataka" class="wp-image-6437" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/418-Atthasadda-Jataka.jpg" alt="temple painting of Atthasadda Jataka" class="wp-image-6437" width="400" height="348" >
 <link>https://thejatakatales.com/atthasadda-jataka-418</link>
 
 
@@ -1445,7 +1445,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Atthassadvara Jataka (#84)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/84-Atthassadvara-Jataka.jpg" alt="temple painting of Atthassadvara Jataka" class="wp-image-5465" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/84-Atthassadvara-Jataka.jpg" alt="temple painting of Atthassadvara Jataka" class="wp-image-5465" width="400" height="348" >
 <link>https://thejatakatales.com/atthassadvara-jataka-84</link>
 
 
@@ -1470,7 +1470,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Atthisena Jataka (#403)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/403-Atthisena-Jataka.jpg" alt="temple painting of Atthisena Jataka" class="wp-image-6415" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/403-Atthisena-Jataka.jpg" alt="temple painting of Atthisena Jataka" class="wp-image-6415" width="400" height="348" >
 <link>https://thejatakatales.com/atthisena-jataka-403</link>
 
 
@@ -1507,7 +1507,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Avariya Jataka (#376)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/376-Avariya-Jataka.jpg" alt="temple painting of Avariya Jataka" class="wp-image-6299" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/376-Avariya-Jataka.jpg" alt="temple painting of Avariya Jataka" class="wp-image-6299" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/avariya-jataka-376</link>
 
 
@@ -1552,7 +1552,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ayacitabhatta Jataka (#19)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/19-Ayacitabhatta-Jataka.jpg" alt="temple painting of Ayacitabhatta Jataka" class="wp-image-5560" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/19-Ayacitabhatta-Jataka.jpg" alt="temple painting of Ayacitabhatta Jataka" class="wp-image-5560" width="400" height="348" >
 <link>https://thejatakatales.com/ayacitabhatta-jataka-19</link>
 
 
@@ -1581,7 +1581,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ayakuta Jataka (#347)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/347-Ayakuta-Jataka.jpg" alt="temple painting of Ayakuta Jataka" class="wp-image-6231" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/347-Ayakuta-Jataka.jpg" alt="temple painting of Ayakuta Jataka" class="wp-image-6231" width="400" height="348" >
 <link>https://thejatakatales.com/ayakuta-jataka-347</link>
 
 
@@ -1610,7 +1610,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ayoghara Jataka (#510)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/510-Ayoghara-Jataka.jpg" alt="temple painting of Ayoghara Jataka" class="wp-image-6570" width="239" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/510-Ayoghara-Jataka.jpg" alt="temple painting of Ayoghara Jataka" class="wp-image-6570" width="239" height="400" >
 <link>https://thejatakatales.com/ayoghara-jataka-510</link>
 
 
@@ -1651,7 +1651,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Babbu Jataka (#137)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/137-Babbu-Jataka.jpg" alt="temple painting of Babbu Jataka" class="wp-image-5778" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/137-Babbu-Jataka.jpg" alt="temple painting of Babbu Jataka" class="wp-image-5778" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/babbu-jataka-137</link>
 
 
@@ -1692,7 +1692,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bahiya Jataka (#108)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/108-Bahiya-Jataka.jpg" alt="temple painting of Bahiya Jataka" class="wp-image-5709" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/108-Bahiya-Jataka.jpg" alt="temple painting of Bahiya Jataka" class="wp-image-5709" width="400" height="348" >
 <link>https://thejatakatales.com/bahiya-jataka-108</link>
 
 
@@ -1717,7 +1717,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Baka-Brahma Jataka (#405)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/346-Kesava-Jataka.jpg" alt="temple painting of Kesava Jataka" class="wp-image-5458" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/346-Kesava-Jataka.jpg" alt="temple painting of Kesava Jataka" class="wp-image-5458" width="400" height="348" >
 <link>https://thejatakatales.com/baka-brahma-jataka-405</link>
 
 
@@ -1754,7 +1754,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Baka Jataka (#236)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/236-Baka-Jataka.jpg" alt="temple painting of Baka Jataka" class="wp-image-5994" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/236-Baka-Jataka.jpg" alt="temple painting of Baka Jataka" class="wp-image-5994" width="400" height="348" >
 <link>https://thejatakatales.com/baka-jataka-236</link>
 
 
@@ -1779,7 +1779,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Baka Jataka (#38)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/38-Baka-Jataka.jpg" alt="painting of Baka Jataka" class="wp-image-5152" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/38-Baka-Jataka.jpg" alt="painting of Baka Jataka" class="wp-image-5152" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/baka-jataka-38</link>
 
 
@@ -1820,7 +1820,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bandhanagara Jataka (#201)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/201-Bandhanagara-Jataka.jpg" alt="temple painting of Bandhanagara Jataka" class="wp-image-5942" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/201-Bandhanagara-Jataka.jpg" alt="temple painting of Bandhanagara Jataka" class="wp-image-5942" width="400" height="348" >
 <link>https://thejatakatales.com/bandhanagara-jataka-201</link>
 
 
@@ -1853,7 +1853,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bandhanamokkha Jataka (#120)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/120-Bandhanamokkha-Jataka.jpg" alt="temple painting of Bandhanamokkha Jataka" class="wp-image-5718" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/120-Bandhanamokkha-Jataka.jpg" alt="temple painting of Bandhanamokkha Jataka" class="wp-image-5718" width="400" height="348" >
 <link>https://thejatakatales.com/bandhanamokkha-jataka-120</link>
 
 
@@ -1902,7 +1902,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Baveru Jataka (#339)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/339-Baveru-Jataka.jpg" alt="temple painting of Baveru Jataka" class="wp-image-6227" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/339-Baveru-Jataka.jpg" alt="temple painting of Baveru Jataka" class="wp-image-6227" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/baveru-jataka-339</link>
 
 
@@ -1927,7 +1927,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhadda-Sala Jataka (#465)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/465-Bhadda-Sala-Jataka.jpg" alt="temple painting of Bhadda-Sala Jataka" class="wp-image-6541" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/465-Bhadda-Sala-Jataka.jpg" alt="temple painting of Bhadda-Sala Jataka" class="wp-image-6541" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/bhadda-sala-jataka-465</link>
 
 
@@ -2008,7 +2008,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhadra-Ghata Jataka (#291)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/291-Bhadra-Ghata-Jataka.jpg" alt="temple painting of Bhadra-Ghata Jataka" class="wp-image-6133" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/291-Bhadra-Ghata-Jataka.jpg" alt="temple painting of Bhadra-Ghata Jataka" class="wp-image-6133" width="400" height="348" >
 <link>https://thejatakatales.com/bhadra-ghata-jataka-291</link>
 
 
@@ -2037,7 +2037,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhallatiya Jataka (#504)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/504-Bhallatiya-Jataka.jpg" alt="temple painting of Bhallatiya Jataka" class="wp-image-6566" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/504-Bhallatiya-Jataka.jpg" alt="temple painting of Bhallatiya Jataka" class="wp-image-6566" width="400" height="348" >
 <link>https://thejatakatales.com/bhallatiya-jataka-504</link>
 
 
@@ -2066,7 +2066,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bharu Jataka (#213)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/213-Bharu-Jataka.jpg" alt="temple painting of Bharu Jataka" class="wp-image-6741" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/213-Bharu-Jataka.jpg" alt="temple painting of Bharu Jataka" class="wp-image-6741" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/bharu-jataka-213</link>
 
 
@@ -2107,7 +2107,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bherivada Jataka (#59)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/59-Bherivada-Jataka.jpg" alt="painting of Bherivada Jataka" class="wp-image-5293" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/59-Bherivada-Jataka.jpg" alt="painting of Bherivada Jataka" class="wp-image-5293" width="400" height="348" >
 <link>https://thejatakatales.com/bherivada-jataka-59</link>
 
 
@@ -2132,7 +2132,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhikkha-Parampara Jataka (#496)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/496-Bhikkha-Parampara-Jataka.jpg" alt="temple painting of Bhikkha-Parampara Jataka" class="wp-image-6562" width="221" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/496-Bhikkha-Parampara-Jataka.jpg" alt="temple painting of Bhikkha-Parampara Jataka" class="wp-image-6562" width="221" height="400" >
 <link>https://thejatakatales.com/bhikkha-parampara-jataka-496</link>
 
 
@@ -2173,7 +2173,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhimasena Jataka (#80)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/80-Bhimasena-Jataka.jpg" alt="temple painting of Bhimasena Jataka" class="wp-image-5607" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/80-Bhimasena-Jataka.jpg" alt="temple painting of Bhimasena Jataka" class="wp-image-5607" width="400" height="348" >
 <link>https://thejatakatales.com/bhimasena-jataka-80</link>
 
 
@@ -2206,7 +2206,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhisa Jataka (#488)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/488-Bhisa-Jataka.jpg" alt="temple painting of Bhisa Jataka" class="wp-image-6749" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/488-Bhisa-Jataka.jpg" alt="temple painting of Bhisa Jataka" class="wp-image-6749" width="400" height="348" >
 <link>https://thejatakatales.com/bhisa-jataka-488</link>
 
 
@@ -2251,7 +2251,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhisapuppha Jataka (#392)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/392-Bhisapuppha-Jataka.jpg" alt="temple painting of Bhisapuppha Jataka" class="wp-image-6389" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/392-Bhisapuppha-Jataka.jpg" alt="temple painting of Bhisapuppha Jataka" class="wp-image-6389" width="400" height="348" >
 <link>https://thejatakatales.com/bhisapuppha-jataka-392</link>
 
 
@@ -2280,7 +2280,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhojajaniya Jataka (#23)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/23-Bhojajaniya-Jataka.jpg" alt="painting of Bhojajaniya Jataka" class="wp-image-5200" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/23-Bhojajaniya-Jataka.jpg" alt="painting of Bhojajaniya Jataka" class="wp-image-5200" width="400" height="348" >
 <link>https://thejatakatales.com/bhojajaniya-jataka-23</link>
 
 
@@ -2321,7 +2321,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bhuri-Panha Jataka (#452)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/bhuri-panha-jataka-452</link>
 
 
@@ -2362,7 +2362,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/543-Bhuridatta-Jataka.jpg" alt="painting of Bhuridatta Jataka" class="wp-image-5037" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/543-Bhuridatta-Jataka.jpg" alt="painting of Bhuridatta Jataka" class="wp-image-5037" >
 <link>https://thejatakatales.com/bhuridatta-jataka-543</link>
 
 
@@ -2375,7 +2375,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/bhuridatta-jataka-543-virtue.jpg" alt="man looking at giant naga" class="wp-image-3401" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/bhuridatta-jataka-543-virtue.jpg" alt="man looking at giant naga" class="wp-image-3401" style="width:400px;height:348px" >
 
 
 
@@ -2511,7 +2511,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bilara Jataka (#128)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/128-Bilara-Jataka.jpg" alt="temple painting of Bilara Jataka" class="wp-image-5751" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/128-Bilara-Jataka.jpg" alt="temple painting of Bilara Jataka" class="wp-image-5751" width="400" height="348" >
 <link>https://thejatakatales.com/bilara-jataka-128</link>
 
 
@@ -2540,7 +2540,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Bilari-Kosiya Jataka (#450)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/450-Bilari-Kosiya-Jataka.jpg" alt="temple painting of Bilari-Kosiya Jataka" class="wp-image-6529" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/450-Bilari-Kosiya-Jataka.jpg" alt="temple painting of Bilari-Kosiya Jataka" class="wp-image-6529" width="400" height="348" >
 <link>https://thejatakatales.com/bilari-kosiya-jataka-450</link>
 
 
@@ -2585,7 +2585,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Brahachatta Jataka (#336)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/336-Brahachatta-Jataka.jpg" alt="temple painting of Brahachatta Jataka" class="wp-image-6224" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/336-Brahachatta-Jataka.jpg" alt="temple painting of Brahachatta Jataka" class="wp-image-6224" width="400" height="348" >
 <link>https://thejatakatales.com/brahachatta-jataka-336</link>
 
 
@@ -2618,7 +2618,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Brahmadatta Jataka (#323)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/323-Brahmadatta-Jataka.jpg" alt="temple painting of Brahmadatta Jataka" class="wp-image-6213" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/323-Brahmadatta-Jataka.jpg" alt="temple painting of Brahmadatta Jataka" class="wp-image-6213" width="400" height="348" >
 <link>https://thejatakatales.com/brahmadatta-jataka-323</link>
 
 
@@ -2659,7 +2659,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cakka-Vaka Jataka (#451)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/451-Cakka-Vaka-Jataka.jpg" alt="temple painting of Cakka-Vaka Jataka" class="wp-image-6530" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/451-Cakka-Vaka-Jataka.jpg" alt="temple painting of Cakka-Vaka Jataka" class="wp-image-6530" width="400" height="348" >
 <link>https://thejatakatales.com/cakka-vaka-jataka-451</link>
 
 
@@ -2688,7 +2688,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cakkavaka Jataka (#434)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/434-Cakkavaka-Jataka.jpg" alt="temple painting of Cakkavaka Jataka" class="wp-image-6468" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/434-Cakkavaka-Jataka.jpg" alt="temple painting of Cakkavaka Jataka" class="wp-image-6468" width="400" height="348" >
 <link>https://thejatakatales.com/cakkavaka-jataka-434</link>
 
 
@@ -2717,7 +2717,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cammasataka Jataka (#324)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/324-Cammasataka-Jataka.jpg" alt="temple painting of Cammasataka Jataka" class="wp-image-6214" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/324-Cammasataka-Jataka.jpg" alt="temple painting of Cammasataka Jataka" class="wp-image-6214" width="400" height="348" >
 <link>https://thejatakatales.com/cammasataka-jataka-324</link>
 
 
@@ -2746,7 +2746,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Campeyya Jataka (#506)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/506-Campeyya-Jataka.jpg" alt="temple painting of Campeyya Jataka" class="wp-image-6568" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/506-Campeyya-Jataka.jpg" alt="temple painting of Campeyya Jataka" class="wp-image-6568" width="400" height="348" >
 <link>https://thejatakatales.com/campeyya-jataka-506</link>
 
 
@@ -2807,7 +2807,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Canda-Kinnara Jataka (#485)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/485-Canda-Kinnara-Jataka.jpg" alt="temple painting of Canda-Kinnara Jataka" class="wp-image-6555" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/485-Canda-Kinnara-Jataka.jpg" alt="temple painting of Canda-Kinnara Jataka" class="wp-image-6555" width="400" height="348" >
 <link>https://thejatakatales.com/canda-kinnara-jataka-485</link>
 
 
@@ -2852,7 +2852,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Candabha Jataka (#135)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/135-Candabha-Jataka.jpg" alt="temple painting of Candabha Jataka" class="wp-image-5755" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/135-Candabha-Jataka.jpg" alt="temple painting of Candabha Jataka" class="wp-image-5755" width="400" height="348" >
 <link>https://thejatakatales.com/candabha-jataka-135</link>
 
 
@@ -2877,7 +2877,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Catu-Dvara Jataka (#439)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/439-Catu-Dvara-Jataka.jpg" alt="temple painting of Catu-Dvara Jataka" class="wp-image-5535" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/439-Catu-Dvara-Jataka.jpg" alt="temple painting of Catu-Dvara Jataka" class="wp-image-5535" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/catu-dvara-jataka-439</link>
 
 
@@ -2922,7 +2922,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Catu-Posathika Jataka (#441)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/545-Vidhurapandita-Jataka.jpg" alt="temple painting of Vidhurapandita Jataka" class="wp-image-5039" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/545-Vidhurapandita-Jataka.jpg" alt="temple painting of Vidhurapandita Jataka" class="wp-image-5039" width="400" height="348" >
 <link>https://thejatakatales.com/catu-posathika-jataka-441</link>
 
 
@@ -2959,7 +2959,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Catumatta Jataka (#187)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/187-Catumatta-Jataka.jpg" alt="temple painting of Catumatta Jataka" class="wp-image-5913" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/187-Catumatta-Jataka.jpg" alt="temple painting of Catumatta Jataka" class="wp-image-5913" width="400" height="348" >
 <link>https://thejatakatales.com/catumatta-jataka-187</link>
 
 
@@ -2988,7 +2988,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cetiya Jataka (#422)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/422-Cetiya-Jataka.jpg" alt="temple painting of Cetiya Jataka" class="wp-image-6461" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/422-Cetiya-Jataka.jpg" alt="temple painting of Cetiya Jataka" class="wp-image-6461" width="400" height="348" >
 <link>https://thejatakatales.com/cetiya-jataka-422</link>
 
 
@@ -3029,7 +3029,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Chaddanta Jataka (#514)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/514-Chaddanta-Jataka.jpg" alt="temple painting of Chaddanta Jataka" class="wp-image-6573" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/514-Chaddanta-Jataka.jpg" alt="temple painting of Chaddanta Jataka" class="wp-image-6573" width="400" height="348" >
 <link>https://thejatakatales.com/chaddanta-jataka-514</link>
 
 
@@ -3082,7 +3082,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Chavaka Jataka (#309)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/309-Chavaka-Jataka.jpg" alt="temple painting of Chavaka Jataka" class="wp-image-6164" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/309-Chavaka-Jataka.jpg" alt="temple painting of Chavaka Jataka" class="wp-image-6164" width="400" height="348" >
 <link>https://thejatakatales.com/chavaka-jataka-309</link>
 
 
@@ -3115,7 +3115,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Citta-Sambhuta Jataka (#498)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/498-Citta-Sambhuta-Jataka.jpg" alt="temple painting of Citta-Sambhuta Jataka" class="wp-image-6563" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/498-Citta-Sambhuta-Jataka.jpg" alt="temple painting of Citta-Sambhuta Jataka" class="wp-image-6563" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/citta-sambhuta-jataka-498</link>
 
 
@@ -3169,7 +3169,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cula-Nandiya Jataka (#222)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/222-Cula-Nandiya-Jataka.jpg" alt="temple painting of Cula-Nandiya Jataka" class="wp-image-5981" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/222-Cula-Nandiya-Jataka.jpg" alt="temple painting of Cula-Nandiya Jataka" class="wp-image-5981" width="400" height="348" >
 <link>https://thejatakatales.com/cula-nandiya-jataka-222</link>
 
 
@@ -3206,7 +3206,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Bodhi Jataka (#443)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/443-Culla-Bodhi-Jataka.jpg" alt="temple painting of Culla-Bodhi Jataka" class="wp-image-6503" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/443-Culla-Bodhi-Jataka.jpg" alt="temple painting of Culla-Bodhi Jataka" class="wp-image-6503" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/culla-bodhi-jataka-443</link>
 
 
@@ -3247,7 +3247,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Kunala Jataka (#464)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" width="400" height="348" >
 <link>https://thejatakatales.com/culla-kunala-jataka-464</link>
 
 
@@ -3280,7 +3280,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Narada Jataka (#477)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/477-Culla-Narada-Jataka.jpg" alt="temple painting of Culla-Narada Jataka" class="wp-image-6550" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/477-Culla-Narada-Jataka.jpg" alt="temple painting of Culla-Narada Jataka" class="wp-image-6550" width="400" height="348" >
 <link>https://thejatakatales.com/culla-narada-jataka-477</link>
 
 
@@ -3313,7 +3313,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Paduma Jataka (#193)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/193-Culla-Paduma-Jataka.jpg" alt="temple painting of Culla-Paduma Jataka" class="wp-image-5918" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/193-Culla-Paduma-Jataka.jpg" alt="temple painting of Culla-Paduma Jataka" class="wp-image-5918" width="400" height="348" >
 <link>https://thejatakatales.com/culla-paduma-jataka-193</link>
 
 
@@ -3366,7 +3366,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Palobhana Jataka (#263)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/263-Culla-Palobhana-Jataka.jpg" alt="temple painting of Culla-Palobhana Jataka" class="wp-image-5625" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/263-Culla-Palobhana-Jataka.jpg" alt="temple painting of Culla-Palobhana Jataka" class="wp-image-5625" width="400" height="348" >
 <link>https://thejatakatales.com/culla-palobhana-jataka-263</link>
 
 
@@ -3407,7 +3407,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culla-Sutasoma Jataka (#525)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/525-Culla-Sutasoma-Jataka.jpg" alt="temple painting of Culla-Sutasoma Jataka" class="wp-image-6577" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/525-Culla-Sutasoma-Jataka.jpg" alt="temple painting of Culla-Sutasoma Jataka" class="wp-image-6577" width="400" height="348" >
 <link>https://thejatakatales.com/culla-sutasoma-jataka-525</link>
 
 
@@ -3448,7 +3448,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culladhammapala Jataka (#358)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/358-Culladhammapala-Jataka.jpg" alt="temple painting of Culladhammapala Jataka" class="wp-image-6288" width="310" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/358-Culladhammapala-Jataka.jpg" alt="temple painting of Culladhammapala Jataka" class="wp-image-6288" width="310" height="400" >
 <link>https://thejatakatales.com/culladhammapala-jataka-358</link>
 
 
@@ -3489,7 +3489,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Culladhanuggaha Jataka (#374)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/374-Culladhanuggaha-Jataka.jpg" alt="temple painting of Culladhanuggaha Jataka" class="wp-image-6298" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/374-Culladhanuggaha-Jataka.jpg" alt="temple painting of Culladhanuggaha Jataka" class="wp-image-6298" width="400" height="348" >
 <link>https://thejatakatales.com/culladhanuggaha-jataka-374</link>
 
 
@@ -3526,7 +3526,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cullahamsa Jataka (#533)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/533-Cullahamsa-Jataka.jpg" alt="temple painting of Cullahamsa Jataka" class="wp-image-5428" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/533-Cullahamsa-Jataka.jpg" alt="temple painting of Cullahamsa Jataka" class="wp-image-5428" width="400" height="348" >
 <link>https://thejatakatales.com/cullahamsa-jataka-533</link>
 
 
@@ -3591,7 +3591,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cullaka-Setthi Jataka (#4)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/4-Cullaka-Setthi-Jataka.jpg" alt="painting of Cullaka Setthi Jataka" class="wp-image-5079" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/4-Cullaka-Setthi-Jataka.jpg" alt="painting of Cullaka Setthi Jataka" class="wp-image-5079" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/cullaka-setthi-jataka-4</link>
 
 
@@ -3664,7 +3664,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cullakalinga Jataka (#301)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/301-Cullakalinga-Jataka.jpg" alt="temple painting of Cullakalinga Jataka" class="wp-image-6159" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/301-Cullakalinga-Jataka.jpg" alt="temple painting of Cullakalinga Jataka" class="wp-image-6159" width="400" height="348" >
 <link>https://thejatakatales.com/cullakalinga-jataka-301</link>
 
 
@@ -3713,7 +3713,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Cullasuka Jataka (#430)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/430-Cullasuka-Jataka.jpg" alt="temple painting of Cullasuka Jataka" class="wp-image-5338" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/430-Cullasuka-Jataka.jpg" alt="temple painting of Cullasuka Jataka" class="wp-image-5338" width="400" height="348" >
 <link>https://thejatakatales.com/cullasuka-jataka-430</link>
 
 
@@ -3750,7 +3750,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dabbhapuppha Jataka (#400)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/400-Dabbhapuppha-Jataka.jpg" alt="temple painting of Dabbhapuppha Jataka" class="wp-image-6412" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/400-Dabbhapuppha-Jataka.jpg" alt="temple painting of Dabbhapuppha Jataka" class="wp-image-6412" width="400" height="348" >
 <link>https://thejatakatales.com/dabbhapuppha-jataka-400</link>
 
 
@@ -3783,7 +3783,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Daddabha Jataka (#322)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/322-Daddabha-Jataka.jpg" alt="temple painting of Daddabha Jataka" class="wp-image-6212" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/322-Daddabha-Jataka.jpg" alt="temple painting of Daddabha Jataka" class="wp-image-6212" width="400" height="348" >
 <link>https://thejatakatales.com/daddabha-jataka-322</link>
 
 
@@ -3820,7 +3820,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Daddara Jataka (#172)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/172-Daddara-Jataka.jpg" alt="temple painting of Daddara Jataka" class="wp-image-5874" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/172-Daddara-Jataka.jpg" alt="temple painting of Daddara Jataka" class="wp-image-5874" width="400" height="348" >
 <link>https://thejatakatales.com/daddara-jataka-172</link>
 
 
@@ -3853,7 +3853,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Daddara Jataka (#304)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/304-Daddara-Jataka.jpg" alt="temple painting of Daddara Jataka" class="wp-image-6161" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/304-Daddara-Jataka.jpg" alt="temple painting of Daddara Jataka" class="wp-image-6161" width="400" height="348" >
 <link>https://thejatakatales.com/daddara-jataka-304</link>
 
 
@@ -3882,7 +3882,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dadhi-Vahana Jataka (#186)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/186-Dadhi-Vahana-Jataka.jpg" alt="temple painting of Dadhi-Vahana Jataka" class="wp-image-6825" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/186-Dadhi-Vahana-Jataka.jpg" alt="temple painting of Dadhi-Vahana Jataka" class="wp-image-6825" width="400" height="348" >
 <link>https://thejatakatales.com/dadhi-vahana-jataka-186</link>
 
 
@@ -3935,7 +3935,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dakarakkhasa Jataka (#517)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/dakarakkhasa-jataka-517</link>
 
 
@@ -3976,7 +3976,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dalhadhamma Jataka (#409)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/227-Gutha-Pana-Jataka.jpg" alt="temple painting of Gutha-Pana Jataka" class="wp-image-5985" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/227-Gutha-Pana-Jataka.jpg" alt="temple painting of Gutha-Pana Jataka" class="wp-image-5985" width="400" height="348" >
 <link>https://thejatakatales.com/dalhadhamma-jataka-409</link>
 
 
@@ -4021,7 +4021,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Darimukha Jataka (#378)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/529-Sonaka-Jataka.jpg" alt="temple painting of Sonaka Jataka" class="wp-image-5599" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/529-Sonaka-Jataka.jpg" alt="temple painting of Sonaka Jataka" class="wp-image-5599" width="400" height="348" >
 <link>https://thejatakatales.com/darimukha-jataka-378</link>
 
 
@@ -4070,7 +4070,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dasa-Brahmana Jataka (#495)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/495-Dasa-Brahmana-Jataka.jpg" alt="temple painting of Dasa-Brahmana Jataka" class="wp-image-6830" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/495-Dasa-Brahmana-Jataka.jpg" alt="temple painting of Dasa-Brahmana Jataka" class="wp-image-6830" width="400" height="348" >
 <link>https://thejatakatales.com/dasa-brahmana-jataka-495</link>
 
 
@@ -4107,7 +4107,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dasannaka Jataka (#401)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/401-Dasannaka-Jataka.jpg" alt="temple painting of Dasannaka Jataka" class="wp-image-6413" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/401-Dasannaka-Jataka.jpg" alt="temple painting of Dasannaka Jataka" class="wp-image-6413" width="400" height="348" >
 <link>https://thejatakatales.com/dasannaka-jataka-401</link>
 
 
@@ -4144,7 +4144,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dasaratha Jataka (#461)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/461-Dasaratha-Jataka.jpg" alt="temple painting of Dasaratha Jataka" class="wp-image-6538" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/461-Dasaratha-Jataka.jpg" alt="temple painting of Dasaratha Jataka" class="wp-image-6538" width="400" height="348" >
 <link>https://thejatakatales.com/dasaratha-jataka-461</link>
 
 
@@ -4189,7 +4189,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Devadhamma Jataka (#6)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/6-Devadhamma-Jataka.jpg" alt="painting of Devadhamma Jataka" class="wp-image-5081" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/6-Devadhamma-Jataka.jpg" alt="painting of Devadhamma Jataka" class="wp-image-5081" width="400" height="348" >
 <link>https://thejatakatales.com/devadhamma-jataka-6</link>
 
 
@@ -4238,7 +4238,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Devatapanha Jataka (#350)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/devatapanha-jataka-350</link>
 
 
@@ -4299,7 +4299,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhajavihetha Jataka (#391)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/391-Dhajavihetha-Jataka.jpg" alt="temple painting of Dhajavihetha Jataka" class="wp-image-6388" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/391-Dhajavihetha-Jataka.jpg" alt="temple painting of Dhajavihetha Jataka" class="wp-image-6388" width="290" height="400" >
 <link>https://thejatakatales.com/dhajavihetha-jataka-391</link>
 
 
@@ -4340,7 +4340,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhamma Jataka (#457)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/457-Dhamma-Jataka.jpg" alt="temple painting of Dhamma Jataka" class="wp-image-6534" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/457-Dhamma-Jataka.jpg" alt="temple painting of Dhamma Jataka" class="wp-image-6534" width="400" height="348" >
 <link>https://thejatakatales.com/dhamma-jataka-457</link>
 
 
@@ -4373,7 +4373,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhammaddhaja Jataka (#220)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/220-Dhammaddhaja-Jataka.jpg" alt="temple painting of Dhammaddhaja Jataka" class="wp-image-6798" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/220-Dhammaddhaja-Jataka.jpg" alt="temple painting of Dhammaddhaja Jataka" class="wp-image-6798" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/dhammaddhaja-jataka-220</link>
 
 
@@ -4446,7 +4446,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhammaddhaja Jataka (#384)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/384-Dhammaddhaja-Jataka.jpg" alt="temple painting of Dhammaddhaja Jataka" class="wp-image-6370" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/384-Dhammaddhaja-Jataka.jpg" alt="temple painting of Dhammaddhaja Jataka" class="wp-image-6370" width="400" height="348" >
 <link>https://thejatakatales.com/dhammaddhaja-jataka-384</link>
 
 
@@ -4475,7 +4475,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhonasakha Jataka (#353)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/353-Dhonasakha-Jataka.jpg" alt="temple painting of Dhonasakha Jataka" class="wp-image-6285" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/353-Dhonasakha-Jataka.jpg" alt="temple painting of Dhonasakha Jataka" class="wp-image-6285" width="400" height="348" >
 <link>https://thejatakatales.com/dhonasakha-jataka-353</link>
 
 
@@ -4512,7 +4512,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dhumakari Jataka (#413)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/413-Dhumakari-Jataka.jpg" alt="temple painting of Dhumakari Jataka" class="wp-image-6432" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/413-Dhumakari-Jataka.jpg" alt="temple painting of Dhumakari Jataka" class="wp-image-6432" width="400" height="348" >
 <link>https://thejatakatales.com/dhumakari-jataka-413</link>
 
 
@@ -4549,7 +4549,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dighitikosala Jataka (#371)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/371-Dighitikosala-Jataka.jpg" alt="temple painting of Dighitikosala Jataka" class="wp-image-6295" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/371-Dighitikosala-Jataka.jpg" alt="temple painting of Dighitikosala Jataka" class="wp-image-6295" width="400" height="348" >
 <link>https://thejatakatales.com/dighitikosala-jataka-371</link>
 
 
@@ -4586,7 +4586,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dipi Jataka (#426)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/426-Dipi-Jataka.jpg" alt="temple painting of Dipi Jataka" class="wp-image-6465" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/426-Dipi-Jataka.jpg" alt="temple painting of Dipi Jataka" class="wp-image-6465" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/dipi-jataka-426</link>
 
 
@@ -4615,7 +4615,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dubbaca Jataka (#116)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/116-Dubbaca-Jataka.jpg" alt="temple painting of Dubbaca Jataka" class="wp-image-5714" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/116-Dubbaca-Jataka.jpg" alt="temple painting of Dubbaca Jataka" class="wp-image-5714" width="400" height="348" >
 <link>https://thejatakatales.com/dubbaca-jataka-116</link>
 
 
@@ -4640,7 +4640,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dubbalakattha Jataka (#105)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/105-Dubbalakattha-Jataka.jpg" alt="temple painting of Dubbalakattha Jataka" class="wp-image-5707" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/105-Dubbalakattha-Jataka.jpg" alt="temple painting of Dubbalakattha Jataka" class="wp-image-5707" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/dubbalakattha-jataka-105</link>
 
 
@@ -4665,7 +4665,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dubhiya-Makkata Jataka (#174)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/174-Dubhiya-Makkata-Jataka.jpg" alt="temple painting of Dubhiya-Makkata Jataka" class="wp-image-5876" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/174-Dubhiya-Makkata-Jataka.jpg" alt="temple painting of Dubhiya-Makkata Jataka" class="wp-image-5876" width="400" height="348" >
 <link>https://thejatakatales.com/dubhiya-makkata-jataka-174</link>
 
 
@@ -4694,7 +4694,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Duddada Jataka (#180)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/180-Duddada-Jataka.jpg" alt="temple painting of Duddada Jataka" class="wp-image-5882" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/180-Duddada-Jataka.jpg" alt="temple painting of Duddada Jataka" class="wp-image-5882" width="400" height="348" >
 <link>https://thejatakatales.com/duddada-jataka-180</link>
 
 
@@ -4723,7 +4723,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dummedha Jataka (#122)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/479-Kalinga-Bodhi-Jataka.jpg" alt="temple painting of Kalinga-Bodhi Jataka" class="wp-image-5498" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/479-Kalinga-Bodhi-Jataka.jpg" alt="temple painting of Kalinga-Bodhi Jataka" class="wp-image-5498" width="400" height="348" >
 <link>https://thejatakatales.com/dummedha-jataka-122</link>
 
 
@@ -4760,7 +4760,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dummedha Jataka (#50)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/50-Dummedha-Jataka.jpg" alt="temple painting of Dummedha Jataka" class="wp-image-5578" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/50-Dummedha-Jataka.jpg" alt="temple painting of Dummedha Jataka" class="wp-image-5578" width="400" height="348" >
 <link>https://thejatakatales.com/dummedha-jataka-50</link>
 
 
@@ -4789,7 +4789,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Durajana Jataka (#64)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/64-Durajana-Jataka.jpg" alt="temple painting of Durajana Jataka" class="wp-image-5579" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/64-Durajana-Jataka.jpg" alt="temple painting of Durajana Jataka" class="wp-image-5579" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/durajana-jataka-64</link>
 
 
@@ -4818,7 +4818,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Duta Jataka (#260)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/260-Duta-Jataka.jpg" alt="temple painting of Duta Jataka" class="wp-image-6826" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/260-Duta-Jataka.jpg" alt="temple painting of Duta Jataka" class="wp-image-6826" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/duta-jataka-260</link>
 
 
@@ -4851,7 +4851,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Duta Jataka (#478)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/478-Duta-Jataka.jpg" alt="temple painting of Duta Jataka" class="wp-image-6551" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/478-Duta-Jataka.jpg" alt="temple painting of Duta Jataka" class="wp-image-6551" width="400" height="348" >
 <link>https://thejatakatales.com/duta-jataka-478</link>
 
 
@@ -4888,7 +4888,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Dutiya-Palayi Jataka (#230)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/230-Dutiya-Palayi-Jataka.jpg" alt="temple painting of Dutiya-Palayi Jataka" class="wp-image-5988" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/230-Dutiya-Palayi-Jataka.jpg" alt="temple painting of Dutiya-Palayi Jataka" class="wp-image-5988" width="400" height="348" >
 <link>https://thejatakatales.com/dutiya-palayi-jataka-230</link>
 
 
@@ -4917,7 +4917,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ekapada Jataka (#238)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/238-Ekapada-Jataka.jpg" alt="temple painting of Ekapada Jataka" class="wp-image-6788" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/238-Ekapada-Jataka.jpg" alt="temple painting of Ekapada Jataka" class="wp-image-6788" width="400" height="348" >
 <link>https://thejatakatales.com/ekapada-jataka-238</link>
 
 
@@ -4942,7 +4942,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ekapanna Jataka (#149)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/149-Ekapanna-Jataka.jpg" alt="temple painting of Ekapanna Jataka" class="wp-image-5804" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/149-Ekapanna-Jataka.jpg" alt="temple painting of Ekapanna Jataka" class="wp-image-5804" width="400" height="348" >
 <link>https://thejatakatales.com/ekapanna-jataka-149</link>
 
 
@@ -4981,7 +4981,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gadrabha-Panha Jataka (#111)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/111-Gadrabha-Panha-Jataka.jpg" alt="temple painting of Gadrabha-Panh Jataka" class="wp-image-5396" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/111-Gadrabha-Panha-Jataka.jpg" alt="temple painting of Gadrabha-Panh Jataka" class="wp-image-5396" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/gadrabha-panha-jataka-111</link>
 
 
@@ -5022,7 +5022,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gagga Jataka (#155)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/155-Gagga-Jataka.jpg" alt="temple painting of Gagga Jataka" class="wp-image-5809" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/155-Gagga-Jataka.jpg" alt="temple painting of Gagga Jataka" class="wp-image-5809" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/gagga-jataka-155</link>
 
 
@@ -5059,7 +5059,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gahapati Jataka (#199)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/199-Gahapati-Jataka.jpg" alt="temple painting of Gahapati Jataka" class="wp-image-5940" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/199-Gahapati-Jataka.jpg" alt="temple painting of Gahapati Jataka" class="wp-image-5940" width="400" height="348" >
 <link>https://thejatakatales.com/gahapati-jataka-199</link>
 
 
@@ -5096,7 +5096,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gajakumbha Jataka (#345)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/345-Gajakumbha-Jataka.jpg" alt="temple painting of Gajakumbha Jataka" class="wp-image-6802" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/345-Gajakumbha-Jataka.jpg" alt="temple painting of Gajakumbha Jataka" class="wp-image-6802" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/gajakumbha-jataka-345</link>
 
 
@@ -5121,7 +5121,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gamani-Canda Jataka (#257)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/257-Gamani-Canda-Jataka.jpg" alt="temple painting of Gamani-Canda Jataka" class="wp-image-6043" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/257-Gamani-Canda-Jataka.jpg" alt="temple painting of Gamani-Canda Jataka" class="wp-image-6043" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/gamani-canda-jataka-257</link>
 
 
@@ -5260,7 +5260,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gandatindu Jataka (#520)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/520-Gandatindu-Jataka.jpg" alt="temple painting of Gandatindu Jataka" class="wp-image-5529" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/520-Gandatindu-Jataka.jpg" alt="temple painting of Gandatindu Jataka" class="wp-image-5529" width="400" height="348" >
 <link>https://thejatakatales.com/gandatindu-jataka-520</link>
 
 
@@ -5321,7 +5321,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gandhara Jataka (#406)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/406-Gandhara-Jataka.jpg" alt="temple painting of Gandhara Jataka" class="wp-image-6417" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/406-Gandhara-Jataka.jpg" alt="temple painting of Gandhara Jataka" class="wp-image-6417" width="400" height="348" >
 <link>https://thejatakatales.com/gandhara-jataka-406</link>
 
 
@@ -5370,7 +5370,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gangamala Jataka (#421)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/421-Gangamala-Jataka-1.jpg" alt="temple painting of Gangamala Jataka" class="wp-image-6828" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/421-Gangamala-Jataka-1.jpg" alt="temple painting of Gangamala Jataka" class="wp-image-6828" width="400" height="348" >
 <link>https://thejatakatales.com/gangamala-jataka-421</link>
 
 
@@ -5431,7 +5431,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gangeyya Jataka (#205)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/205-Gangeyya-Jataka.jpg" alt="temple painting of Gangeyya Jataka" class="wp-image-5946" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/205-Gangeyya-Jataka.jpg" alt="temple painting of Gangeyya Jataka" class="wp-image-5946" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/gangeyya-jataka-205</link>
 
 
@@ -5460,7 +5460,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Garahita Jataka (#219)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/219-Garahita-Jataka.jpg" alt="temple painting of Garahita Jataka" class="wp-image-5522" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/219-Garahita-Jataka.jpg" alt="temple painting of Garahita Jataka" class="wp-image-5522" width="400" height="348" >
 <link>https://thejatakatales.com/garahita-jataka-219</link>
 
 
@@ -5495,7 +5495,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ghata Jataka (#454)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/454-Ghata-Jataka.jpg" alt="temple painting of Ghata Jataka" class="wp-image-6747" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/454-Ghata-Jataka.jpg" alt="temple painting of Ghata Jataka" class="wp-image-6747" width="400" height="348" >
 <link>https://thejatakatales.com/ghata-jataka-454</link>
 
 
@@ -5580,7 +5580,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Ghatasana Jataka (#133)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/133-Ghatasana-Jataka.jpg" alt="temple painting of Ghatasana Jataka" class="wp-image-5754" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/133-Ghatasana-Jataka.jpg" alt="temple painting of Ghatasana Jataka" class="wp-image-5754" width="400" height="348" >
 <link>https://thejatakatales.com/ghatasana-jataka-133</link>
 
 
@@ -5613,7 +5613,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gijjha Jataka (#164)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/164-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-5843" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/164-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-5843" width="400" height="348" >
 <link>https://thejatakatales.com/gijjha-jataka-164</link>
 
 
@@ -5654,7 +5654,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gijjha Jataka (#399)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/399-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-6394" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/399-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-6394" width="400" height="348" >
 <link>https://thejatakatales.com/gijjha-jataka-399</link>
 
 
@@ -5683,7 +5683,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gijjha Jataka (#427)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/427-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-6466" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/427-Gijjha-Jataka.jpg" alt="temple painting of Gijjha Jataka" class="wp-image-6466" width="400" height="348" >
 <link>https://thejatakatales.com/gijjha-jataka-427</link>
 
 
@@ -5708,7 +5708,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Giridanta Jataka (#184)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/184-Giridanta-Jataka.jpg" alt="temple painting of Giridanta Jataka" class="wp-image-5885" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/184-Giridanta-Jataka.jpg" alt="temple painting of Giridanta Jataka" class="wp-image-5885" width="400" height="348" >
 <link>https://thejatakatales.com/giridanta-jataka-184</link>
 
 
@@ -5733,7 +5733,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Godha Jataka (#138)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/138-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5440" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/138-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5440" width="400" height="348" >
 <link>https://thejatakatales.com/godha-jataka-138</link>
 
 
@@ -5766,7 +5766,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Godha Jataka (#141)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/141-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5781" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/141-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5781" width="400" height="348" >
 <link>https://thejatakatales.com/godha-jataka-141</link>
 
 
@@ -5799,7 +5799,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Godha Jataka (#325)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/325-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5448" width="174" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/325-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-5448" width="174" height="400" >
 <link>https://thejatakatales.com/godha-jataka-325</link>
 
 
@@ -5828,7 +5828,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Godha Jataka (#333)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/333-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-6221" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/333-Godha-Jataka.jpg" alt="temple painting of Godha Jataka" class="wp-image-6221" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/godha-jataka-333</link>
 
 
@@ -5865,7 +5865,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gumbiya Jataka (#366)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/366-Gumbiya-Jataka.jpg" alt="temple painting of Gumbiya Jataka" class="wp-image-6293" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/366-Gumbiya-Jataka.jpg" alt="temple painting of Gumbiya Jataka" class="wp-image-6293" width="400" height="348" >
 <link>https://thejatakatales.com/gumbiya-jataka-366</link>
 
 
@@ -5894,7 +5894,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Guna Jataka (#157)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/157-Guna-Jataka.jpg" alt="temple painting of Guna Jataka" class="wp-image-5811" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/157-Guna-Jataka.jpg" alt="temple painting of Guna Jataka" class="wp-image-5811" width="400" height="348" >
 <link>https://thejatakatales.com/guna-jataka-157</link>
 
 
@@ -5935,7 +5935,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Gutha-Pana Jataka (#227)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/227-Gutha-Pana-Jataka.jpg" alt="temple painting of Gutha-Pana Jataka" class="wp-image-5985" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/227-Gutha-Pana-Jataka.jpg" alt="temple painting of Gutha-Pana Jataka" class="wp-image-5985" width="400" height="348" >
 <link>https://thejatakatales.com/gutha-pana-jataka-227</link>
 
 
@@ -5968,7 +5968,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Guttila Jataka (#243)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/243-Guttila-Jataka.jpg" alt="temple painting of Guttila Jataka" class="wp-image-6033" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/243-Guttila-Jataka.jpg" alt="temple painting of Guttila Jataka" class="wp-image-6033" width="400" height="348" >
 <link>https://thejatakatales.com/guttila-jataka-243</link>
 
 
@@ -6021,7 +6021,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Haliddiraga Jataka (#435)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/435-Haliddiraga-Jataka.jpg" alt="temple painting of Haliddiraga Jataka" class="wp-image-6469" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/435-Haliddiraga-Jataka.jpg" alt="temple painting of Haliddiraga Jataka" class="wp-image-6469" width="400" height="348" >
 <link>https://thejatakatales.com/haliddiraga-jataka-435</link>
 
 
@@ -6056,7 +6056,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Harita Jataka (#431)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/431-Harita-Jataka.jpg" alt="temple painting of Harita Jataka" class="wp-image-6829" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/431-Harita-Jataka.jpg" alt="temple painting of Harita Jataka" class="wp-image-6829" width="400" height="348" >
 <link>https://thejatakatales.com/harita-jataka-431</link>
 
 
@@ -6093,7 +6093,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Harita-Mata Jataka (#239)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/239-Harita-Mata-Jataka.jpg" alt="temple painting of Harita-Mata Jataka" class="wp-image-6029" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/239-Harita-Mata-Jataka.jpg" alt="temple painting of Harita-Mata Jataka" class="wp-image-6029" width="400" height="348" >
 <link>https://thejatakatales.com/harita-mata-jataka-239</link>
 
 
@@ -6122,7 +6122,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Hatthi-Pala Jataka (#509)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/509-Hatthi-Pala-Jataka.jpg" alt="temple painting of Hatthi-Pala Jataka" class="wp-image-6569" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/509-Hatthi-Pala-Jataka.jpg" alt="temple painting of Hatthi-Pala Jataka" class="wp-image-6569" width="400" height="348" >
 <link>https://thejatakatales.com/hatthi-pala-jataka-509</link>
 
 
@@ -6201,7 +6201,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Illisa Jataka (#78)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/78-Illisa-Jataka.jpg" alt="temple painting of Illisa Jataka" class="wp-image-5605" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/78-Illisa-Jataka.jpg" alt="temple painting of Illisa Jataka" class="wp-image-5605" width="400" height="348" >
 <link>https://thejatakatales.com/illisa-jataka-78</link>
 
 
@@ -6262,7 +6262,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Indasamanagotta Jataka (#161)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/161-Indasamanagotta-Jataka.jpg" alt="temple painting of Indasamanagotta Jataka" class="wp-image-5840" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/161-Indasamanagotta-Jataka.jpg" alt="temple painting of Indasamanagotta Jataka" class="wp-image-5840" width="400" height="348" >
 <link>https://thejatakatales.com/indasamanagotta-jataka-161</link>
 
 
@@ -6291,7 +6291,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Indriya Jataka (#423)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/423-Indriya-Jataka.jpg" alt="temple painting of Indriya Jataka" class="wp-image-6462" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/423-Indriya-Jataka.jpg" alt="temple painting of Indriya Jataka" class="wp-image-6462" width="400" height="348" >
 <link>https://thejatakatales.com/indriya-jataka-423</link>
 
 
@@ -6336,7 +6336,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jagara Jataka (#414)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/414-Jagara-Jataka.jpg" alt="temple painting of Jagara Jataka" class="wp-image-6433" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/414-Jagara-Jataka.jpg" alt="temple painting of Jagara Jataka" class="wp-image-6433" width="400" height="348" >
 <link>https://thejatakatales.com/jagara-jataka-414</link>
 
 
@@ -6369,7 +6369,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jambu-Khadaka Jataka (#294)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/294-Jambu-Khadaka-Jataka.jpg" alt="temple painting of Jambu-Khadaka Jataka" class="wp-image-6136" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/294-Jambu-Khadaka-Jataka.jpg" alt="temple painting of Jambu-Khadaka Jataka" class="wp-image-6136" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/jambu-khadaka-jataka-294</link>
 
 
@@ -6398,7 +6398,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jambuka Jataka (#335)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/335-Jambuka-Jataka.jpg" alt="temple painting of Jambuka Jataka" class="wp-image-6223" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/335-Jambuka-Jataka.jpg" alt="temple painting of Jambuka Jataka" class="wp-image-6223" width="400" height="348" >
 <link>https://thejatakatales.com/jambuka-jataka-335</link>
 
 
@@ -6431,7 +6431,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Janasandha Jataka (#468)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/468-Janasandha-Jataka.jpg" alt="temple painting of Janasandha Jataka" class="wp-image-6544" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/468-Janasandha-Jataka.jpg" alt="temple painting of Janasandha Jataka" class="wp-image-6544" width="400" height="348" >
 <link>https://thejatakatales.com/janasandha-jataka-468</link>
 
 
@@ -6460,7 +6460,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jarudapana Jataka (#256)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/256-Jarudapana-Jataka.jpg" alt="temple painting of Jarudapana Jataka" class="wp-image-6042" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/256-Jarudapana-Jataka.jpg" alt="temple painting of Jarudapana Jataka" class="wp-image-6042" width="400" height="348" >
 <link>https://thejatakatales.com/jarudapana-jataka-256</link>
 
 
@@ -6493,7 +6493,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Javana-Hamsa Jataka (#476)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/476-Javana-Hamsa-Jataka.jpg" alt="temple painting of Javana-Hamsa Jataka" class="wp-image-6549" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/476-Javana-Hamsa-Jataka.jpg" alt="temple painting of Javana-Hamsa Jataka" class="wp-image-6549" width="400" height="348" >
 <link>https://thejatakatales.com/javana-hamsa-jataka-476</link>
 
 
@@ -6546,7 +6546,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Javasakuna Jataka (#308)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/308-Javasakuna-Jataka.jpg" alt="temple painting of Javasakuna Jataka" class="wp-image-6163" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/308-Javasakuna-Jataka.jpg" alt="temple painting of Javasakuna Jataka" class="wp-image-6163" width="400" height="348" >
 <link>https://thejatakatales.com/javasakuna-jataka-308</link>
 
 
@@ -6575,7 +6575,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jayaddisa Jataka (#513)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/513-Jayaddisa-Jataka.jpg" alt="temple painting of Jayaddisa Jataka" class="wp-image-6572" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/513-Jayaddisa-Jataka.jpg" alt="temple painting of Jayaddisa Jataka" class="wp-image-6572" width="400" height="348" >
 <link>https://thejatakatales.com/jayaddisa-jataka-513</link>
 
 
@@ -6648,7 +6648,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Jhanasodhana Jataka (#134)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/135-Candabha-Jataka.jpg" alt="temple painting of Candabha Jataka" class="wp-image-5755" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/135-Candabha-Jataka.jpg" alt="temple painting of Candabha Jataka" class="wp-image-5755" width="400" height="348" >
 <link>https://thejatakatales.com/jhanasodhana-jataka-134</link>
 
 
@@ -6673,7 +6673,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Junha Jataka (#456)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/456-Junha-Jataka.jpg" alt="temple painting of Junha Jataka" class="wp-image-6533" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/456-Junha-Jataka.jpg" alt="temple painting of Junha Jataka" class="wp-image-6533" width="400" height="348" >
 <link>https://thejatakatales.com/junha-jataka-456</link>
 
 
@@ -6706,7 +6706,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kaccani Jataka (#417)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/417-Kaccani-Jataka.jpg" alt="temple painting of Kaccani Jataka" class="wp-image-6436" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/417-Kaccani-Jataka.jpg" alt="temple painting of Kaccani Jataka" class="wp-image-6436" width="400" height="348" >
 <link>https://thejatakatales.com/kaccani-jataka-417</link>
 
 
@@ -6747,7 +6747,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kacchapa Jataka (#178)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/178-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-5880" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/178-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-5880" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kacchapa-jataka-178</link>
 
 
@@ -6780,7 +6780,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kacchapa Jataka (#215)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/215-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-6742" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/215-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-6742" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kacchapa-jataka-215</link>
 
 
@@ -6825,7 +6825,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kacchapa Jataka (#273)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/273-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-6084" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/273-Kacchapa-Jataka.jpg" alt="temple painting of Kacchapa Jataka" class="wp-image-6084" width="400" height="348" >
 <link>https://thejatakatales.com/kacchapa-jataka-273</link>
 
 
@@ -6858,7 +6858,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kaka Jataka (#140)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/140-Kaka-Jataka.jpg" alt="temple painting of Kaka Jataka" class="wp-image-5780" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/140-Kaka-Jataka.jpg" alt="temple painting of Kaka Jataka" class="wp-image-5780" width="400" height="348" >
 <link>https://thejatakatales.com/kaka-jataka-140</link>
 
 
@@ -6899,7 +6899,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kaka Jataka (#146)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/146-Kaka-Jataka.jpg" alt="temple painting of Kaka Jataka" class="wp-image-5801" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/146-Kaka-Jataka.jpg" alt="temple painting of Kaka Jataka" class="wp-image-5801" width="400" height="348" >
 <link>https://thejatakatales.com/kaka-jataka-146</link>
 
 
@@ -6930,7 +6930,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kakantaka Jataka (#170)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/170-Kakantaka-Jataka.jpg" alt="temple painting of Kakantaka Jataka" class="wp-image-5398" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/170-Kakantaka-Jataka.jpg" alt="temple painting of Kakantaka Jataka" class="wp-image-5398" width="400" height="348" >
 <link>https://thejatakatales.com/kakantaka-jataka-170</link>
 
 
@@ -6963,7 +6963,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kakati Jataka (#327)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/327-Kakati-Jataka.jpg" alt="temple painting of Kakati Jataka" class="wp-image-6216" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/327-Kakati-Jataka.jpg" alt="temple painting of Kakati Jataka" class="wp-image-6216" width="400" height="348" >
 <link>https://thejatakatales.com/kakati-jataka-327</link>
 
 
@@ -6988,7 +6988,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kakkara Jataka (#209)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/209-Kakkara-Jataka.jpg" alt="temple painting of Kakkara Jataka" class="wp-image-5949" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/209-Kakkara-Jataka.jpg" alt="temple painting of Kakkara Jataka" class="wp-image-5949" width="400" height="348" >
 <link>https://thejatakatales.com/kakkara-jataka-209</link>
 
 
@@ -7017,7 +7017,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kakkaru Jataka (#326)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/326-Kakkaru-Jataka.jpg" alt="temple painting of Kakkaru Jataka" class="wp-image-6215" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/326-Kakkaru-Jataka.jpg" alt="temple painting of Kakkaru Jataka" class="wp-image-6215" width="400" height="348" >
 <link>https://thejatakatales.com/kakkaru-jataka-326</link>
 
 
@@ -7058,7 +7058,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kakkata Jataka (#267)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/267-Kakkata-Jataka.jpg" alt="temple painting of Kakkata Jataka" class="wp-image-6079" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/267-Kakkata-Jataka.jpg" alt="temple painting of Kakkata Jataka" class="wp-image-6079" width="400" height="348" >
 <link>https://thejatakatales.com/kakkata-jataka-267</link>
 
 
@@ -7095,7 +7095,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalabahu Jataka (#329)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/329-Kalabahu-Jataka.jpg" alt="temple painting of Kalabahu Jataka" class="wp-image-6884" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/329-Kalabahu-Jataka.jpg" alt="temple painting of Kalabahu Jataka" class="wp-image-6884" width="400" height="348" >
 <link>https://thejatakatales.com/kalabahu-jataka-329</link>
 
 
@@ -7124,7 +7124,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalakanni Jataka (#83)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/83-Kalakanni-Jataka.jpg" alt="temple painting of Kalakanni Jataka" class="wp-image-5464" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/83-Kalakanni-Jataka.jpg" alt="temple painting of Kalakanni Jataka" class="wp-image-5464" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/kalakanni-jataka-83</link>
 
 
@@ -7157,7 +7157,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalanduka Jataka (#127)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/127-Kalanduka-Jataka.jpg" alt="temple painting of Kalanduka Jataka" class="wp-image-5750" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/127-Kalanduka-Jataka.jpg" alt="temple painting of Kalanduka Jataka" class="wp-image-5750" width="400" height="348" >
 <link>https://thejatakatales.com/kalanduka-jataka-127</link>
 
 
@@ -7194,7 +7194,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalaya-Mutthi Jataka (#176)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/176-Kalaya-Mutthi-Jataka.jpg" alt="temple painting of Kalaya-Mutthi Jataka" class="wp-image-5878" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/176-Kalaya-Mutthi-Jataka.jpg" alt="temple painting of Kalaya-Mutthi Jataka" class="wp-image-5878" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kalaya-mutthi-jataka-176</link>
 
 
@@ -7227,7 +7227,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalinga-Bodhi Jataka (#479)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/479-Kalinga-Bodhi-Jataka.jpg" alt="temple painting of Kalinga-Bodhi Jataka" class="wp-image-5498" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/479-Kalinga-Bodhi-Jataka.jpg" alt="temple painting of Kalinga-Bodhi Jataka" class="wp-image-5498" width="400" height="348" >
 <link>https://thejatakatales.com/kalinga-bodhi-jataka-479</link>
 
 
@@ -7280,7 +7280,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kalyana-Dhamma Jataka (#171)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/171-Kalyana-Dhamma-Jataka.jpg" alt="temple painting of Kalyana-Dhamma Jataka" class="wp-image-5873" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/171-Kalyana-Dhamma-Jataka.jpg" alt="temple painting of Kalyana-Dhamma Jataka" class="wp-image-5873" width="400" height="348" >
 <link>https://thejatakatales.com/kalyana-dhamma-jataka-171</link>
 
 
@@ -7321,7 +7321,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kama Jataka (#467)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/467-Kama-Jataka.jpg" alt="temple painting of Kama Jataka" class="wp-image-6543" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/467-Kama-Jataka.jpg" alt="temple painting of Kama Jataka" class="wp-image-6543" width="400" height="348" >
 <link>https://thejatakatales.com/kama-jataka-467</link>
 
 
@@ -7366,7 +7366,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kama-Vilapa Jataka (#297)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/297-Kama-Vilapa-Jataka.jpg" alt="temple painting of Kama-Vilapa Jataka" class="wp-image-6800" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/297-Kama-Vilapa-Jataka.jpg" alt="temple painting of Kama-Vilapa Jataka" class="wp-image-6800" width="400" height="348" >
 <link>https://thejatakatales.com/kama-vilapa-jataka-297</link>
 
 
@@ -7395,7 +7395,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kamanita Jataka (#228)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/228-Kamanita-Jataka.jpg" alt="temple painting of Kamanita Jataka" class="wp-image-5986" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/228-Kamanita-Jataka.jpg" alt="temple painting of Kamanita Jataka" class="wp-image-5986" width="400" height="348" >
 <link>https://thejatakatales.com/kamanita-jataka-228</link>
 
 
@@ -7432,7 +7432,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kanavera Jataka (#318)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/318-Kanavera-Jataka.jpg" alt="temple painting of Kanavera Jataka" class="wp-image-6173" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/318-Kanavera-Jataka.jpg" alt="temple painting of Kanavera Jataka" class="wp-image-6173" width="400" height="348" >
 <link>https://thejatakatales.com/kanavera-jataka-318</link>
 
 
@@ -7477,7 +7477,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kancanakkhandha Jataka (#56)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/56-Kancanakkhandha-Jataka.jpg" alt="painting of Kancanakkhandha Jataka" class="wp-image-5290" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/56-Kancanakkhandha-Jataka.jpg" alt="painting of Kancanakkhandha Jataka" class="wp-image-5290" width="400" height="348" >
 <link>https://thejatakatales.com/kancanakkhandha-jataka-56</link>
 
 
@@ -7510,7 +7510,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kandagalaka Jataka (#210)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/210-Kandagalaka-Jataka.jpg" alt="temple painting of Kandagalaka Jataka" class="wp-image-5950" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/210-Kandagalaka-Jataka.jpg" alt="temple painting of Kandagalaka Jataka" class="wp-image-5950" width="400" height="348" >
 <link>https://thejatakatales.com/kandagalaka-jataka-210</link>
 
 
@@ -7535,7 +7535,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kandari Jataka (#341)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kandari-jataka-341</link>
 
 
@@ -7580,7 +7580,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kandina Jataka (#13)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/13-Kandina-Jataka.jpg" alt="painting of Kandina Jataka" class="wp-image-5192" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/13-Kandina-Jataka.jpg" alt="painting of Kandina Jataka" class="wp-image-5192" width="400" height="348" >
 <link>https://thejatakatales.com/kandina-jataka-13</link>
 
 
@@ -7617,7 +7617,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kanha Jataka (#29)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/29-Kanha-Jataka.jpg" alt="painting of Kanha Jataka" class="wp-image-5143" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/29-Kanha-Jataka.jpg" alt="painting of Kanha Jataka" class="wp-image-5143" width="400" height="348" >
 <link>https://thejatakatales.com/kanha-jataka-29</link>
 
 
@@ -7650,7 +7650,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kanha Jataka (#440)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/440-Kanha-Jataka.jpg" alt="temple painting of Kanha Jataka" class="wp-image-6501" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/440-Kanha-Jataka.jpg" alt="temple painting of Kanha Jataka" class="wp-image-6501" width="400" height="348" >
 <link>https://thejatakatales.com/kanha-jataka-440</link>
 
 
@@ -7687,7 +7687,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kanhadipayana Jataka (#444)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/444-Kanhadipayana-Jataka.jpg" alt="temple painting of Kanhadipayana Jataka" class="wp-image-6504" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/444-Kanhadipayana-Jataka.jpg" alt="temple painting of Kanhadipayana Jataka" class="wp-image-6504" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kanhadipayana-jataka-444</link>
 
 
@@ -7746,7 +7746,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kapi Jataka (#404)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/404-Kapi-Jataka.jpg" alt="temple painting of Kapi Jataka" class="wp-image-6416" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/404-Kapi-Jataka.jpg" alt="temple painting of Kapi Jataka" class="wp-image-6416" width="400" height="348" >
 <link>https://thejatakatales.com/kapi-jataka-404</link>
 
 
@@ -7777,7 +7777,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kapota Jataka (#42)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/42-Kapota-Jataka.jpg" alt="temple painting of Kapota Jataka" class="wp-image-5541" width="321" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/42-Kapota-Jataka.jpg" alt="temple painting of Kapota Jataka" class="wp-image-5541" width="321" height="400" >
 <link>https://thejatakatales.com/kapota-jataka-42</link>
 
 
@@ -7814,7 +7814,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Karandiya Jataka (#356)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/356-Karandiya-Jataka.jpg" alt="temple painting of Karandiya Jataka" class="wp-image-6745" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/356-Karandiya-Jataka.jpg" alt="temple painting of Karandiya Jataka" class="wp-image-6745" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/karandiya-jataka-356</link>
 
 
@@ -7847,7 +7847,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kasava Jataka (#221)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/221-Kasava-Jataka.jpg" alt="temple painting of Kasava Jataka" class="wp-image-5980" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/221-Kasava-Jataka.jpg" alt="temple painting of Kasava Jataka" class="wp-image-5980" width="400" height="348" >
 <link>https://thejatakatales.com/kasava-jataka-221</link>
 
 
@@ -7880,7 +7880,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kassapamandiya Jataka (#312)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/312-Kassapamandiya-Jataka.jpg" alt="temple painting of Kassapamandiya Jataka" class="wp-image-6167" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/312-Kassapamandiya-Jataka.jpg" alt="temple painting of Kassapamandiya Jataka" class="wp-image-6167" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kassapamandiya-jataka-312</link>
 
 
@@ -7913,7 +7913,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Katahaka Jataka (#125)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/125-Katahaka-Jataka.jpg" alt="temple painting of Katahaka Jataka" class="wp-image-5749" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/125-Katahaka-Jataka.jpg" alt="temple painting of Katahaka Jataka" class="wp-image-5749" width="400" height="348" >
 <link>https://thejatakatales.com/katahaka-jataka-125</link>
 
 
@@ -7958,7 +7958,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Katthahari Jataka (#7)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/7-Katthahari-Jataka.jpg" alt="painting of Katthahari Jataka" class="wp-image-5082" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/7-Katthahari-Jataka.jpg" alt="painting of Katthahari Jataka" class="wp-image-5082" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/katthahari-jataka-7</link>
 
 
@@ -8011,7 +8011,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kaya-Vicchinda Jataka (#293)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/293-Kaya-Vicchinda-Jataka.jpg" alt="temple painting of Kaya-Vicchinda Jataka" class="wp-image-6135" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/293-Kaya-Vicchinda-Jataka.jpg" alt="temple painting of Kaya-Vicchinda Jataka" class="wp-image-6135" width="400" height="348" >
 <link>https://thejatakatales.com/kaya-vicchinda-jataka-293</link>
 
 
@@ -8044,7 +8044,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Keli-Sila Jataka (#202)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/202-Keli-Sila-Jataka.jpg" alt="temple painting of Keli-Sila Jataka" class="wp-image-5943" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/202-Keli-Sila-Jataka.jpg" alt="temple painting of Keli-Sila Jataka" class="wp-image-5943" width="400" height="348" >
 <link>https://thejatakatales.com/keli-sila-jataka-202</link>
 
 
@@ -8081,7 +8081,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kesava Jataka (#346)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/346-Kesava-Jataka.jpg" alt="temple painting of Kesava Jataka" class="wp-image-5458" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/346-Kesava-Jataka.jpg" alt="temple painting of Kesava Jataka" class="wp-image-5458" width="400" height="348" >
 <link>https://thejatakatales.com/kesava-jataka-346</link>
 
 
@@ -8122,7 +8122,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khadirangara Jataka (#40)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/40-Khadirangara-Jataka.jpg" alt="temple painting of Khadirangara Jataka" class="wp-image-5562" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/40-Khadirangara-Jataka.jpg" alt="temple painting of Khadirangara Jataka" class="wp-image-5562" width="400" height="348" >
 <link>https://thejatakatales.com/khadirangara-jataka-40</link>
 
 
@@ -8171,7 +8171,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khajjopanaka Jataka (#364)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/khajjopanaka-jataka-364</link>
 
 
@@ -8212,7 +8212,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/542-Khandahala-Jataka.jpg" alt="painting of Khandahala Jataka" class="wp-image-5036" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/542-Khandahala-Jataka.jpg" alt="painting of Khandahala Jataka" class="wp-image-5036" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/khandahala-jataka-542</link>
 
 
@@ -8225,7 +8225,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/khandahala-jataka-542-patience.jpg" alt="Indra breaking the ceremonial umbrella to frighten the king" class="wp-image-3402" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/khandahala-jataka-542-patience.jpg" alt="Indra breaking the ceremonial umbrella to frighten the king" class="wp-image-3402" style="width:400px;height:348px" >
 
 
 
@@ -8269,7 +8269,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khandha-Vatta Jataka (#203)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/203-Khandha-Vatta-Jataka.jpg" alt="temple painting of Khandha-Vatta Jataka" class="wp-image-5944" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/203-Khandha-Vatta-Jataka.jpg" alt="temple painting of Khandha-Vatta Jataka" class="wp-image-5944" width="400" height="348" >
 <link>https://thejatakatales.com/khandha-vatta-jataka-203</link>
 
 
@@ -8298,7 +8298,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khanti-Vannana Jataka (#225)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/225-Khanti-Vannana-Jataka.jpg" alt="temple painting of Khanti-Vannana Jataka" class="wp-image-5983" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/225-Khanti-Vannana-Jataka.jpg" alt="temple painting of Khanti-Vannana Jataka" class="wp-image-5983" width="400" height="348" >
 <link>https://thejatakatales.com/khanti-vannana-jataka-225</link>
 
 
@@ -8327,7 +8327,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khantivadi Jataka (#313)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/313-Khantivadi-Jataka.jpg" alt="temple painting of Khantivadi Jataka" class="wp-image-6168" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/313-Khantivadi-Jataka.jpg" alt="temple painting of Khantivadi Jataka" class="wp-image-6168" width="400" height="348" >
 <link>https://thejatakatales.com/khantivadi-jataka-313</link>
 
 
@@ -8368,7 +8368,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kharadiya Jataka (#15)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/15-Kharadiya-Jataka.jpg" alt="painting of Kharadiya Jataka" class="wp-image-5193" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/15-Kharadiya-Jataka.jpg" alt="painting of Kharadiya Jataka" class="wp-image-5193" width="400" height="348" >
 <link>https://thejatakatales.com/kharadiya-jataka-15</link>
 
 
@@ -8397,7 +8397,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kharaputta Jataka (#386)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/386-Kharaputta-Jataka.jpg" alt="temple painting of Kharaputta Jataka" class="wp-image-6372" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/386-Kharaputta-Jataka.jpg" alt="temple painting of Kharaputta Jataka" class="wp-image-6372" width="400" height="348" >
 <link>https://thejatakatales.com/kharaputta-jataka-386</link>
 
 
@@ -8450,7 +8450,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kharassara Jataka (#79)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/79-Kharassara-Jataka.jpg" alt="temple painting of Kharassara Jataka" class="wp-image-5606" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/79-Kharassara-Jataka.jpg" alt="temple painting of Kharassara Jataka" class="wp-image-5606" width="400" height="348" >
 <link>https://thejatakatales.com/kharassara-jataka-79</link>
 
 
@@ -8483,7 +8483,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Khurappa Jataka (#265)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/265-Khurappa-Jataka.jpg" alt="temple painting of Khurappa Jataka" class="wp-image-6077" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/265-Khurappa-Jataka.jpg" alt="temple painting of Khurappa Jataka" class="wp-image-6077" width="400" height="348" >
 <link>https://thejatakatales.com/khurappa-jataka-265</link>
 
 
@@ -8512,7 +8512,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kimchanda Jataka (#511)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/511-Kimchanda-Jataka.jpg" alt="temple painting of Kimchanda Jataka" class="wp-image-6571" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/511-Kimchanda-Jataka.jpg" alt="temple painting of Kimchanda Jataka" class="wp-image-6571" width="400" height="348" >
 <link>https://thejatakatales.com/kimchanda-jataka-511</link>
 
 
@@ -8557,7 +8557,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kimpakka Jataka (#85)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/85-Kimpakka-Jataka.jpg" alt="temple painting of Kimpakka Jataka" class="wp-image-5466" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/85-Kimpakka-Jataka.jpg" alt="temple painting of Kimpakka Jataka" class="wp-image-5466" width="400" height="348" >
 <link>https://thejatakatales.com/kimpakka-jataka-85</link>
 
 
@@ -8586,7 +8586,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kimsukopama Jataka (#248)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/248-Kimsukopama-Jataka.jpg" alt="temple painting of Kimsukopama Jataka" class="wp-image-6037" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/248-Kimsukopama-Jataka.jpg" alt="temple painting of Kimsukopama Jataka" class="wp-image-6037" width="400" height="348" >
 <link>https://thejatakatales.com/kimsukopama-jataka-248</link>
 
 
@@ -8619,7 +8619,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kokalika Jataka (#331)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/331-Kokalika-Jataka.jpg" alt="temple painting of Kokalika Jataka" class="wp-image-6219" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/331-Kokalika-Jataka.jpg" alt="temple painting of Kokalika Jataka" class="wp-image-6219" width="400" height="348" >
 <link>https://thejatakatales.com/kokalika-jataka-331</link>
 
 
@@ -8656,7 +8656,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Komaya-Putta Jataka (#299)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/299-Komaya-Putta-Jataka.jpg" alt="temple painting of Komaya-Putta Jataka" class="wp-image-6140" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/299-Komaya-Putta-Jataka.jpg" alt="temple painting of Komaya-Putta Jataka" class="wp-image-6140" width="400" height="348" >
 <link>https://thejatakatales.com/komaya-putta-jataka-299</link>
 
 
@@ -8695,7 +8695,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kosiya Jataka (#130)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/130-Kosiya-Jataka.jpg" alt="temple painting of Kosiya Jataka" class="wp-image-6738" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/130-Kosiya-Jataka.jpg" alt="temple painting of Kosiya Jataka" class="wp-image-6738" width="400" height="348" >
 <link>https://thejatakatales.com/kosiya-jataka-130</link>
 
 
@@ -8724,7 +8724,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kosiya Jataka (#226)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/226-Kosiya-Jataka.jpg" alt="temple painting of Kosiya Jataka" class="wp-image-5984" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/226-Kosiya-Jataka.jpg" alt="temple painting of Kosiya Jataka" class="wp-image-5984" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kosiya-jataka-226</link>
 
 
@@ -8769,7 +8769,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kotisimbali Jataka (#412)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/412-Kotisimbali-Jataka.jpg" alt="temple painting of Kotisimbali Jataka" class="wp-image-6431" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/412-Kotisimbali-Jataka.jpg" alt="temple painting of Kotisimbali Jataka" class="wp-image-6431" width="400" height="348" >
 <link>https://thejatakatales.com/kosiya-jataka-470</link>
 
 
@@ -8802,7 +8802,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kuddala Jataka (#70)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/70-Kuddala-Jataka.jpg" alt="temple painting of Kuddala Jataka" class="wp-image-5344" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/70-Kuddala-Jataka.jpg" alt="temple painting of Kuddala Jataka" class="wp-image-5344" width="400" height="348" >
 <link>https://thejatakatales.com/kuddala-jataka-70</link>
 
 
@@ -8843,7 +8843,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kuhaka Jataka (#89)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/89-Kuhaka-Jataka.jpg" alt="temple painting of Kuhaka Jataka" class="wp-image-5629" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/89-Kuhaka-Jataka.jpg" alt="temple painting of Kuhaka Jataka" class="wp-image-5629" width="400" height="348" >
 <link>https://thejatakatales.com/kuhaka-jataka-89</link>
 
 
@@ -8872,7 +8872,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kukku Jataka (#396)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/396-Kukku-Jataka.jpg" alt="temple painting of Kukku Jataka" class="wp-image-6391" width="330" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/396-Kukku-Jataka.jpg" alt="temple painting of Kukku Jataka" class="wp-image-6391" width="330" height="400" >
 <link>https://thejatakatales.com/kukku-jataka-396</link>
 
 
@@ -8909,7 +8909,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kukkura Jataka (#22)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/22-Kukkura-Jataka.jpg" alt="painting of Kukkura Jataka" class="wp-image-5199" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/22-Kukkura-Jataka.jpg" alt="painting of Kukkura Jataka" class="wp-image-5199" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kukkura-jataka-22</link>
 
 
@@ -8994,7 +8994,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kukkuta Jataka (#383)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/383-Kukkuta-Jataka.jpg" alt="temple painting of Kukkuta Jataka" class="wp-image-6369" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/383-Kukkuta-Jataka.jpg" alt="temple painting of Kukkuta Jataka" class="wp-image-6369" width="400" height="348" >
 <link>https://thejatakatales.com/kukkuta-jataka-383</link>
 
 
@@ -9023,7 +9023,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kukkuta Jataka (#448)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/448-Kukkuta-Jataka.jpg" alt="temple painting of Kukkuta Jataka" class="wp-image-6508" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/448-Kukkuta-Jataka.jpg" alt="temple painting of Kukkuta Jataka" class="wp-image-6508" width="400" height="348" >
 <link>https://thejatakatales.com/kukkuta-jataka-448</link>
 
 
@@ -9048,7 +9048,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kulavaka Jataka (#31)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/31-Kulavaka-Jataka.jpg" alt="painting of Kulavaka Jataka" class="wp-image-5145" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/31-Kulavaka-Jataka.jpg" alt="painting of Kulavaka Jataka" class="wp-image-5145" width="400" height="348" >
 <link>https://thejatakatales.com/kulavaka-jataka-31</link>
 
 
@@ -9117,7 +9117,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kumbha Jataka (#512)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/512-Kumbha-Jataka.jpg" alt="temple painting of Kumbha Jataka" class="wp-image-6718" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/512-Kumbha-Jataka.jpg" alt="temple painting of Kumbha Jataka" class="wp-image-6718" width="400" height="348" >
 <link>https://thejatakatales.com/kumbha-jataka-512</link>
 
 
@@ -9170,7 +9170,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kumbhakara Jataka (#408)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/408-Kumbhakara-Jataka.jpg" alt="temple painting of Kumbhakara Jataka" class="wp-image-6419" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/408-Kumbhakara-Jataka.jpg" alt="temple painting of Kumbhakara Jataka" class="wp-image-6419" width="290" height="400" >
 <link>https://thejatakatales.com/kumbhakara-jataka-408</link>
 
 
@@ -9225,7 +9225,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kummasapinda Jataka (#415)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/415-Kummasapinda-Jataka.jpg" alt="temple painting of Kummasapinda Jataka" class="wp-image-6434" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/415-Kummasapinda-Jataka.jpg" alt="temple painting of Kummasapinda Jataka" class="wp-image-6434" width="400" height="348" >
 <link>https://thejatakatales.com/kummasapinda-jataka-415</link>
 
 
@@ -9270,7 +9270,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kunala Jataka (#536)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/536-Kunala-Jataka.jpg" alt="temple painting of Kunala Jataka" class="wp-image-5431" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kunala-jataka-536</link>
 
 
@@ -9421,7 +9421,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kundaka-Kucchi-Sindhava Jataka (#254)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/254-Kundaka-Kucchi-Sindhava-Jataka.jpg" alt="temple painting of Kundaka-Kucchi-Sindhava Jataka" class="wp-image-6041" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/254-Kundaka-Kucchi-Sindhava-Jataka.jpg" alt="temple painting of Kundaka-Kucchi-Sindhava Jataka" class="wp-image-6041" width="400" height="348" >
 <link>https://thejatakatales.com/kundaka-kucchi-sindhava-jataka-254</link>
 
 
@@ -9474,7 +9474,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kundakapuva Jataka (#109)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/109-Kundakapuva-Jataka.jpg" alt="temple painting of Kundakapuva Jataka" class="wp-image-5710" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/109-Kundakapuva-Jataka.jpg" alt="temple painting of Kundakapuva Jataka" class="wp-image-5710" width="400" height="348" >
 <link>https://thejatakatales.com/kundakapuva-jataka-109</link>
 
 
@@ -9503,7 +9503,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kuntani Jataka (#343)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/343-Kuntani-Jataka.jpg" alt="temple painting of Kuntani Jataka" class="wp-image-6229" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/343-Kuntani-Jataka.jpg" alt="temple painting of Kuntani Jataka" class="wp-image-6229" width="400" height="348" >
 <link>https://thejatakatales.com/kuntani-jataka-343</link>
 
 
@@ -9532,7 +9532,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kurudhamma Jataka (#276)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/276-Kurudhamma-Jataka.jpg" alt="temple painting of Kurudhamma Jataka" class="wp-image-6085" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/276-Kurudhamma-Jataka.jpg" alt="temple painting of Kurudhamma Jataka" class="wp-image-6085" width="400" height="348" >
 <link>https://thejatakatales.com/kurudhamma-jataka-276</link>
 
 
@@ -9637,7 +9637,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kurunga Jataka (#21)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/21-Kurunga-Jataka.jpg" alt="painting of Kurunga Jataka" class="wp-image-5198" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/21-Kurunga-Jataka.jpg" alt="painting of Kurunga Jataka" class="wp-image-5198" width="400" height="348" >
 <link>https://thejatakatales.com/kurunga-jataka-21</link>
 
 
@@ -9662,7 +9662,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kurunga-Miga Jataka (#206)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/206-Kurunga-Miga-Jataka.jpg" alt="temple painting of Kurunga-Miga Jataka" class="wp-image-5947" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/206-Kurunga-Miga-Jataka.jpg" alt="temple painting of Kurunga-Miga Jataka" class="wp-image-5947" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kurunga-miga-jataka-206</link>
 
 
@@ -9699,7 +9699,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kusa Jataka (#531)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/531-Kusa-Jataka.jpg" alt="temple painting of Kusa Jataka" class="wp-image-5508" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/531-Kusa-Jataka.jpg" alt="temple painting of Kusa Jataka" class="wp-image-5508" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kusa-jataka-531</link>
 
 
@@ -9804,7 +9804,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kusanali Jataka (#121)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/421-Gangamala-Jataka.jpg" alt="temple painting of Kusanali Jataka" class="wp-image-6783" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/421-Gangamala-Jataka.jpg" alt="temple painting of Kusanali Jataka" class="wp-image-6783" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/kusanali-jataka-121</link>
 
 
@@ -9853,7 +9853,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kuta-Vanija Jataka (#218)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/218-Kuta-Vanija-Jataka.jpg" alt="temple painting of Kuta-Vanija Jataka" class="wp-image-5979" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/218-Kuta-Vanija-Jataka.jpg" alt="temple painting of Kuta-Vanija Jataka" class="wp-image-5979" width="400" height="348" >
 <link>https://thejatakatales.com/kuta-vanija-jataka-218</link>
 
 
@@ -9886,7 +9886,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kutavanija Jataka (#98)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/98-Kutavanija-Jataka.jpg" alt="temple painting of Kutavanija Jataka" class="wp-image-5637" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/98-Kutavanija-Jataka.jpg" alt="temple painting of Kutavanija Jataka" class="wp-image-5637" width="400" height="348" >
 <link>https://thejatakatales.com/kutavanija-jataka-98</link>
 
 
@@ -9919,7 +9919,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Kutidusaka Jataka (#321)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/321-Kutidusaka-Jataka.jpg" alt="temple painting of Kutidusaka Jataka" class="wp-image-6211" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/321-Kutidusaka-Jataka.jpg" alt="temple painting of Kutidusaka Jataka" class="wp-image-6211" width="290" height="400" >
 <link>https://thejatakatales.com/kutidusaka-jataka-321</link>
 
 
@@ -9956,7 +9956,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Labha-Garaha Jataka (#287)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/287-Labha-Garaha-Jataka.jpg" alt="temple painting of Labha-Garaha Jataka" class="wp-image-5511" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/287-Labha-Garaha-Jataka.jpg" alt="temple painting of Labha-Garaha Jataka" class="wp-image-5511" width="400" height="348" >
 <link>https://thejatakatales.com/labha-garaha-jataka-287</link>
 
 
@@ -9985,7 +9985,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Lakkhana Jataka (#11)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/11-Lakkhana-Jataka.jpg" alt="painting of Lakkhana Jataka" class="wp-image-5190" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/11-Lakkhana-Jataka.jpg" alt="painting of Lakkhana Jataka" class="wp-image-5190" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/lakkhana-jataka-11</link>
 
 
@@ -10022,7 +10022,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Latukika Jataka (#357)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/357-Latukika-Jataka.jpg" alt="temple painting of Latukika Jataka" class="wp-image-6287" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/357-Latukika-Jataka.jpg" alt="temple painting of Latukika Jataka" class="wp-image-6287" width="400" height="348" >
 <link>https://thejatakatales.com/latukika-jataka-357</link>
 
 
@@ -10055,7 +10055,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Litta Jataka (#91)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/91-Litta-Jataka.jpg" alt="temple painting of Litta Jataka" class="wp-image-5631" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/91-Litta-Jataka.jpg" alt="temple painting of Litta Jataka" class="wp-image-5631" width="400" height="348" >
 <link>https://thejatakatales.com/litta-jataka-91</link>
 
 
@@ -10084,7 +10084,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Lohakumbhi Jataka (#314)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/314-Lohakumbhi-Jataka.jpg" alt="temple painting of Lohakumbhi Jataka" class="wp-image-6169" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/314-Lohakumbhi-Jataka.jpg" alt="temple painting of Lohakumbhi Jataka" class="wp-image-6169" width="400" height="348" >
 <link>https://thejatakatales.com/lohakumbhi-jataka-314</link>
 
 
@@ -10127,7 +10127,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Lomahamsa Jataka (#94)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/94-Lomahamsa-Jataka.jpg" alt="temple painting of Lomahamsa Jataka" class="wp-image-6735" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/94-Lomahamsa-Jataka.jpg" alt="temple painting of Lomahamsa Jataka" class="wp-image-6735" width="400" height="348" >
 <link>https://thejatakatales.com/lomahamsa-jataka-94</link>
 
 
@@ -10160,7 +10160,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Lomasakassapa Jataka (#433)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/433-Lomasakassapa-Jataka.jpg" alt="temple painting of Lomasakassapa Jataka" class="wp-image-6746" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/433-Lomasakassapa-Jataka.jpg" alt="temple painting of Lomasakassapa Jataka" class="wp-image-6746" width="400" height="348" >
 <link>https://thejatakatales.com/lomasakassapa-jataka-433</link>
 
 
@@ -10205,7 +10205,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Losaka Jataka (#41)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/41-Losaka-Jataka.jpg" alt="temple painting of Losaka Jataka" class="wp-image-5563" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/41-Losaka-Jataka.jpg" alt="temple painting of Losaka Jataka" class="wp-image-5563" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/losaka-jataka-41</link>
 
 
@@ -10270,7 +10270,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Macch-Uddana Jataka (#288)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/288-Macch-Uddana-Jataka.jpg" alt="temple painting of Macch-Uddana Jataka" class="wp-image-6879" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/288-Macch-Uddana-Jataka.jpg" alt="temple painting of Macch-Uddana Jataka" class="wp-image-6879" width="400" height="348" >
 <link>https://thejatakatales.com/macch-uddana-jataka-288</link>
 
 
@@ -10307,7 +10307,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maccha Jataka (#216)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/216-Maccha-Jataka.jpg" alt="temple painting of Maccha Jataka" class="wp-image-5978" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/216-Maccha-Jataka.jpg" alt="temple painting of Maccha Jataka" class="wp-image-5978" width="400" height="348" >
 <link>https://thejatakatales.com/maccha-jataka-216</link>
 
 
@@ -10332,7 +10332,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maccha Jataka (#34)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/34-Maccha-Jataka.jpg" alt="painting of Maccha Jataka" class="wp-image-5148" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/34-Maccha-Jataka.jpg" alt="painting of Maccha Jataka" class="wp-image-5148" width="400" height="348" >
 <link>https://thejatakatales.com/maccha-jataka-34</link>
 
 
@@ -10365,7 +10365,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maccha Jataka (#75)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/75-Maccha-Jataka.jpg" alt="temple painting of Maccha Jataka" class="wp-image-5349" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/75-Maccha-Jataka.jpg" alt="temple painting of Maccha Jataka" class="wp-image-5349" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/maccha-jataka-75</link>
 
 
@@ -10398,7 +10398,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Dhamma-Pala Jataka (#447)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/447-Maha-Dhamma-Pala-Jataka.jpg" alt="temple painting of Maha-Dhamma-Pala Jataka" class="wp-image-6507" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/447-Maha-Dhamma-Pala-Jataka.jpg" alt="temple painting of Maha-Dhamma-Pala Jataka" class="wp-image-6507" width="400" height="348" >
 <link>https://thejatakatales.com/maha-dhamma-pala-jataka-447</link>
 
 
@@ -10439,7 +10439,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Kanha Jataka (#469)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/469-Maha-Kanha-Jataka.jpg" alt="temple painting of Maha-Kanha Jataka" class="wp-image-6545" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/469-Maha-Kanha-Jataka.jpg" alt="temple painting of Maha-Kanha Jataka" class="wp-image-6545" width="400" height="348" >
 <link>https://thejatakatales.com/maha-kanha-jataka-469</link>
 
 
@@ -10476,7 +10476,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Mangala Jataka (#453)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/453-Maha-Mangala-Jataka.jpg" alt="temple painting of Maha-Mangala Jataka" class="wp-image-6531" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/453-Maha-Mangala-Jataka.jpg" alt="temple painting of Maha-Mangala Jataka" class="wp-image-6531" width="400" height="348" >
 <link>https://thejatakatales.com/maha-mangala-jataka-453</link>
 
 
@@ -10517,7 +10517,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Mora Jataka (#491)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/491-Maha-Mora-Jataka.jpg" alt="temple painting of Maha-Mora Jataka" class="wp-image-6559" width="184" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/491-Maha-Mora-Jataka.jpg" alt="temple painting of Maha-Mora Jataka" class="wp-image-6559" width="184" height="400" >
 <link>https://thejatakatales.com/maha-mora-jataka-491</link>
 
 
@@ -10574,7 +10574,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Paduma Jataka (#472)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/472-Maha-Paduma-Jataka.jpg" alt="temple painting of Maha-Paduma Jataka" class="wp-image-6546" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/472-Maha-Paduma-Jataka.jpg" alt="temple painting of Maha-Paduma Jataka" class="wp-image-6546" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/maha-paduma-jataka-472</link>
 
 
@@ -10625,7 +10625,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Panada Jataka (#264)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/264-Maha-Panada-Jataka.jpg" alt="temple painting of Maha-Panada Jataka" class="wp-image-6076" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/264-Maha-Panada-Jataka.jpg" alt="temple painting of Maha-Panada Jataka" class="wp-image-6076" width="400" height="348" >
 <link>https://thejatakatales.com/maha-panada-jataka-264</link>
 
 
@@ -10666,7 +10666,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Sutasoma Jataka (#537)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/537-Maha-Sutasoma-Jataka.jpg" alt="temple painting of Maha-Sutasoma Jataka" class="wp-image-5432" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/537-Maha-Sutasoma-Jataka.jpg" alt="temple painting of Maha-Sutasoma Jataka" class="wp-image-5432" width="400" height="348" >
 <link>https://thejatakatales.com/maha-sutasoma-jataka-537</link>
 
 
@@ -10817,7 +10817,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Ukkusa Jataka (#486)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/486-Maha-Ukkusa-Jataka.jpg" alt="temple painting of Maha-Ukkusa Jataka" class="wp-image-6556" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/486-Maha-Ukkusa-Jataka.jpg" alt="temple painting of Maha-Ukkusa Jataka" class="wp-image-6556" >
 <link>https://thejatakatales.com/maha-ukkusa-jataka-486</link>
 
 
@@ -10878,7 +10878,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/maha-ummagga-jataka-546</link>
 
 
@@ -10891,7 +10891,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/maha-ummagga-jataka-546-wisdom.jpg" alt="the Bodhisatta holding his sword" class="wp-image-3405" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/maha-ummagga-jataka-546-wisdom.jpg" alt="the Bodhisatta holding his sword" class="wp-image-3405" style="width:400px;height:348px" >
 
 
 
@@ -11389,7 +11389,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maha-Vanija Jataka (#493)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/493-Maha-Vanija-Jataka.jpg" alt="temple painting of Maha-Vanija Jataka" class="wp-image-6560" width="174" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/493-Maha-Vanija-Jataka.jpg" alt="temple painting of Maha-Vanija Jataka" class="wp-image-6560" width="174" height="400" >
 <link>https://thejatakatales.com/maha-vanija-jataka-493</link>
 
 
@@ -11430,7 +11430,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahaassaroha Jataka (#302)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/302-Mahaassaroha-Jataka.jpg" alt="temple painting of Mahaassaroha Jataka" class="wp-image-6160" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/302-Mahaassaroha-Jataka.jpg" alt="temple painting of Mahaassaroha Jataka" class="wp-image-6160" width="400" height="348" >
 <link>https://thejatakatales.com/mahaassaroha-jataka-302</link>
 
 
@@ -11475,7 +11475,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahabodhi Jataka (#528)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/528-Mahabodhi-Jataka.jpg" alt="temple painting of Mahabodhi Jataka" class="wp-image-6578" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/528-Mahabodhi-Jataka.jpg" alt="temple painting of Mahabodhi Jataka" class="wp-image-6578" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/mahabodhi-jataka-528</link>
 
 
@@ -11560,7 +11560,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahahamsa Jataka (#534)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/534-Mahahamsa-Jataka.jpg" alt="temple painting of Mahahamsa Jataka" class="wp-image-5429" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/534-Mahahamsa-Jataka.jpg" alt="temple painting of Mahahamsa Jataka" class="wp-image-5429" width="400" height="348" >
 <link>https://thejatakatales.com/mahahamsa-jataka-534</link>
 
 
@@ -11637,7 +11637,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/539-Mahajanaka-Jataka.jpg" alt="painting of Mahajanaka Jataka" class="wp-image-5033" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/539-Mahajanaka-Jataka.jpg" alt="painting of Mahajanaka Jataka" class="wp-image-5033" width="400" height="348" >
 <link>https://thejatakatales.com/mahajanaka-jataka-539</link>
 
 
@@ -11650,7 +11650,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/mahajanaka-jataka-539-endurance.jpg" alt="Mahajanaka being rescued from the sinking ship" class="wp-image-3403" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/mahajanaka-jataka-539-endurance.jpg" alt="Mahajanaka being rescued from the sinking ship" class="wp-image-3403" width="400" height="348" >
 
 
 
@@ -11734,7 +11734,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahakapi Jataka (#407)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/407-Mahakapi-Jataka.jpg" alt="temple painting of Mahakapi Jataka" class="wp-image-6418" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/407-Mahakapi-Jataka.jpg" alt="temple painting of Mahakapi Jataka" class="wp-image-6418" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/mahakapi-jataka-407</link>
 
 
@@ -11823,7 +11823,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahakapi Jataka (#516)</h3>
 		
 <div class="entry-content>
-<figure><img width="580" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/04/516-Mahakapi-Jataka.jpg" alt="temple painting of Mahakapi Jataka" class="wp-image-6575" style="width:290px;height:400px" ></figure>
+<img width="580" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/04/516-Mahakapi-Jataka.jpg" alt="temple painting of Mahakapi Jataka" class="wp-image-6575" style="width:290px;height:400px" >
 <link>https://thejatakatales.com/mahakapi-jataka-516</link>
 
 
@@ -11860,7 +11860,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/544-Mahanaradakassapa-Jataka.jpg" alt="painting of Mahanaradakassapa Jataka" class="wp-image-5038" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/544-Mahanaradakassapa-Jataka.jpg" alt="painting of Mahanaradakassapa Jataka" class="wp-image-5038" width="400" height="348" >
 <link>https://thejatakatales.com/mahanaradakassapa-jataka-544</link>
 
 
@@ -11873,7 +11873,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/mahanaradakassapa-jataka-544-equanimity.jpg" alt="the Bodhisatta down from heaven talking to the king" class="wp-image-3404" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/mahanaradakassapa-jataka-544-equanimity.jpg" alt="the Bodhisatta down from heaven talking to the king" class="wp-image-3404" width="400" height="348" >
 
 
 
@@ -11937,7 +11937,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahapingala Jataka (#240)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/240-Mahapingala-Jataka.jpg" alt="temple painting of Mahapingala Jataka" class="wp-image-6030" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/240-Mahapingala-Jataka.jpg" alt="temple painting of Mahapingala Jataka" class="wp-image-6030" width="400" height="348" >
 <link>https://thejatakatales.com/mahapingala-jataka-240</link>
 
 
@@ -11966,7 +11966,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahasara Jataka (#92)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/92-Mahasara-Jataka.jpg" alt="temple painting of Mahasara Jataka" class="wp-image-5632" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/92-Mahasara-Jataka.jpg" alt="temple painting of Mahasara Jataka" class="wp-image-5632" width="400" height="348" >
 <link>https://thejatakatales.com/mahasara-jataka-92</link>
 
 
@@ -12011,7 +12011,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahasilava Jataka (#51)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/51-Mahasilava-Jataka.jpg" alt="painting of Mahasilava Jataka" class="wp-image-5243" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/51-Mahasilava-Jataka.jpg" alt="painting of Mahasilava Jataka" class="wp-image-5243" width="400" height="348" >
 <link>https://thejatakatales.com/mahasilava-jataka-51</link>
 
 
@@ -12056,7 +12056,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahasudassana Jataka (#95)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/95-Mahasudassana-Jataka.jpg" alt="temple painting of Mahasudassana Jataka" class="wp-image-5634" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/95-Mahasudassana-Jataka.jpg" alt="temple painting of Mahasudassana Jataka" class="wp-image-5634" width="400" height="348" >
 <link>https://thejatakatales.com/mahasudassana-jataka-95</link>
 
 
@@ -12089,7 +12089,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahasuka Jataka (#429)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/429-Mahasuka-Jataka.jpg" alt="temple painting of Mahasuka Jataka" class="wp-image-5337" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/429-Mahasuka-Jataka.jpg" alt="temple painting of Mahasuka Jataka" class="wp-image-5337" width="400" height="348" >
 <link>https://thejatakatales.com/mahasuka-jataka-429</link>
 
 
@@ -12118,11 +12118,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 
-
-
-<p class="has-text-align-center"><a href="https://thejatakatales.com/kosambi-jataka-428/"><img decoding="async" width="40" height="20" class="wp-image-307" style="width: 40px;" src="https://thejatakatales.com/wp-content/uploads/2019/06/prev-arrow.png" alt="previous arrow" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/06/prev-arrow.png" alt="previous arrow" >
 
 
 
@@ -12230,7 +12227,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahilamukha Jataka (#26)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/26-Mahilamukha-Jataka.jpg" alt="painting of Mahilamukha Jataka" class="wp-image-5203" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/26-Mahilamukha-Jataka.jpg" alt="painting of Mahilamukha Jataka" class="wp-image-5203" width="400" height="348" >
 <link>https://thejatakatales.com/mahilamukha-jataka-26</link>
 
 
@@ -12267,7 +12264,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mahisa Jataka (#278)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/278-Mahisa-Jataka.jpg" alt="temple painting of Romaka Jataka" class="wp-image-6087" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/278-Mahisa-Jataka.jpg" alt="temple painting of Romaka Jataka" class="wp-image-6087" width="400" height="348" >
 <link>https://thejatakatales.com/mahisa-jataka-278</link>
 
 
@@ -12300,7 +12297,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Makasa Jataka (#44)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/44-Makasa-Jataka.jpg" alt="painting of Makasa Jataka" class="wp-image-5240" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/44-Makasa-Jataka.jpg" alt="painting of Makasa Jataka" class="wp-image-5240" width="400" height="348" >
 <link>https://thejatakatales.com/makasa-jataka-44</link>
 
 
@@ -12329,7 +12326,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Makhadeva Jataka (#9)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/9-Makhadeva-Jataka.jpg" alt="temple painting of Makhadeva Jataka" class="wp-image-5559" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/9-Makhadeva-Jataka.jpg" alt="temple painting of Makhadeva Jataka" class="wp-image-5559" width="400" height="348" >
 <link>https://thejatakatales.com/makhadeva-jataka-9</link>
 
 
@@ -12358,7 +12355,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Makkata Jataka (#173)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/173-Makkata-Jataka.jpg" alt="temple painting of Makkata Jataka" class="wp-image-5875" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/173-Makkata-Jataka.jpg" alt="temple painting of Makkata Jataka" class="wp-image-5875" width="400" height="348" >
 <link>https://thejatakatales.com/makkata-jataka-173</link>
 
 
@@ -12391,7 +12388,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Maluta Jataka (#17)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/17-Maluta-Jataka.jpg" alt="painting of Maluta Jataka" class="wp-image-5195" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/17-Maluta-Jataka.jpg" alt="painting of Maluta Jataka" class="wp-image-5195" width="400" height="348" >
 <link>https://thejatakatales.com/maluta-jataka-17</link>
 
 
@@ -12416,7 +12413,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mamgala Jataka (#87)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/87-Mamgala-Jataka.jpg" alt="temple painting of Mamgala Jataka" class="wp-image-5628" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/87-Mamgala-Jataka.jpg" alt="temple painting of Mamgala Jataka" class="wp-image-5628" width="400" height="348" >
 <link>https://thejatakatales.com/mamgala-jataka-87</link>
 
 
@@ -12445,7 +12442,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mamsa Jataka (#315)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/315-Mamsa-Jataka.jpg" alt="temple painting of Mamsa Jataka" class="wp-image-6170" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/315-Mamsa-Jataka.jpg" alt="temple painting of Mamsa Jataka" class="wp-image-6170" width="400" height="348" >
 <link>https://thejatakatales.com/mamsa-jataka-315</link>
 
 
@@ -12474,7 +12471,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mandhatu Jataka (#258)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/258-Mandhatu-Jataka.jpg" alt="temple painting of Mandhatu Jataka" class="wp-image-6799" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/258-Mandhatu-Jataka.jpg" alt="temple painting of Mandhatu Jataka" class="wp-image-6799" width="400" height="348" >
 <link>https://thejatakatales.com/mandhatu-jataka-258</link>
 
 
@@ -12515,7 +12512,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mani-Kantha Jataka (#253)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/253-Mani-Kantha-Jataka.jpg" alt="temple painting of Mani-Kantha Jataka" class="wp-image-6040" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/253-Mani-Kantha-Jataka.jpg" alt="temple painting of Mani-Kantha Jataka" class="wp-image-6040" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/mani-kantha-jataka-253</link>
 
 
@@ -12556,7 +12553,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Manicora Jataka (#194)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/194-Manicora-Jataka.jpg" alt="temple painting of Manicora Jataka" class="wp-image-5919" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/194-Manicora-Jataka.jpg" alt="temple painting of Manicora Jataka" class="wp-image-5919" width="400" height="348" >
 <link>https://thejatakatales.com/manicora-jataka-194</link>
 
 
@@ -12595,7 +12592,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Manisukara Jataka (#285)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/285-Manisukara-Jataka.jpg" alt="temple painting of Manisukara Jataka" class="wp-image-6092" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/285-Manisukara-Jataka.jpg" alt="temple painting of Manisukara Jataka" class="wp-image-6092" width="400" height="348" >
 <link>https://thejatakatales.com/manisukara-jataka-285</link>
 
 
@@ -12632,7 +12629,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Manoja Jataka (#397)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/397-Manoja-Jataka.jpg" alt="temple painting of Manoja Jataka" class="wp-image-6392" width="333" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/397-Manoja-Jataka.jpg" alt="temple painting of Manoja Jataka" class="wp-image-6392" width="333" height="400" >
 <link>https://thejatakatales.com/manoja-jataka-397</link>
 
 
@@ -12669,7 +12666,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Matakabhatta Jataka (#18)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/18-Matakabhatta-Jataka.jpg" alt="painting of Matakabhatta Jataka" class="wp-image-5196" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/18-Matakabhatta-Jataka.jpg" alt="painting of Matakabhatta Jataka" class="wp-image-5196" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/matakabhatta-jataka-18</link>
 
 
@@ -12706,7 +12703,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Matanga Jataka (#497)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/497-Matanga-Jataka.jpg" alt="temple painting of Matanga Jataka" class="wp-image-6831" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/497-Matanga-Jataka.jpg" alt="temple painting of Matanga Jataka" class="wp-image-6831" width="400" height="348" >
 <link>https://thejatakatales.com/matanga-jataka-497</link>
 
 
@@ -12783,7 +12780,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Matarodana Jataka (#317)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/317-Matarodana-Jataka.jpg" alt="temple painting of Matarodana Jataka" class="wp-image-6172" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/317-Matarodana-Jataka.jpg" alt="temple painting of Matarodana Jataka" class="wp-image-6172" width="400" height="348" >
 <link>https://thejatakatales.com/matarodana-jataka-317</link>
 
 
@@ -12812,7 +12809,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mati-Posaka Jataka (#455)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/455-Mati-Posaka-Jataka.jpg" alt="temple painting of Mati-Posaka Jataka" class="wp-image-6532" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/455-Mati-Posaka-Jataka.jpg" alt="temple painting of Mati-Posaka Jataka" class="wp-image-6532" width="400" height="348" >
 <link>https://thejatakatales.com/mati-posaka-jataka-455</link>
 
 
@@ -12865,7 +12862,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Matta-Kundali Jataka (#449)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/449-Matta-Kundali-Jataka.jpg" alt="temple painting of Matta-Kundali Jataka" class="wp-image-6509" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/449-Matta-Kundali-Jataka.jpg" alt="temple painting of Matta-Kundali Jataka" class="wp-image-6509" width="400" height="348" >
 <link>https://thejatakatales.com/matta-kundali-jataka-449</link>
 
 
@@ -12898,7 +12895,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mayhaka Jataka (#390)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/390-Mayhaka-Jataka.jpg" alt="temple painting of Mayhaka Jataka" class="wp-image-6387" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/390-Mayhaka-Jataka.jpg" alt="temple painting of Mayhaka Jataka" class="wp-image-6387" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/mayhaka-jataka-390</link>
 
 
@@ -12931,7 +12928,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mendaka Jataka (#471)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/mendaka-jataka-471</link>
 
 
@@ -12972,7 +12969,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Migalopa Jataka (#381)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/381-Migalopa-Jataka.jpg" alt="temple painting of Migalopa Jataka" class="wp-image-6367" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/381-Migalopa-Jataka.jpg" alt="temple painting of Migalopa Jataka" class="wp-image-6367" width="400" height="348" >
 <link>https://thejatakatales.com/migalopa-jataka-381</link>
 
 
@@ -12997,7 +12994,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Migapotaka Jataka (#372)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/372-Migapotaka-Jataka.jpg" alt="temple painting of Migapotaka Jataka" class="wp-image-6296" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/372-Migapotaka-Jataka.jpg" alt="temple painting of Migapotaka Jataka" class="wp-image-6296" width="400" height="348" >
 <link>https://thejatakatales.com/migapotaka-jataka-372</link>
 
 
@@ -13022,7 +13019,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mitacinti Jataka (#114)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/114-Mitacinti-Jataka.jpg" alt="temple painting of Mitacinti Jataka" class="wp-image-5712" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/114-Mitacinti-Jataka.jpg" alt="temple painting of Mitacinti Jataka" class="wp-image-5712" width="400" height="348" >
 <link>https://thejatakatales.com/mitacinti-jataka-114</link>
 
 
@@ -13047,7 +13044,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mittamitta Jataka (#197)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/120-Bandhanamokkha-Jataka.jpg" alt="temple painting of Bandhanamokkha Jataka" class="wp-image-5718" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/120-Bandhanamokkha-Jataka.jpg" alt="temple painting of Bandhanamokkha Jataka" class="wp-image-5718" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/mittamitta-jataka-197</link>
 
 
@@ -13080,7 +13077,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mittamitta Jataka (#473)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/473-Mittamitta-Jataka.jpg" alt="temple painting of Mittamitta Jataka" class="wp-image-6803" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/473-Mittamitta-Jataka.jpg" alt="temple painting of Mittamitta Jataka" class="wp-image-6803" width="400" height="348" >
 <link>https://thejatakatales.com/mittamitta-jataka-473</link>
 
 
@@ -13145,7 +13142,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mora Jataka (#159)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/159-Mora-Jataka.jpg" alt="temple painting of Mora Jataka" class="wp-image-5812" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/159-Mora-Jataka.jpg" alt="temple painting of Mora Jataka" class="wp-image-5812" width="400" height="348" >
 <link>https://thejatakatales.com/mittavinda-jataka-104</link>
 
 
@@ -13190,7 +13187,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mudu-Pani Jataka (#262)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/262-Mudu-Pani-Jataka.jpg" alt="temple painting of Mudu-Pani Jataka" class="wp-image-6778" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/262-Mudu-Pani-Jataka.jpg" alt="temple painting of Mudu-Pani Jataka" class="wp-image-6778" width="400" height="348" >
 <link>https://thejatakatales.com/mudu-pani-jataka-262</link>
 
 
@@ -13227,7 +13224,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mudulakkhana Jataka (#66)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/66-Mudulakkhana-Jataka.jpg" alt="temple painting of Mudulakkhana Jataka" class="wp-image-5580" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/66-Mudulakkhana-Jataka.jpg" alt="temple painting of Mudulakkhana Jataka" class="wp-image-5580" width="400" height="348" >
 <link>https://thejatakatales.com/mudulakkhana-jataka-66</link>
 
 
@@ -13276,7 +13273,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/538-Muga-Pakkha-Jataka.jpg" alt="painting of Muga Pakkha Jataka" class="wp-image-5032" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/538-Muga-Pakkha-Jataka.jpg" alt="painting of Muga Pakkha Jataka" class="wp-image-5032" width="400" height="348" >
 <link>https://thejatakatales.com/muga-pakkha-jataka-538</link>
 
 
@@ -13289,7 +13286,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/muga-pakkha-jataka-538-renunciation.jpg" alt="Temiya lifting his chariot" class="wp-image-3406" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/muga-pakkha-jataka-538-renunciation.jpg" alt="Temiya lifting his chariot" class="wp-image-3406" width="400" height="348" >
 
 
 
@@ -13419,7 +13416,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Mula-Pariyaya Jataka (#245)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/245-Mula-Pariyaya-Jataka.jpg" alt="temple painting of Mula-Pariyaya Jataka" class="wp-image-6792" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/245-Mula-Pariyaya-Jataka.jpg" alt="temple painting of Mula-Pariyaya Jataka" class="wp-image-6792" width="400" height="348" >
 <link>https://thejatakatales.com/mula-pariyaya-jataka-245</link>
 
 
@@ -13452,7 +13449,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Munika Jataka (#30)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/30-Munika-Jataka.jpg" alt="painting of Munika Jataka" class="wp-image-5144" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/30-Munika-Jataka.jpg" alt="painting of Munika Jataka" class="wp-image-5144" width="400" height="348" >
 <link>https://thejatakatales.com/munika-jataka-30</link>
 
 
@@ -13485,7 +13482,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Musika Jataka (#373)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/373-Musika-Jataka.jpg" alt="temple painting of Musika Jataka" class="wp-image-6297" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/373-Musika-Jataka.jpg" alt="temple painting of Musika Jataka" class="wp-image-6297" width="400" height="348" >
 <link>https://thejatakatales.com/musika-jataka-373</link>
 
 
@@ -13530,7 +13527,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nacca Jataka (#32)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/32-Nacca-Jataka.jpg" alt="painting of Nacca Jataka" class="wp-image-5146" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/32-Nacca-Jataka.jpg" alt="painting of Nacca Jataka" class="wp-image-5146" width="400" height="348" >
 <link>https://thejatakatales.com/nacca-jataka-32</link>
 
 
@@ -13559,7 +13556,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nakkhatta Jataka (#49)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/49-Nakkhatta-Jataka.jpg" alt="temple painting of Nakkhatta Jataka" class="wp-image-5577" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/49-Nakkhatta-Jataka.jpg" alt="temple painting of Nakkhatta Jataka" class="wp-image-5577" width="400" height="348" >
 <link>https://thejatakatales.com/nakkhatta-jataka-49</link>
 
 
@@ -13592,7 +13589,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nakula Jataka (#165)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/165-Nakula-Jataka.jpg" alt="temple painting of Nakula Jataka" class="wp-image-5844" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/165-Nakula-Jataka.jpg" alt="temple painting of Nakula Jataka" class="wp-image-5844" width="400" height="348" >
 <link>https://thejatakatales.com/nakula-jataka-165</link>
 
 
@@ -13621,7 +13618,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nalapana Jataka (#20)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/20-Nalapana-Jataka.jpg" alt="painting of Nalapana Jataka" class="wp-image-5197" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/20-Nalapana-Jataka.jpg" alt="painting of Nalapana Jataka" class="wp-image-5197" width="400" height="348" >
 <link>https://thejatakatales.com/nalapana-jataka-20</link>
 
 
@@ -13654,7 +13651,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nalinika Jataka (#526)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/526-Nalinika-Jataka.jpg" alt="temple painting of Nalinika Jataka" class="wp-image-5481" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/526-Nalinika-Jataka.jpg" alt="temple painting of Nalinika Jataka" class="wp-image-5481" width="400" height="348" >
 <link>https://thejatakatales.com/nalinika-jataka-526</link>
 
 
@@ -13695,7 +13692,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Namasiddhi Jataka (#97)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/97-Namasiddhi-Jataka.jpg" alt="temple painting of Namasiddhi Jataka" class="wp-image-5636" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/97-Namasiddhi-Jataka.jpg" alt="temple painting of Namasiddhi Jataka" class="wp-image-5636" width="400" height="348" >
 <link>https://thejatakatales.com/namasiddhi-jataka-97</link>
 
 
@@ -13724,7 +13721,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nana-Cchanda Jataka (#289)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/289-Nana-Cchanda-Jataka.jpg" alt="temple painting of Nana-Cchanda Jataka" class="wp-image-6093" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/289-Nana-Cchanda-Jataka.jpg" alt="temple painting of Nana-Cchanda Jataka" class="wp-image-6093" width="400" height="348" >
 <link>https://thejatakatales.com/nana-cchanda-jataka-289</link>
 
 
@@ -13757,7 +13754,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nanda Jataka (#39)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/39-Nanda-Jataka.jpg" alt="temple painting of Nanda Jataka" class="wp-image-5561" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/39-Nanda-Jataka.jpg" alt="temple painting of Nanda Jataka" class="wp-image-5561" width="400" height="348" >
 <link>https://thejatakatales.com/nanda-jataka-39</link>
 
 
@@ -13794,7 +13791,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nandivisala Jataka (#28)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/28-Nandivisala-Jataka.jpg" alt="painting of Nandivisala Jataka" class="wp-image-5142" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/28-Nandivisala-Jataka.jpg" alt="painting of Nandivisala Jataka" class="wp-image-5142" width="400" height="348" >
 <link>https://thejatakatales.com/nandivisala-jataka-28</link>
 
 
@@ -13827,7 +13824,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nandiyamiga Jataka (#385)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/385-Nandiyamiga-Jataka.jpg" alt="temple painting of Nandiyamiga Jataka" class="wp-image-6371" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/385-Nandiyamiga-Jataka.jpg" alt="temple painting of Nandiyamiga Jataka" class="wp-image-6371" width="400" height="348" >
 <link>https://thejatakatales.com/nandiyamiga-jataka-385</link>
 
 
@@ -13864,7 +13861,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nangalisa Jataka (#123)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/287-Labha-Garaha-Jataka.jpg" alt="temple painting of Labha-Garaha Jataka" class="wp-image-5511" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/287-Labha-Garaha-Jataka.jpg" alt="temple painting of Labha-Garaha Jataka" class="wp-image-5511" width="400" height="348" >
 <link>https://thejatakatales.com/nangalisa-jataka-123</link>
 
 
@@ -13897,7 +13894,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nanguttha Jataka (#144)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/144-Nanguttha-Jataka.jpg" alt="temple painting of Nanguttha Jataka" class="wp-image-5784" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/144-Nanguttha-Jataka.jpg" alt="temple painting of Nanguttha Jataka" class="wp-image-5784" width="400" height="348" >
 <link>https://thejatakatales.com/nanguttha-jataka-144</link>
 
 
@@ -13930,7 +13927,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Neru Jataka (#379)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/379-Neru-Jataka.jpg" alt="temple painting of Neru Jataka" class="wp-image-6300" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/379-Neru-Jataka.jpg" alt="temple painting of Neru Jataka" class="wp-image-6300" width="400" height="348" >
 <link>https://thejatakatales.com/neru-jataka-379</link>
 
 
@@ -13963,7 +13960,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nigrodha Jataka (#445)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/445-Nigrodha-Jataka.jpg" alt="temple painting of Nigrodha Jataka" class="wp-image-6505" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/445-Nigrodha-Jataka.jpg" alt="temple painting of Nigrodha Jataka" class="wp-image-6505" width="400" height="348" >
 <link>https://thejatakatales.com/nigrodha-jataka-445</link>
 
 
@@ -14016,7 +14013,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Nigrodhamiga Jataka (#12)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/12-Nigrodhamiga-Jataka.jpg" alt="painting of Nigrodhamiga Jataka" class="wp-image-5191" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/12-Nigrodhamiga-Jataka.jpg" alt="painting of Nigrodhamiga Jataka" class="wp-image-5191" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/nigrodhamiga-jataka-12</link>
 
 
@@ -14065,7 +14062,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/541-Nimi-Jataka.jpg" alt="painting of Nimi Jataka" class="wp-image-5035" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/541-Nimi-Jataka.jpg" alt="painting of Nimi Jataka" class="wp-image-5035" width="400" height="348" >
 <link>https://thejatakatales.com/nimi-jataka-541</link>
 
 
@@ -14078,7 +14075,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/nimi-jataka-541-determination.jpg" alt="Nimi riding in the chariot through heaven" class="wp-image-3407" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/nimi-jataka-541-determination.jpg" alt="Nimi riding in the chariot through heaven" class="wp-image-3407" width="400" height="348" >
 
 
 
@@ -14188,7 +14185,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pabbatupatthara Jataka (#195)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/195-Pabbatupatthara-Jataka.jpg" alt="temple painting of Pabbatupatthara Jataka" class="wp-image-5920" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/195-Pabbatupatthara-Jataka.jpg" alt="temple painting of Pabbatupatthara Jataka" class="wp-image-5920" width="400" height="348" >
 <link>https://thejatakatales.com/pabbatupatthara-jataka-195</link>
 
 
@@ -14213,7 +14210,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Padakusalamanava Jataka (#432)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/432-Padakusalamanava-Jataka.jpg" alt="temple painting of Padakusalamanava Jataka" class="wp-image-6467" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/432-Padakusalamanava-Jataka.jpg" alt="temple painting of Padakusalamanava Jataka" class="wp-image-6467" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/padakusalamanava-jataka-432</link>
 
 
@@ -14358,7 +14355,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Padanjali Jataka (#247)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/247-Padanjali-Jataka.jpg" alt="temple painting of Padanjali Jataka" class="wp-image-6036" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/247-Padanjali-Jataka.jpg" alt="temple painting of Padanjali Jataka" class="wp-image-6036" width="400" height="348" >
 <link>https://thejatakatales.com/padanjali-jataka-247</link>
 
 
@@ -14387,7 +14384,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Paduma Jataka (#261)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/261-Paduma-Jataka.jpg" alt="temple painting of Paduma Jataka" class="wp-image-6075" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/261-Paduma-Jataka.jpg" alt="temple painting of Paduma Jataka" class="wp-image-6075" width="400" height="348" >
 <link>https://thejatakatales.com/paduma-jataka-261</link>
 
 
@@ -14420,7 +14417,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Palasa Jataka (#307)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/307-Palasa-Jataka.jpg" alt="temple painting of Palasa Jataka" class="wp-image-6162" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/307-Palasa-Jataka.jpg" alt="temple painting of Palasa Jataka" class="wp-image-6162" width="400" height="348" >
 <link>https://thejatakatales.com/palasa-jataka-307</link>
 
 
@@ -14449,7 +14446,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Palasa Jataka (#370)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/370-Palasa-Jataka.jpg" alt="temple painting of Palasa Jataka" class="wp-image-6294" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/370-Palasa-Jataka.jpg" alt="temple painting of Palasa Jataka" class="wp-image-6294" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/palasa-jataka-370</link>
 
 
@@ -14478,7 +14475,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Palayi Jataka (#229)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/229-Palayi-Jataka.jpg" alt="temple painting of Palayi Jataka" class="wp-image-5987" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/229-Palayi-Jataka.jpg" alt="temple painting of Palayi Jataka" class="wp-image-5987" width="400" height="348" >
 <link>https://thejatakatales.com/palayi-jataka-229</link>
 
 
@@ -14507,7 +14504,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Panc-Uposatha Jataka (#490)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/490-Panc-Uposatha-Jataka.jpg" alt="temple painting of Panc-Uposatha Jataka" class="wp-image-6558" width="242" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/490-Panc-Uposatha-Jataka.jpg" alt="temple painting of Panc-Uposatha Jataka" class="wp-image-6558" width="242" height="400" >
 <link>https://thejatakatales.com/panc-uposatha-jataka-490</link>
 
 
@@ -14560,7 +14557,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Panca-Pandita Jataka (#508)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/panca-pandita-jataka-508</link>
 
 
@@ -14613,7 +14610,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pancagaru Jataka (#132)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/96-Telapatta-Jataka.jpg" alt="temple painting of Telapatta Jataka" class="wp-image-5635" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/96-Telapatta-Jataka.jpg" alt="temple painting of Telapatta Jataka" class="wp-image-5635" width="400" height="348" >
 <link>https://thejatakatales.com/pancagaru-jataka-132</link>
 
 
@@ -14654,7 +14651,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pancavudha Jataka (#55)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/55-Pancavudha-Jataka.jpg" alt="painting of Pancavudha Jataka" class="wp-image-5289" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/55-Pancavudha-Jataka.jpg" alt="painting of Pancavudha Jataka" class="wp-image-5289" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/pancavudha-jataka-55</link>
 
 
@@ -14691,7 +14688,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pandara Jataka (#518)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/518-Pandara-Jataka.jpg" alt="temple painting of Pandara Jataka" class="wp-image-6576" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/518-Pandara-Jataka.jpg" alt="temple painting of Pandara Jataka" class="wp-image-6576" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/pandara-jataka-518</link>
 
 
@@ -14732,7 +14729,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Paniya Jataka (#459)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/459-Paniya-Jataka.jpg" alt="temple painting of Paniya Jataka" class="wp-image-6536" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/459-Paniya-Jataka.jpg" alt="temple painting of Paniya Jataka" class="wp-image-6536" width="400" height="348" >
 <link>https://thejatakatales.com/paniya-jataka-459</link>
 
 
@@ -14781,7 +14778,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pannika Jataka (#102)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/102-Pannika-Jataka.jpg" alt="temple painting of Pannika Jataka" class="wp-image-5705" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/102-Pannika-Jataka.jpg" alt="temple painting of Pannika Jataka" class="wp-image-5705" width="400" height="348" >
 <link>https://thejatakatales.com/pannika-jataka-102</link>
 
 
@@ -14806,7 +14803,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Parantapa Jataka (#416)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/416-Parantapa-Jataka.jpg" alt="temple painting of Parantapa Jataka" class="wp-image-6435" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/416-Parantapa-Jataka.jpg" alt="temple painting of Parantapa Jataka" class="wp-image-6435" width="290" height="400" >
 <link>https://thejatakatales.com/parantapa-jataka-416</link>
 
 
@@ -14851,7 +14848,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Parosahassa Jataka (#99)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/101-Parosata-Jataka.jpg" alt="temple painting of Parosata Jataka" class="wp-image-5595" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/101-Parosata-Jataka.jpg" alt="temple painting of Parosata Jataka" class="wp-image-5595" width="400" height="348" >
 <link>https://thejatakatales.com/parosahassa-jataka-99</link>
 
 
@@ -14878,7 +14875,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Phala Jataka (#54)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/54-Phala-Jataka.jpg" alt="painting of Phala Jataka" class="wp-image-5288" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/54-Phala-Jataka.jpg" alt="painting of Phala Jataka" class="wp-image-5288" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/phala-jataka-54</link>
 
 
@@ -14915,7 +14912,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Phandana Jataka (#475)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/475-Phandana-Jataka.jpg" alt="temple painting of Phandana Jataka" class="wp-image-6548" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/475-Phandana-Jataka.jpg" alt="temple painting of Phandana Jataka" class="wp-image-6548" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/phandana-jataka-475</link>
 
 
@@ -14956,7 +14953,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pitha Jataka (#337)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/337-Pitha-Jataka.jpg" alt="temple painting of Pitha Jataka" class="wp-image-6225" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/337-Pitha-Jataka.jpg" alt="temple painting of Pitha Jataka" class="wp-image-6225" width="400" height="348" >
 <link>https://thejatakatales.com/pitha-jataka-337</link>
 
 
@@ -14989,7 +14986,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Pucimanda Jataka (#311)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/311-Pucimanda-Jataka.jpg" alt="temple painting of Pucimanda Jataka" class="wp-image-6166" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/311-Pucimanda-Jataka.jpg" alt="temple painting of Pucimanda Jataka" class="wp-image-6166" width="400" height="348" >
 <link>https://thejatakatales.com/pucimanda-jataka-311</link>
 
 
@@ -15026,7 +15023,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 				<h3 class="entry-title" itemprop="headline">Punna-Nadi Jataka (#214)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/214-Punna-Nadi-Jataka.jpg" alt="temple painting of Punna-Nadi Jataka" class="wp-image-6797" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/214-Punna-Nadi-Jataka.jpg" alt="temple painting of Punna-Nadi Jataka" class="wp-image-6797" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/punna-nadi-jataka-214</link>
 
 
@@ -15066,7 +15063,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Punnapati Jataka (#53)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/53-Punnapati-Jataka.jpg" alt="painting of Punnapati Jataka" class="wp-image-5287" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/53-Punnapati-Jataka.jpg" alt="painting of Punnapati Jataka" class="wp-image-5287" width="400" height="348" >
 <link>https://thejatakatales.com/punnapati-jataka-53</link>
 
 
@@ -15095,7 +15092,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Puppharatta Jataka (#147)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/147-Puppharatta-Jataka.jpg" alt="temple painting of Puppharatta Jataka" class="wp-image-5802" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/147-Puppharatta-Jataka.jpg" alt="temple painting of Puppharatta Jataka" class="wp-image-5802" width="400" height="348" >
 <link>https://thejatakatales.com/puppharatta-jataka-147</link>
 
 
@@ -15124,7 +15121,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Puta-Bhatta Jataka (#223)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/223-Puta-Bhatta-Jataka.jpg" alt="temple painting of Puta-Bhatta Jataka" class="wp-image-5982" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/223-Puta-Bhatta-Jataka.jpg" alt="temple painting of Puta-Bhatta Jataka" class="wp-image-5982" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/puta-bhatta-jataka-223</link>
 
 
@@ -15161,7 +15158,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Puta-Dusaka Jataka (#280)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/280-Puta-Dusaka-Jataka.jpg" alt="temple painting of Puta-Dusaka Jataka" class="wp-image-6089" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/280-Puta-Dusaka-Jataka.jpg" alt="temple painting of Puta-Dusaka Jataka" class="wp-image-6089" width="400" height="348" >
 <link>https://thejatakatales.com/puta-dusaka-jataka-280</link>
 
 
@@ -15186,7 +15183,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Putimansa Jataka (#437)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/437-Putimansa-Jataka.jpg" alt="temple painting of Putimansa Jataka" class="wp-image-6471" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/437-Putimansa-Jataka.jpg" alt="temple painting of Putimansa Jataka" class="wp-image-6471" width="400" height="348" >
 <link>https://thejatakatales.com/putimansa-jataka-437</link>
 
 
@@ -15227,7 +15224,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Radha Jataka (#145)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/145-Radha-Jataka.jpg" alt="temple painting of Radha Jataka" class="wp-image-5800" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/145-Radha-Jataka.jpg" alt="temple painting of Radha Jataka" class="wp-image-5800" width="400" height="348" >
 <link>https://thejatakatales.com/radha-jataka-145</link>
 
 
@@ -15264,7 +15261,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Radha Jataka (#198)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/198-Radha-Jataka.jpg" alt="temple painting of Radha Jataka" class="wp-image-6739" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/198-Radha-Jataka.jpg" alt="temple painting of Radha Jataka" class="wp-image-6739" width="400" height="348" >
 <link>https://thejatakatales.com/radha-jataka-198</link>
 
 
@@ -15297,7 +15294,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rajovada Jataka (#151)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/151-Rajovada-Jataka.jpg" alt="temple painting of Rajovada Jataka" class="wp-image-5806" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/151-Rajovada-Jataka.jpg" alt="temple painting of Rajovada Jataka" class="wp-image-5806" width="400" height="348" >
 <link>https://thejatakatales.com/rajovada-jataka-151</link>
 
 
@@ -15334,7 +15331,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rajovada Jataka (#334)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/334-Rajovada-Jataka.jpg" alt="temple painting of Rajovada Jataka" class="wp-image-6222" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/334-Rajovada-Jataka.jpg" alt="temple painting of Rajovada Jataka" class="wp-image-6222" width="400" height="348" >
 <link>https://thejatakatales.com/rajovada-jataka-334</link>
 
 
@@ -15367,7 +15364,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rathalatthi Jataka (#332)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/332-Rathalatthi-Jataka.jpg" alt="temple painting of Rathalatthi Jataka" class="wp-image-6220" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/332-Rathalatthi-Jataka.jpg" alt="temple painting of Rathalatthi Jataka" class="wp-image-6220" width="400" height="348" >
 <link>https://thejatakatales.com/rathalatthi-jataka-332</link>
 
 
@@ -15404,7 +15401,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rohanta-Miga Jataka (#501)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/501-Rohanta-Miga-Jataka.jpg" alt="temple painting of Rohanta-Miga Jataka" class="wp-image-6565" width="229" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/501-Rohanta-Miga-Jataka.jpg" alt="temple painting of Rohanta-Miga Jataka" class="wp-image-6565" width="229" height="400" >
 <link>https://thejatakatales.com/rohanta-miga-jataka-501</link>
 
 
@@ -15469,7 +15466,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rohini Jataka (#45)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/45-Rohini-Jataka.jpg" alt="temple painting of Rohini Jataka" class="wp-image-6723" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/45-Rohini-Jataka.jpg" alt="temple painting of Rohini Jataka" class="wp-image-6723" width="400" height="348" >
 <link>https://thejatakatales.com/rohini-jataka-45</link>
 
 
@@ -15494,7 +15491,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Romaka Jataka (#277)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/277-Romaka-Jataka.jpg" alt="temple painting of Romaka Jataka" class="wp-image-6086" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/277-Romaka-Jataka.jpg" alt="temple painting of Romaka Jataka" class="wp-image-6086" width="400" height="348" >
 <link>https://thejatakatales.com/romaka-jataka-277</link>
 
 
@@ -15533,7 +15530,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ruhaka Jataka (#191)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/191-Ruhaka-Jataka.jpg" alt="temple painting of Ruhaka Jataka" class="wp-image-5917" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/191-Ruhaka-Jataka.jpg" alt="temple painting of Ruhaka Jataka" class="wp-image-5917" width="400" height="348" >
 <link>https://thejatakatales.com/ruhaka-jataka-191</link>
 
 
@@ -15566,7 +15563,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Rukkhadhamma Jataka (#74)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/74-Rukkhadhamma-Jataka.jpg" alt="temple painting of Rukkhadhamma Jataka" class="wp-image-5348" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/74-Rukkhadhamma-Jataka.jpg" alt="temple painting of Rukkhadhamma Jataka" class="wp-image-5348" width="400" height="348" >
 <link>https://thejatakatales.com/rukkhadhamma-jataka-74</link>
 
 
@@ -15603,7 +15600,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ruru Jataka (#482)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/482-Ruru-Jataka.jpg" alt="temple painting of Ruru Jataka" class="wp-image-6553" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/482-Ruru-Jataka.jpg" alt="temple painting of Ruru Jataka" class="wp-image-6553" width="400" height="348" >
 <link>https://thejatakatales.com/ruru-jataka-482</link>
 
 
@@ -15664,7 +15661,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sabbadatha Jataka (#241)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/241-Sabbadatha-Jataka.jpg" alt="temple painting of Sabbadatha Jataka" class="wp-image-6031" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/241-Sabbadatha-Jataka.jpg" alt="temple painting of Sabbadatha Jataka" class="wp-image-6031" width="400" height="348" >
 <link>https://thejatakatales.com/sabbadatha-jataka-241</link>
 
 
@@ -15705,7 +15702,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sabbasamharaka-Panha Jataka (#110)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/110-Sabbasamharaka-Panha-Jataka.jpg" alt="temple painting of Sabbasamharaka-Panha Jataka" class="wp-image-5395" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/110-Sabbasamharaka-Panha-Jataka.jpg" alt="temple painting of Sabbasamharaka-Panha Jataka" class="wp-image-5395" width="400" height="348" >
 <link>https://thejatakatales.com/sabbasamharaka-panha-jataka-110</link>
 
 
@@ -15742,7 +15739,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Saccamkira Jataka (#73)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/73-Saccamkira-Jataka.jpg" alt="temple painting of Saccamkira Jataka" class="wp-image-5347" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/73-Saccamkira-Jataka.jpg" alt="temple painting of Saccamkira Jataka" class="wp-image-5347" width="400" height="348" >
 <link>https://thejatakatales.com/saccamkira-jataka-73</link>
 
 
@@ -15783,7 +15780,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sadhina Jataka (#494)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/494-Sadhina-Jataka.jpg" alt="temple painting of Sadhina Jataka" class="wp-image-6561" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/494-Sadhina-Jataka.jpg" alt="temple painting of Sadhina Jataka" class="wp-image-6561" width="400" height="348" >
 <link>https://thejatakatales.com/sadhina-jataka-494</link>
 
 
@@ -15824,7 +15821,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sadhusila Jataka (#200)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/200-Sadhusila-Jataka.jpg" alt="temple painting of Sadhusila Jataka" class="wp-image-5941" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/200-Sadhusila-Jataka.jpg" alt="temple painting of Sadhusila Jataka" class="wp-image-5941" width="400" height="348" >
 <link>https://thejatakatales.com/sadhusila-jataka-200</link>
 
 
@@ -15861,7 +15858,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Saketa Jataka (#68)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/68-Saketa-Jataka.jpg" alt="temple painting of Saketa Jataka" class="wp-image-5581" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/68-Saketa-Jataka.jpg" alt="temple painting of Saketa Jataka" class="wp-image-5581" width="400" height="348" >
 <link>https://thejatakatales.com/saketa-jataka-237</link>
 
 
@@ -15890,7 +15887,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sakuna Jataka (#36)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/36-Sakuna-Jataka.jpg" alt="painting of Sakuna Jataka" class="wp-image-5150" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/36-Sakuna-Jataka.jpg" alt="painting of Sakuna Jataka" class="wp-image-5150" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sakuna-jataka-36</link>
 
 
@@ -15923,7 +15920,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sakunagghi Jataka (#168)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/168-Sakunagghi-Jataka.jpg" alt="temple painting of Sakunagghi Jataka" class="wp-image-5847" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/168-Sakunagghi-Jataka.jpg" alt="temple painting of Sakunagghi Jataka" class="wp-image-5847" width="400" height="348" >
 <link>https://thejatakatales.com/sakunagghi-jataka-168</link>
 
 
@@ -15952,7 +15949,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Salaka Jataka (#249)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/249-Salaka-Jataka.jpg.jpg" alt="temple painting of Salaka Jataka" class="wp-image-6704" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/249-Salaka-Jataka.jpg.jpg" alt="temple painting of Salaka Jataka" class="wp-image-6704" width="400" height="348" >
 <link>https://thejatakatales.com/salaka-jataka-249</link>
 
 
@@ -15985,7 +15982,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Salikedara Jataka (#484)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" >
 <link>https://thejatakatales.com/salikedara-jataka-484</link>
 
 
@@ -16034,7 +16031,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Salittaka Jataka (#107)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/107-Salittaka-Jataka.jpg" alt="temple painting of Salittaka Jataka" class="wp-image-6736" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/107-Salittaka-Jataka.jpg" alt="temple painting of Salittaka Jataka" class="wp-image-6736" width="400" height="348" >
 <link>https://thejatakatales.com/salittaka-jataka-107</link>
 
 
@@ -16071,7 +16068,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Saliya Jataka (#367)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/367-Saliya-Jataka.jpg" alt="temple painting of Saliya Jataka" class="wp-image-5454" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/367-Saliya-Jataka.jpg" alt="temple painting of Saliya Jataka" class="wp-image-5454" width="400" height="348" >
 <link>https://thejatakatales.com/saliya-jataka-367</link>
 
 
@@ -16102,7 +16099,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/540-Sama-Jataka.jpg" alt="painting of Sama Jataka" class="wp-image-5034" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/540-Sama-Jataka.jpg" alt="painting of Sama Jataka" class="wp-image-5034" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sama-jataka-540</link>
 
 
@@ -16115,7 +16112,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/sama-jataka-540-loving-kindness.jpg" alt="Sama with an arrow in his body" class="wp-image-3408" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2019/09/sama-jataka-540-loving-kindness.jpg" alt="Sama with an arrow in his body" class="wp-image-3408" style="width:400px;height:348px" >
 
 
 
@@ -16179,7 +16176,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sambhava Jataka (#515)</h3>
 		
 <div class="entry-content>
-<figure><img width="460" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/04/515-Sambhava-Jataka.jpg" alt="temple painting of Sambhava Jataka" class="wp-image-6574" style="width:230px;height:400px" ></figure>
+<img width="460" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/04/515-Sambhava-Jataka.jpg" alt="temple painting of Sambhava Jataka" class="wp-image-6574" style="width:230px;height:400px" >
 <link>https://thejatakatales.com/sambhava-jataka-515</link>
 
 
@@ -16228,7 +16225,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sambula Jataka (#519)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/519-Sambula-Jataka.jpg" alt="temple painting of Sambula Jataka" class="wp-image-5475" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/519-Sambula-Jataka.jpg" alt="temple painting of Sambula Jataka" class="wp-image-5475" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sambula-jataka-519</link>
 
 
@@ -16273,7 +16270,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samgamavacara Jataka (#182)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/182-Samgamavacara-Jataka.jpg" alt="temple painting of Samgamavacara Jataka" class="wp-image-5883" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/182-Samgamavacara-Jataka.jpg" alt="temple painting of Samgamavacara Jataka" class="wp-image-5883" width="400" height="348" >
 <link>https://thejatakatales.com/samgamavacara-jataka-182</link>
 
 
@@ -16310,7 +16307,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samiddhi Jataka (#167)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/167-Samiddhi-Jataka.jpg" alt="temple painting of Samiddhi Jataka" class="wp-image-5846" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/167-Samiddhi-Jataka.jpg" alt="temple painting of Samiddhi Jataka" class="wp-image-5846" width="400" height="348" >
 <link>https://thejatakatales.com/samiddhi-jataka-167</link>
 
 
@@ -16339,7 +16336,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samkappa Jataka (#251)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/251-Samkappa-Jataka.jpg" alt="temple painting of Samkappa Jataka" class="wp-image-6038" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/251-Samkappa-Jataka.jpg" alt="temple painting of Samkappa Jataka" class="wp-image-6038" width="400" height="348" >
 <link>https://thejatakatales.com/samkappa-jataka-251</link>
 
 
@@ -16376,7 +16373,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samkhadhamana Jataka (#60)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/60-Samkhadhamana-Jataka.jpg" alt="painting of Samkhadhamana Jataka" class="wp-image-5294" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/60-Samkhadhamana-Jataka.jpg" alt="painting of Samkhadhamana Jataka" class="wp-image-5294" width="400" height="348" >
 <link>https://thejatakatales.com/samkhadhamana-jataka-60</link>
 
 
@@ -16401,7 +16398,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samkhapala Jataka (#524)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/524-Samkhapala-Jataka.jpg" alt="temple painting of Samkhapala Jataka" class="wp-image-5480" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/524-Samkhapala-Jataka.jpg" alt="temple painting of Samkhapala Jataka" class="wp-image-5480" width="400" height="348" >
 <link>https://thejatakatales.com/samkhapala-jataka-524</link>
 
 
@@ -16450,7 +16447,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samkicca Jataka (#530)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/530-Samkicca-Jataka.jpg" alt="temple painting of Samkicca Jataka" class="wp-image-6579" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/530-Samkicca-Jataka.jpg" alt="temple painting of Samkicca Jataka" class="wp-image-6579" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/samkicca-jataka-530</link>
 
 
@@ -16487,7 +16484,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sammodamana Jataka (#33)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/33-Sammodamana-Jataka.jpg" alt="painting of Sammodamana Jataka" class="wp-image-5147" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/33-Sammodamana-Jataka.jpg" alt="painting of Sammodamana Jataka" class="wp-image-5147" width="400" height="348" >
 <link>https://thejatakatales.com/sammodamana-jataka-33</link>
 
 
@@ -16520,7 +16517,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samudda Jataka (#296)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/296-Samudda-Jataka.jpg" alt="temple painting of Samudda Jataka" class="wp-image-6138" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/296-Samudda-Jataka.jpg" alt="temple painting of Samudda Jataka" class="wp-image-6138" width="400" height="348" >
 <link>https://thejatakatales.com/samudda-jataka-296</link>
 
 
@@ -16553,7 +16550,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samudda-Vanija Jataka (#466)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/466-Samudda-Vanija-Jataka.jpg" alt="temple painting of Samudda-Vanija Jataka" class="wp-image-6542" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/466-Samudda-Vanija-Jataka.jpg" alt="temple painting of Samudda-Vanija Jataka" class="wp-image-6542" width="400" height="348" >
 <link>https://thejatakatales.com/samudda-vanija-jataka-466</link>
 
 
@@ -16614,7 +16611,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samugga Jataka (#436)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/436-Samugga-Jataka.jpg" alt="temple painting of Samugga Jataka" class="wp-image-6470" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/436-Samugga-Jataka.jpg" alt="temple painting of Samugga Jataka" class="wp-image-6470" width="400" height="348" >
 <link>https://thejatakatales.com/samugga-jataka-436</link>
 
 
@@ -16651,7 +16648,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Samvara Jataka (#462)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/462-Samvara-Jataka.jpg" alt="temple painting of Samvara Jataka" class="wp-image-6539" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/462-Samvara-Jataka.jpg" alt="temple painting of Samvara Jataka" class="wp-image-6539" width="400" height="348" >
 <link>https://thejatakatales.com/samvara-jataka-462</link>
 
 
@@ -16684,7 +16681,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sandhibheda Jataka (#349)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/349-Sandhibheda-Jataka.jpg" alt="temple painting of Sandhibheda Jataka" class="wp-image-6233" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/349-Sandhibheda-Jataka.jpg" alt="temple painting of Sandhibheda Jataka" class="wp-image-6233" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sandhibheda-jataka-349</link>
 
 
@@ -16721,7 +16718,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sanjiva Jataka (#150)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/150-Sanjiva-Jataka.jpg" alt="temple painting of Sanjiva Jataka" class="wp-image-5805" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/150-Sanjiva-Jataka.jpg" alt="temple painting of Sanjiva Jataka" class="wp-image-5805" width="400" height="348" >
 <link>https://thejatakatales.com/sanjiva-jataka-150</link>
 
 
@@ -16758,7 +16755,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sankha Jataka (#442)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/442-Sankha-Jataka.jpg" alt="temple painting of Sankha Jataka" class="wp-image-6502" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/442-Sankha-Jataka.jpg" alt="temple painting of Sankha Jataka" class="wp-image-6502" width="290" height="400" >
 <link>https://thejatakatales.com/sankha-jataka-442</link>
 
 
@@ -16795,7 +16792,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Santhava Jataka (#162)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/162-Santhava-Jataka.jpg" alt="temple painting of Santhava Jataka" class="wp-image-5841" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/162-Santhava-Jataka.jpg" alt="temple painting of Santhava Jataka" class="wp-image-5841" width="400" height="348" >
 <link>https://thejatakatales.com/santhava-jataka-162</link>
 
 
@@ -16828,7 +16825,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sarabha-Miga Jataka (#483)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/483-Sarabha-Miga-Jataka.jpg" alt="temple painting of Sarabha-Miga Jataka" class="wp-image-6554" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/483-Sarabha-Miga-Jataka.jpg" alt="temple painting of Sarabha-Miga Jataka" class="wp-image-6554" width="400" height="348" >
 <link>https://thejatakatales.com/sarabha-miga-jataka-483</link>
 
 
@@ -16881,7 +16878,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sarabhanga Jataka (#522)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/522-Sarabhanga-Jataka.jpg" alt="temple painting of Sarabhanga Jataka" class="wp-image-5478" width="259" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/522-Sarabhanga-Jataka.jpg" alt="temple painting of Sarabhanga Jataka" class="wp-image-5478" width="259" height="400" >
 <link>https://thejatakatales.com/sarabhanga-jataka-522</link>
 
 
@@ -16966,7 +16963,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sasa Jataka (#316)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/316-Sasa-Jataka.jpg" alt="temple painting of Sasa Jataka" class="wp-image-6171" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/316-Sasa-Jataka.jpg" alt="temple painting of Sasa Jataka" class="wp-image-6171" width="400" height="348" >
 <link>https://thejatakatales.com/sarambha-jataka-88</link>
 
 
@@ -17003,7 +17000,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Satadhamma Jataka (#179)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/179-Satadhamma-Jataka.jpg" alt="temple painting of Satadhamma Jataka" class="wp-image-5881" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/179-Satadhamma-Jataka.jpg" alt="temple painting of Satadhamma Jataka" class="wp-image-5881" width="400" height="348" >
 <link>https://thejatakatales.com/satadhamma-jataka-179</link>
 
 
@@ -17036,7 +17033,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Satapatta Jataka (#279)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/279-Satapatta-Jataka.jpg" alt="temple painting of Satapatta Jataka" class="wp-image-6088" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/279-Satapatta-Jataka.jpg" alt="temple painting of Satapatta Jataka" class="wp-image-6088" width="400" height="348" >
 <link>https://thejatakatales.com/satapatta-jataka-279</link>
 
 
@@ -17069,7 +17066,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sattigumba Jataka (#503)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" >
 <link>https://thejatakatales.com/sattigumba-jataka-503</link>
 
 
@@ -17110,7 +17107,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sattubhasta Jataka (#402)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/402-Sattubhasta-Jataka.jpg" alt="temple painting of Sattubhasta Jataka" class="wp-image-6414" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/402-Sattubhasta-Jataka.jpg" alt="temple painting of Sattubhasta Jataka" class="wp-image-6414" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sattubhasta-jataka-402</link>
 
 
@@ -17171,7 +17168,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sayha Jataka (#310)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/310-Sayha-Jataka.jpg" alt="temple painting of Sayha Jataka" class="wp-image-6165" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/310-Sayha-Jataka.jpg" alt="temple painting of Sayha Jataka" class="wp-image-6165" width="400" height="348" >
 <link>https://thejatakatales.com/sayha-jataka-310</link>
 
 
@@ -17202,7 +17199,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Serivanija Jataka (#3)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/3-Serivanija-Jataka.jpg" alt="painting of Serivanija Jataka" class="wp-image-5078" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/3-Serivanija-Jataka.jpg" alt="painting of Serivanija Jataka" class="wp-image-5078" width="400" height="348" >
 <link>https://thejatakatales.com/serivanija-jataka-3</link>
 
 
@@ -17235,7 +17232,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Setaketu Jataka (#377)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/377-Setaketu-Jataka.jpg" alt="temple painting of Setaketu Jataka" class="wp-image-6827" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/377-Setaketu-Jataka.jpg" alt="temple painting of Setaketu Jataka" class="wp-image-6827" width="400" height="348" >
 <link>https://thejatakatales.com/setaketu-jataka-377</link>
 
 
@@ -17272,7 +17269,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Seyya Jataka (#282)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/282-Seyya-Jataka.jpg" alt="temple painting of Seyya Jataka" class="wp-image-5551" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/282-Seyya-Jataka.jpg" alt="temple painting of Seyya Jataka" class="wp-image-5551" width="400" height="348" >
 <link>https://thejatakatales.com/seyya-jataka-282</link>
 
 
@@ -17317,7 +17314,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sigala Jataka (#113)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/113-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5711" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/113-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5711" width="400" height="348" >
 <link>https://thejatakatales.com/sigala-jataka-113</link>
 
 
@@ -17346,7 +17343,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sigala Jataka (#142)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/142-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5782" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/142-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5782" width="400" height="348" >
 <link>https://thejatakatales.com/sigala-jataka-142</link>
 
 
@@ -17375,7 +17372,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sigala Jataka (#148)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/148-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5803" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/148-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5803" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sigala-jataka-148</link>
 
 
@@ -17408,7 +17405,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sigala Jataka (#152)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/152-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5807" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/152-Sigala-Jataka.jpg" alt="temple painting of Sigala Jataka" class="wp-image-5807" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sigala-jataka-152</link>
 
 
@@ -17449,7 +17446,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sihacamma Jataka (#189)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/189-Sihacamma-Jataka.jpg" alt="temple painting of Sihacamma Jataka" class="wp-image-5915" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/189-Sihacamma-Jataka.jpg" alt="temple painting of Sihacamma Jataka" class="wp-image-5915" width="400" height="348" >
 <link>https://thejatakatales.com/sihacamma-jataka-189</link>
 
 
@@ -17478,7 +17475,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sihakotthuka Jataka (#188)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/188-Sihakotthuka-Jataka.jpg" alt="temple painting of Sihakotthuka Jataka" class="wp-image-5914" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/188-Sihakotthuka-Jataka.jpg" alt="temple painting of Sihakotthuka Jataka" class="wp-image-5914" width="400" height="348" >
 <link>https://thejatakatales.com/sihakotthuka-jataka-188</link>
 
 
@@ -17513,7 +17510,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silanisamsa Jataka (#190)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/190-Silanisamsa-Jataka.jpg" alt="temple painting of Silanisamsa Jataka" class="wp-image-5916" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/190-Silanisamsa-Jataka.jpg" alt="temple painting of Silanisamsa Jataka" class="wp-image-5916" width="400" height="348" >
 <link>https://thejatakatales.com/silanisamsa-jataka-190</link>
 
 
@@ -17550,7 +17547,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silavanaga Jataka (#72)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/72-Silavanaga-Jataka.jpg" alt="temple painting of Silavanaga Jataka" class="wp-image-5346" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/72-Silavanaga-Jataka.jpg" alt="temple painting of Silavanaga Jataka" class="wp-image-5346" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/silavanaga-jataka-72</link>
 
 
@@ -17587,7 +17584,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silavimamsa Jataka (#330)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/330-Silavimamsa-Jataka.jpg" alt="temple painting of Silavimamsa Jataka" class="wp-image-6218" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/330-Silavimamsa-Jataka.jpg" alt="temple painting of Silavimamsa Jataka" class="wp-image-6218" width="400" height="348" >
 <link>https://thejatakatales.com/silavimamsa-jataka-330</link>
 
 
@@ -17636,7 +17633,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silavimamsa Jataka (#362)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/362-Silavimamsa-Jataka.jpg" alt="temple painting of Silavimamsa Jataka" class="wp-image-6292" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/362-Silavimamsa-Jataka.jpg" alt="temple painting of Silavimamsa Jataka" class="wp-image-6292" width="400" height="348" >
 <link>https://thejatakatales.com/silavimamsa-jataka-362</link>
 
 
@@ -17673,7 +17670,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silavimamsana Jataka (#305)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/305-Silavimamsana-Jataka.jpg" alt="temple painting of Silavimamsana Jataka" class="wp-image-6743" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/305-Silavimamsana-Jataka.jpg" alt="temple painting of Silavimamsana Jataka" class="wp-image-6743" width="400" height="348" >
 <link>https://thejatakatales.com/silavimamsana-jataka-305</link>
 
 
@@ -17706,7 +17703,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Silavimamsana Jataka (#86)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/86-Silavimamsana-Jataka.jpg" alt="temple painting of Silavimamsana Jataka" class="wp-image-5609" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/86-Silavimamsana-Jataka.jpg" alt="temple painting of Silavimamsana Jataka" class="wp-image-5609" width="400" height="348" >
 <link>https://thejatakatales.com/silavimamsana-jataka-86</link>
 
 
@@ -17747,7 +17744,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Siri Jataka (#284)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/284-Siri-Jataka.jpg" alt="temple painting of Siri Jataka" class="wp-image-6091" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/284-Siri-Jataka.jpg" alt="temple painting of Siri Jataka" class="wp-image-6091" width="400" height="348" >
 <link>https://thejatakatales.com/siri-jataka-284</link>
 
 
@@ -17800,7 +17797,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Siri-Kalakanni Jataka (#192)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/siri-kalakanni-jataka-192</link>
 
 
@@ -17841,7 +17838,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sirikalakanni Jataka (#382)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/382-Sirikalakanni-Jataka.jpg" alt="temple painting of Sirikalakanni Jataka" class="wp-image-6368" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/382-Sirikalakanni-Jataka.jpg" alt="temple painting of Sirikalakanni Jataka" class="wp-image-6368" width="400" height="348" >
 <link>https://thejatakatales.com/sirikalakanni-jataka-382</link>
 
 
@@ -17882,7 +17879,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sirimanda Jataka (#500)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/546-Maha-Ummagga-Jataka.jpg" alt="temple painting of Maha Ummagga Jataka" class="wp-image-5040" width="400" height="348" >
 <link>https://thejatakatales.com/sirimanda-jataka-500</link>
 
 
@@ -17919,7 +17916,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sivi Jataka (#499)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/499-Sivi-Jataka.jpg" alt="temple painting of Sivi Jataka" class="wp-image-6564" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/499-Sivi-Jataka.jpg" alt="temple painting of Sivi Jataka" class="wp-image-6564" width="400" height="348" >
 <link>https://thejatakatales.com/sivi-jataka-499</link>
 
 
@@ -17968,7 +17965,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Somadatta Jataka (#211)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/211-Somadatta-Jataka.jpg" alt="temple painting of Somadatta Jataka" class="wp-image-5951" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/211-Somadatta-Jataka.jpg" alt="temple painting of Somadatta Jataka" class="wp-image-5951" width="400" height="348" >
 <link>https://thejatakatales.com/somadatta-jataka-211</link>
 
 
@@ -17997,7 +17994,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Somadatta Jataka (#410)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/410-Somadatta-Jataka.jpg" alt="temple painting of Somadatta Jataka" class="wp-image-6429" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/410-Somadatta-Jataka.jpg" alt="temple painting of Somadatta Jataka" class="wp-image-6429" width="400" height="348" >
 <link>https://thejatakatales.com/somadatta-jataka-410</link>
 
 
@@ -18022,7 +18019,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Somanassa Jataka (#505)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/505-Somanassa-Jataka.jpg" alt="temple painting of Somanassa Jataka" class="wp-image-6567" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/505-Somanassa-Jataka.jpg" alt="temple painting of Somanassa Jataka" class="wp-image-6567" width="400" height="348" >
 <link>https://thejatakatales.com/somanassa-jataka-505</link>
 
 
@@ -18071,7 +18068,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sona-Nanda Jataka (#532)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/532-Sona-Nanda-Jataka.jpg" alt="temple painting of Sona-Nanda Jataka" class="wp-image-5427" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/532-Sona-Nanda-Jataka.jpg" alt="temple painting of Sona-Nanda Jataka" class="wp-image-5427" width="400" height="348" >
 <link>https://thejatakatales.com/sona-nanda-jataka-532</link>
 
 
@@ -18140,7 +18137,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sonaka Jataka (#529)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/529-Sonaka-Jataka.jpg" alt="temple painting of Sonaka Jataka" class="wp-image-5599" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/529-Sonaka-Jataka.jpg" alt="temple painting of Sonaka Jataka" class="wp-image-5599" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sonaka-jataka-529</link>
 
 
@@ -18197,7 +18194,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Succaja Jataka (#320)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/320-Succaja-Jataka.jpg" alt="temple painting of Succaja Jataka" class="wp-image-6210" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/320-Succaja-Jataka.jpg" alt="temple painting of Succaja Jataka" class="wp-image-6210" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/succaja-jataka-320</link>
 
 
@@ -18238,7 +18235,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suci Jataka (#387)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/387-Suci-Jataka.jpg" alt="temple painting of Suci Jataka" class="wp-image-6373" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/387-Suci-Jataka.jpg" alt="temple painting of Suci Jataka" class="wp-image-6373" width="400" height="348" >
 <link>https://thejatakatales.com/suci-jataka-387</link>
 
 
@@ -18279,7 +18276,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sudhabhojana Jataka (#535)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/535-Sudhabhojana-Jataka.jpg" alt="temple painting of Sudhabhojana Jataka" class="wp-image-5430" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/535-Sudhabhojana-Jataka.jpg" alt="temple painting of Sudhabhojana Jataka" class="wp-image-5430" width="400" height="348" >
 <link>https://thejatakatales.com/sudhabhojana-jataka-535</link>
 
 
@@ -18328,7 +18325,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suhanu Jataka (#158)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/5-Tandulanali-Jataka.jpg" alt="temple painting of Tandulanali Jataka" class="wp-image-5080" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/5-Tandulanali-Jataka.jpg" alt="temple painting of Tandulanali Jataka" class="wp-image-5080" width="400" height="348" >
 <link>https://thejatakatales.com/suhanu-jataka-158</link>
 
 
@@ -18365,7 +18362,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sujata Jataka (#269)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/269-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6080" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/269-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6080" width="400" height="348" >
 <link>https://thejatakatales.com/sujata-jataka-269</link>
 
 
@@ -18402,7 +18399,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sujata Jataka (#306)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/306-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6801" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/306-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6801" width="400" height="348" >
 <link>https://thejatakatales.com/sujata-jataka-306</link>
 
 
@@ -18431,7 +18428,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sujata Jataka (#352)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/352-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6744" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/352-Sujata-Jataka.jpg" alt="temple painting of Sujata Jataka" class="wp-image-6744" width="400" height="348" >
 <link>https://thejatakatales.com/sujata-jataka-352</link>
 
 
@@ -18464,7 +18461,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suka Jataka (#255)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/255-Suka-Jataka.jpg" alt="temple painting of Suka Jataka" class="wp-image-5514" width="400" height="348" >
 <link>https://thejatakatales.com/suka-jataka-255</link>
 
 
@@ -18493,7 +18490,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sukara Jataka (#153)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/153-Sukara-Jataka.jpg" alt="temple painting of Sukara Jataka" class="wp-image-6716" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/153-Sukara-Jataka.jpg" alt="temple painting of Sukara Jataka" class="wp-image-6716" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sukara-jataka-153</link>
 
 
@@ -18534,7 +18531,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sukhavihari Jataka (#10)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/10-Sukhavihari-Jataka.jpg" alt="painting of Sukhavihari Jataka" class="wp-image-5189" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/10-Sukhavihari-Jataka.jpg" alt="painting of Sukhavihari Jataka" class="wp-image-5189" width="400" height="348" >
 <link>https://thejatakatales.com/sukhavihari-jataka-10</link>
 
 
@@ -18567,7 +18564,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sulasa Jataka (#419)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/419-Sulasa-Jataka.jpg" alt="temple painting of Sulasa Jataka" class="wp-image-6438" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/419-Sulasa-Jataka.jpg" alt="temple painting of Sulasa Jataka" class="wp-image-6438" width="400" height="348" >
 <link>https://thejatakatales.com/sulasa-jataka-419</link>
 
 
@@ -18616,7 +18613,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sumangala Jataka (#420)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/420-Sumangala-Jataka.jpg" alt="temple painting of Sumangala Jataka" class="wp-image-6460" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/420-Sumangala-Jataka.jpg" alt="temple painting of Sumangala Jataka" class="wp-image-6460" width="400" height="348" >
 <link>https://thejatakatales.com/sumangala-jataka-420</link>
 
 
@@ -18649,7 +18646,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sumsumara Jataka (#208)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/342-Vanara-Jataka.jpg" alt="temple painting of Vanara Jataka" class="wp-image-5375" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/342-Vanara-Jataka.jpg" alt="temple painting of Vanara Jataka" class="wp-image-5375" width="400" height="348" >
 <link>https://thejatakatales.com/sumsumara-jataka-208</link>
 
 
@@ -18682,7 +18679,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sunakha Jataka (#242)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/242-Sunakha-Jataka.jpg" alt="temple painting of Sunakha Jataka" class="wp-image-6032" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/242-Sunakha-Jataka.jpg" alt="temple painting of Sunakha Jataka" class="wp-image-6032" width="400" height="348" >
 <link>https://thejatakatales.com/sunakha-jataka-242</link>
 
 
@@ -18711,7 +18708,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Supatta Jataka (#292)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/292-Supatta-Jataka.jpg" alt="temple painting of Supatta Jataka" class="wp-image-6134" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/292-Supatta-Jataka.jpg" alt="temple painting of Supatta Jataka" class="wp-image-6134" width="400" height="348" >
 <link>https://thejatakatales.com/supatta-jataka-292</link>
 
 
@@ -18756,7 +18753,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Supparaka Jataka (#463)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/463-Supparaka-Jataka.jpg" alt="temple painting of Supparaka Jataka" class="wp-image-6540" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/463-Supparaka-Jataka.jpg" alt="temple painting of Supparaka Jataka" class="wp-image-6540" width="400" height="348" >
 <link>https://thejatakatales.com/supparaka-jataka-463</link>
 
 
@@ -18809,7 +18806,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Surapana Jataka (#81)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/81-Surapana-Jataka.jpg" alt="temple painting of Surapana Jataka" class="wp-image-5608" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/81-Surapana-Jataka.jpg" alt="temple painting of Surapana Jataka" class="wp-image-5608" width="400" height="348" >
 <link>https://thejatakatales.com/surapana-jataka-81</link>
 
 
@@ -18842,7 +18839,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suruci Jataka (#489)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/489-Suruci-Jataka.jpg" alt="temple painting of Suruci Jataka" class="wp-image-6557" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/489-Suruci-Jataka.jpg" alt="temple painting of Suruci Jataka" class="wp-image-6557" width="400" height="348" >
 <link>https://thejatakatales.com/suruci-jataka-489</link>
 
 
@@ -18891,7 +18888,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Susima Jataka (#163)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/163-Susima-Jataka.jpg" alt="temple painting of Susima Jataka" class="wp-image-5842" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/163-Susima-Jataka.jpg" alt="temple painting of Susima Jataka" class="wp-image-5842" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/susima-jataka-163</link>
 
 
@@ -18928,7 +18925,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Susima Jataka (#411)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/411-Susima-Jataka.jpg" alt="temple painting of Susima Jataka" class="wp-image-6430" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/411-Susima-Jataka.jpg" alt="temple painting of Susima Jataka" class="wp-image-6430" width="400" height="348" >
 <link>https://thejatakatales.com/susima-jataka-411</link>
 
 
@@ -18961,7 +18958,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sussondi Jataka (#360)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/360-Sussondi-Jataka.jpg" alt="temple painting of Sussondi Jataka" class="wp-image-6290" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/360-Sussondi-Jataka.jpg" alt="temple painting of Sussondi Jataka" class="wp-image-6290" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/sussondi-jataka-360</link>
 
 
@@ -19002,7 +18999,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Sutano Jataka (#398)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/398-Sutano-Jataka.jpg" alt="temple painting of Sutano Jataka" class="wp-image-6393" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/398-Sutano-Jataka.jpg" alt="temple painting of Sutano Jataka" class="wp-image-6393" width="400" height="348" >
 <link>https://thejatakatales.com/sutano-jataka-398</link>
 
 
@@ -19051,7 +19048,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suvannahamsa Jataka (#136)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/136-Suvannahamsa-Jataka.jpg" alt="temple painting of Suvannahamsa Jataka" class="wp-image-5777" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/136-Suvannahamsa-Jataka.jpg" alt="temple painting of Suvannahamsa Jataka" class="wp-image-5777" width="400" height="348" >
 <link>https://thejatakatales.com/suvannahamsa-jataka-136</link>
 
 
@@ -19084,7 +19081,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suvannakakkata Jataka (#389)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/389-Suvannakakkata-Jataka.jpg" alt="temple painting of Suvannakakkata Jataka" class="wp-image-6375" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/389-Suvannakakkata-Jataka.jpg" alt="temple painting of Suvannakakkata Jataka" class="wp-image-6375" width="400" height="348" >
 <link>https://thejatakatales.com/suvannakakkata-jataka-389</link>
 
 
@@ -19133,7 +19130,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Suvannamiga Jataka (#359)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/359-Suvannamiga-Jataka.jpg" alt="temple painting of Suvannamiga Jataka" class="wp-image-6289" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/359-Suvannamiga-Jataka.jpg" alt="temple painting of Suvannamiga Jataka" class="wp-image-6289" width="400" height="348" >
 <link>https://thejatakatales.com/suvannamiga-jataka-359</link>
 
 
@@ -19166,7 +19163,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tacasara Jataka (#368)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/367-Saliya-Jataka.jpg" alt="temple painting of Saliya Jataka" class="wp-image-5454" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/367-Saliya-Jataka.jpg" alt="temple painting of Saliya Jataka" class="wp-image-5454" width="400" height="348" >
 <link>https://thejatakatales.com/tacasara-jataka-368</link>
 
 
@@ -19207,7 +19204,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Takka Jataka (#63)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/63-Takka-Jataka.jpg" alt="painting of Takka Jataka" class="wp-image-5297" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/63-Takka-Jataka.jpg" alt="painting of Takka Jataka" class="wp-image-5297" width="400" height="348" >
 <link>https://thejatakatales.com/taccha-sukara-jataka-492</link>
 
 
@@ -19244,7 +19241,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Takkala Jataka (#446)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/446-Takkala-Jataka.jpg" alt="temple painting of Takkala Jataka" class="wp-image-6506" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/446-Takkala-Jataka.jpg" alt="temple painting of Takkala Jataka" class="wp-image-6506" width="400" height="348" >
 <link>https://thejatakatales.com/takkala-jataka-446</link>
 
 
@@ -19289,7 +19286,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Takkariya Jataka (#481)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/481-Takkariya-Jataka.jpg" alt="temple painting of Takkariya Jataka" class="wp-image-6748" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/481-Takkariya-Jataka.jpg" alt="temple painting of Takkariya Jataka" class="wp-image-6748" width="400" height="348" >
 <link>https://thejatakatales.com/takkariya-jataka-481</link>
 
 
@@ -19368,7 +19365,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tandulanali Jataka (#5)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/5-Tandulanali-Jataka.jpg" alt="painting of Tandulanali Jataka" class="wp-image-5080" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/5-Tandulanali-Jataka.jpg" alt="painting of Tandulanali Jataka" class="wp-image-5080" width="400" height="348" >
 <link>https://thejatakatales.com/tandulanali-jataka-5</link>
 
 
@@ -19401,7 +19398,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tayodhamma Jataka (#58)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/58-Tayodhamma-Jataka.jpg" alt="painting of Tayodhamma Jataka" class="wp-image-5292" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/58-Tayodhamma-Jataka.jpg" alt="painting of Tayodhamma Jataka" class="wp-image-5292" width="400" height="348" >
 <link>https://thejatakatales.com/tayodhamma-jataka-58</link>
 
 
@@ -19442,7 +19439,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Telapatta Jataka (#96)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/96-Telapatta-Jataka.jpg" alt="temple painting of Telapatta Jataka" class="wp-image-5635" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/96-Telapatta-Jataka.jpg" alt="temple painting of Telapatta Jataka" class="wp-image-5635" width="400" height="348" >
 <link>https://thejatakatales.com/telapatta-jataka-96</link>
 
 
@@ -19483,7 +19480,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Telovada Jataka (#246)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/246-Telovada-Jataka.jpg" alt="temple painting of Telovada Jataka" class="wp-image-6035" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/246-Telovada-Jataka.jpg" alt="temple painting of Telovada Jataka" class="wp-image-6035" width="400" height="348" >
 <link>https://thejatakatales.com/telovada-jataka-246</link>
 
 
@@ -19512,7 +19509,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tesakuna Jataka (#521)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/521-Tesakuna-Jataka.jpg" alt="temple painting of Tesakuna Jataka" class="wp-image-5477" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/521-Tesakuna-Jataka.jpg" alt="temple painting of Tesakuna Jataka" class="wp-image-5477" width="400" height="348" >
 <link>https://thejatakatales.com/tesakuna-jataka-521</link>
 
 
@@ -19549,7 +19546,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Thusa Jataka (#338)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/338-Thusa-Jataka.jpg" alt="temple painting of Thusa Jataka" class="wp-image-6226" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/338-Thusa-Jataka.jpg" alt="temple painting of Thusa Jataka" class="wp-image-6226" width="400" height="348" >
 <link>https://thejatakatales.com/thusa-jataka-338</link>
 
 
@@ -19598,7 +19595,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tila-Mutthi Jataka (#252)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/252-Tila-Mutthi-Jataka.jpg" alt="temple painting of Tila-Mutthi Jataka" class="wp-image-6039" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/252-Tila-Mutthi-Jataka.jpg" alt="temple painting of Tila-Mutthi Jataka" class="wp-image-6039" width="400" height="348" >
 <link>https://thejatakatales.com/tila-mutthi-jataka-252</link>
 
 
@@ -19635,7 +19632,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tinduka Jataka (#177)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/177-Tinduka-Jataka.jpg" alt="temple painting of Tinduka Jataka" class="wp-image-5879" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/177-Tinduka-Jataka.jpg" alt="temple painting of Tinduka Jataka" class="wp-image-5879" width="400" height="348" >
 <link>https://thejatakatales.com/tinduka-jataka-177</link>
 
 
@@ -19676,7 +19673,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tipallattha-Miga Jataka (#16)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/16-Tipallattha-Miga-Jataka.jpg" alt="painting of Tipallattha Miga Jataka" class="wp-image-5194" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/16-Tipallattha-Miga-Jataka.jpg" alt="painting of Tipallattha Miga Jataka" class="wp-image-5194" width="400" height="348" >
 <link>https://thejatakatales.com/tipallattha-miga-jataka-16</link>
 
 
@@ -19717,7 +19714,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tirita-Vaccha Jataka (#259)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/259-Tirita-Vaccha-Jataka.jpg" alt="temple painting of Tirita-Vaccha Jataka" class="wp-image-6044" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/259-Tirita-Vaccha-Jataka.jpg" alt="temple painting of Tirita-Vaccha Jataka" class="wp-image-6044" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/tirita-vaccha-jataka-259</link>
 
 
@@ -19762,7 +19759,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tittha Jataka (#25)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/25-Tittha-Jataka.jpg" alt="painting of Tittha Jataka" class="wp-image-5202" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/25-Tittha-Jataka.jpg" alt="painting of Tittha Jataka" class="wp-image-5202" width="400" height="348" >
 <link>https://thejatakatales.com/tittha-jataka-25</link>
 
 
@@ -19795,7 +19792,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tittira Jataka (#117)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/117-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-5715" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/117-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-5715" width="400" height="348" >
 <link>https://thejatakatales.com/tittira-jataka-117</link>
 
 
@@ -19836,7 +19833,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tittira Jataka (#319)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/319-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-6174" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/319-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-6174" width="400" height="348" >
 <link>https://thejatakatales.com/tittira-jataka-319</link>
 
 
@@ -19877,7 +19874,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tittira Jataka (#37)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/37-Tittira-Jataka.jpg" alt="painting of Tittira Jataka" class="wp-image-5151" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/37-Tittira-Jataka.jpg" alt="painting of Tittira Jataka" class="wp-image-5151" width="400" height="348" >
 <link>https://thejatakatales.com/tittira-jataka-37</link>
 
 
@@ -19910,7 +19907,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tittira Jataka (#438)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/438-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-6472" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/438-Tittira-Jataka.jpg" alt="temple painting of Tittira Jataka" class="wp-image-6472" width="400" height="348" >
 <link>https://thejatakatales.com/tittira-jataka-438</link>
 
 
@@ -19955,7 +19952,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Tundila Jataka (#388)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/388-Tundila-Jataka.jpg" alt="temple painting of Tundila Jataka" class="wp-image-6374" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/388-Tundila-Jataka.jpg" alt="temple painting of Tundila Jataka" class="wp-image-6374" width="400" height="348" >
 <link>https://thejatakatales.com/tundila-jataka-388</link>
 
 
@@ -19992,7 +19989,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ubhatobhattha Jataka (#139)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/139-Ubhatobhattha-Jataka.jpg" alt="temple painting of Ubhatobhattha Jataka" class="wp-image-5779" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/139-Ubhatobhattha-Jataka.jpg" alt="temple painting of Ubhatobhattha Jataka" class="wp-image-5779" width="400" height="348" >
 <link>https://thejatakatales.com/ubhatobhattha-jataka-139</link>
 
 
@@ -20021,7 +20018,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ucchanga Jataka (#67)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/67-Ucchanga-Jataka.jpg" alt="temple painting of Ucchanga Jataka" class="wp-image-5342" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/67-Ucchanga-Jataka.jpg" alt="temple painting of Ucchanga Jataka" class="wp-image-5342" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/ucchanga-jataka-67</link>
 
 
@@ -20050,7 +20047,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ucchittha-Bhatta Jataka (#212)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/212-Ucchittha-Bhatta-Jataka.jpg" alt="temple painting of Ucchittha-Bhatta Jataka" class="wp-image-6740" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/212-Ucchittha-Bhatta-Jataka.jpg" alt="temple painting of Ucchittha-Bhatta Jataka" class="wp-image-6740" width="400" height="348" >
 <link>https://thejatakatales.com/ucchittha-bhatta-jataka-212</link>
 
 
@@ -20075,7 +20072,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Udancani Jataka (#106)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/106-Udancani-Jataka.jpg" alt="temple painting of Udancani Jataka" class="wp-image-5708" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/106-Udancani-Jataka.jpg" alt="temple painting of Udancani Jataka" class="wp-image-5708" width="400" height="348" >
 <link>https://thejatakatales.com/udancani-jataka-106</link>
 
 
@@ -20108,7 +20105,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Udapana-Dusaka Jataka (#271)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/271-Udapana-Dusaka-Jataka.jpg" alt="temple painting of Udapana-Dusaka Jataka" class="wp-image-6082" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/271-Udapana-Dusaka-Jataka.jpg" alt="temple painting of Udapana-Dusaka Jataka" class="wp-image-6082" width="400" height="348" >
 <link>https://thejatakatales.com/udapana-dusaka-jataka-271</link>
 
 
@@ -20133,7 +20130,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Udaya Jataka (#458)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/458-Udaya-Jataka.jpg" alt="temple painting of Udaya Jataka" class="wp-image-6535" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/458-Udaya-Jataka.jpg" alt="temple painting of Udaya Jataka" class="wp-image-6535" width="400" height="348" >
 <link>https://thejatakatales.com/udaya-jataka-458</link>
 
 
@@ -20182,7 +20179,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Uddalaka Jataka (#487)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/487-Uddalaka-Jataka.jpg" alt="temple painting of Uddalaka Jataka" class="wp-image-6804" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/487-Uddalaka-Jataka.jpg" alt="temple painting of Uddalaka Jataka" class="wp-image-6804" width="400" height="348" >
 <link>https://thejatakatales.com/uddalaka-jataka-487</link>
 
 
@@ -20219,7 +20216,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Udumbara Jataka (#298)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/298-Udumbara-Jataka.jpg" alt="temple painting of Udumbara Jataka" class="wp-image-6139" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/298-Udumbara-Jataka.jpg" alt="temple painting of Udumbara Jataka" class="wp-image-6139" width="400" height="348" >
 <link>https://thejatakatales.com/udumbara-jataka-298</link>
 
 
@@ -20248,7 +20245,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Uluka Jataka (#270)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/270-Uluka-Jataka.jpg" alt="temple painting of Uluka Jataka" class="wp-image-6081" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/270-Uluka-Jataka.jpg" alt="temple painting of Uluka Jataka" class="wp-image-6081" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/uluka-jataka-270</link>
 
 
@@ -20281,7 +20278,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Ummadanti Jataka (#527)</h3>
 		
 <div class="entry-content>
-<figure><img width="503" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/03/527-Ummadanti-Jataka.jpg" alt="temple painting of Ummadanti Jataka" class="wp-image-5482" style="width:252px;height:400px" ></figure>
+<img width="503" height="800" src="https://thejatakatales.com/wp-content/uploads/2021/03/527-Ummadanti-Jataka.jpg" alt="temple painting of Ummadanti Jataka" class="wp-image-5482" style="width:252px;height:400px" >
 <link>https://thejatakatales.com/ummadanti-jataka-527</link>
 
 
@@ -20326,7 +20323,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Upahana Jataka (#231)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/231-Upahana-Jataka.jpg" alt="temple painting of Upahana Jataka" class="wp-image-5989" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/231-Upahana-Jataka.jpg" alt="temple painting of Upahana Jataka" class="wp-image-5989" width="400" height="348" >
 <link>https://thejatakatales.com/upahana-jataka-231</link>
 
 
@@ -20359,7 +20356,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Upasalha Jataka (#166)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/166-Upasalha-Jataka.jpg" alt="temple painting of Upasalha Jataka" class="wp-image-5845" width="290" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/166-Upasalha-Jataka.jpg" alt="temple painting of Upasalha Jataka" class="wp-image-5845" width="290" height="400" >
 <link>https://thejatakatales.com/upasalha-jataka-166</link>
 
 
@@ -20392,7 +20389,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Uraga Jataka (#154)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/154-Uraga-Jataka.jpg" alt="temple painting of Uraga Jataka" class="wp-image-5808" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/154-Uraga-Jataka.jpg" alt="temple painting of Uraga Jataka" class="wp-image-5808" >
 <link>https://thejatakatales.com/uraga-jataka-154</link>
 
 
@@ -20425,7 +20422,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Uraga Jataka (#354)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/354-Uraga-Jataka.jpg" alt="temple painting of Uraga Jataka" class="wp-image-6286" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/354-Uraga-Jataka.jpg" alt="temple painting of Uraga Jataka" class="wp-image-6286" width="400" height="348" >
 <link>https://thejatakatales.com/uraga-jataka-354</link>
 
 
@@ -20466,7 +20463,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vaccha-Nakha Jataka (#235)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/235-Vaccha-Nakha-Jataka.jpg" alt="temple painting of Vaccha-Nakha Jataka" class="wp-image-5993" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/235-Vaccha-Nakha-Jataka.jpg" alt="temple painting of Vaccha-Nakha Jataka" class="wp-image-5993" width="400" height="348" >
 <link>https://thejatakatales.com/vaccha-nakha-jataka-235</link>
 
 
@@ -20499,7 +20496,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vaddhaki-Sukara Jataka (#283)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/283-Vaddhaki-Sukara-Jataka.jpg" alt="temple painting of Vaddhaki-Sukara Jataka" class="wp-image-5505" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/283-Vaddhaki-Sukara-Jataka.jpg" alt="temple painting of Vaddhaki-Sukara Jataka" class="wp-image-5505" width="400" height="348" >
 <link>https://thejatakatales.com/vaddhaki-sukara-jataka-283</link>
 
 
@@ -20552,7 +20549,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vaka Jataka (#300)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/300-Vaka-Jataka.jpg" alt="temple painting of Vaka Jataka" class="wp-image-6158" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/300-Vaka-Jataka.jpg" alt="temple painting of Vaka Jataka" class="wp-image-6158" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/vaka-jataka-300</link>
 
 
@@ -20585,7 +20582,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Valahassa Jataka (#196)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/196-Valahassa-Jataka.jpg" alt="temple painting of Valahassa Jataka" class="wp-image-5921" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/196-Valahassa-Jataka.jpg" alt="temple painting of Valahassa Jataka" class="wp-image-5921" width="400" height="348" >
 <link>https://thejatakatales.com/valahassa-jataka-196</link>
 
 
@@ -20622,7 +20619,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Valodaka Jataka (#183)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/183-Valodaka-Jataka.jpg" alt="temple painting of Valodaka Jataka" class="wp-image-5884" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/183-Valodaka-Jataka.jpg" alt="temple painting of Valodaka Jataka" class="wp-image-5884" width="400" height="348" >
 <link>https://thejatakatales.com/valodaka-jataka-183</link>
 
 
@@ -20655,7 +20652,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vanara Jataka (#342)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/342-Vanara-Jataka.jpg" alt="temple painting of Vanara Jataka" class="wp-image-5375" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/342-Vanara-Jataka.jpg" alt="temple painting of Vanara Jataka" class="wp-image-5375" width="400" height="348" >
 <link>https://thejatakatales.com/vanara-jataka-342</link>
 
 
@@ -20684,7 +20681,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vanarinda Jataka (#57)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/57-Vanarinda-Jataka.jpg" alt="painting of Vanarinda Jataka" class="wp-image-5291" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/57-Vanarinda-Jataka.jpg" alt="painting of Vanarinda Jataka" class="wp-image-5291" width="400" height="348" >
 <link>https://thejatakatales.com/vanarinda-jataka-57</link>
 
 
@@ -20721,7 +20718,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vannaroha Jataka (#361)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/361-Vannaroha-Jataka.jpg" alt="temple painting of Vannaroha Jataka" class="wp-image-6291" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/361-Vannaroha-Jataka.jpg" alt="temple painting of Vannaroha Jataka" class="wp-image-6291" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/vannaroha-jataka-361</link>
 
 
@@ -20754,7 +20751,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vannupatha Jataka (#2)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/2-Vannupatha-Jataka.jpg" alt="painting of Vannupatha Jataka" class="wp-image-5077" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/2-Vannupatha-Jataka.jpg" alt="painting of Vannupatha Jataka" class="wp-image-5077" width="400" height="348" >
 <link>https://thejatakatales.com/vannupatha-jataka-2</link>
 
 
@@ -20795,7 +20792,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Varana Jataka (#71)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/71-Varana-Jataka.jpg" alt="temple painting of Varana Jataka" class="wp-image-5345" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/71-Varana-Jataka.jpg" alt="temple painting of Varana Jataka" class="wp-image-5345" width="400" height="348" >
 <link>https://thejatakatales.com/varana-jataka-71</link>
 
 
@@ -20832,7 +20829,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Varuni Jataka (#47)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/47-Varuni-Jataka.jpg" alt="painting of Varuni Jataka" class="wp-image-5242" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/47-Varuni-Jataka.jpg" alt="painting of Varuni Jataka" class="wp-image-5242" width="400" height="348" >
 <link>https://thejatakatales.com/varuni-jataka-47</link>
 
 
@@ -20861,7 +20858,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vatagga-Sindhava Jataka (#266)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/266-Vatagga-Sindhava-Jataka.jpg" alt="temple painting of Vatagga-Sindhava Jataka" class="wp-image-6078" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/266-Vatagga-Sindhava-Jataka.jpg" alt="temple painting of Vatagga-Sindhava Jataka" class="wp-image-6078" width="400" height="348" >
 <link>https://thejatakatales.com/vatagga-sindhava-jataka-266</link>
 
 
@@ -20898,7 +20895,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vatamiga Jataka (#14)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/11-Lakkhana-Jataka.jpg" alt="temple painting of Lakkhana Jataka" class="wp-image-5190" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/11-Lakkhana-Jataka.jpg" alt="temple painting of Lakkhana Jataka" class="wp-image-5190" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/vatamiga-jataka-14</link>
 
 
@@ -20931,7 +20928,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vattaka Jataka (#118)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/118-Vattaka-Jataka.jpg" alt="temple painting of Vattaka Jataka" class="wp-image-5716" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/118-Vattaka-Jataka.jpg" alt="temple painting of Vattaka Jataka" class="wp-image-5716" width="400" height="348" >
 <link>https://thejatakatales.com/vattaka-jataka-118</link>
 
 
@@ -20968,7 +20965,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vattaka Jataka (#35)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/35-Vattaka-Jataka.jpg" alt="painting of Vattaka Jataka" class="wp-image-5149" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/35-Vattaka-Jataka.jpg" alt="painting of Vattaka Jataka" class="wp-image-5149" width="400" height="348" >
 <link>https://thejatakatales.com/vattaka-jataka-35</link>
 
 
@@ -21001,7 +20998,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vattaka Jataka (#394)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/394-Vattaka-Jataka.jpg" alt="temple painting of Vattaka Jataka" class="wp-image-6390" width="335" height="400" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/394-Vattaka-Jataka.jpg" alt="temple painting of Vattaka Jataka" class="wp-image-6390" width="335" height="400" >
 <link>https://thejatakatales.com/vattaka-jataka-394</link>
 
 
@@ -21026,7 +21023,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vedabbha Jataka (#48)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/48-Vedabbha-Jataka.jpg" alt="temple painting of Vedabbha Jataka" class="wp-image-5576" style="width:400px;height:348px" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/48-Vedabbha-Jataka.jpg" alt="temple painting of Vedabbha Jataka" class="wp-image-5576" style="width:400px;height:348px" width="400" height="348" >
 <link>https://thejatakatales.com/vedabbha-jataka-48</link>
 
 
@@ -21063,7 +21060,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Veluka Jataka (#43)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/43-Veluka-Jataka.jpg" alt="painting of Veluka Jataka" class="wp-image-5153" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/43-Veluka-Jataka.jpg" alt="painting of Veluka Jataka" class="wp-image-5153" width="400" height="348" >
 <link>https://thejatakatales.com/veluka-jataka-43</link>
 
 
@@ -21092,7 +21089,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Veri Jataka (#103)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/103-Veri-Jataka.jpg" alt="temple painting of Veri Jataka" class="wp-image-5706" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/103-Veri-Jataka.jpg" alt="temple painting of Veri Jataka" class="wp-image-5706" width="400" height="348" >
 <link>https://thejatakatales.com/veri-jataka-103</link>
 
 
@@ -21125,7 +21122,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/547-Vessantara-Jataka.jpg" alt="painting of Vessantara Jataka" class="wp-image-5041" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/547-Vessantara-Jataka.jpg" alt="painting of Vessantara Jataka" class="wp-image-5041" width="400" height="348" >
 <link>https://thejatakatales.com/vessantara-jataka-547</link>
 
 
@@ -21138,7 +21135,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/vessantara-jataka-547-generosity.jpg" alt="Prince Vessantara on his elephant" class="wp-image-3409" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/vessantara-jataka-547-generosity.jpg" alt="Prince Vessantara on his elephant" class="wp-image-3409" width="400" height="348" >
 
 
 
@@ -21262,7 +21259,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/545-Vidhurapandita-Jataka.jpg" alt="painting of Vidhurapandita Jataka" class="wp-image-5039" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/545-Vidhurapandita-Jataka.jpg" alt="painting of Vidhurapandita Jataka" class="wp-image-5039" width="400" height="348" >
 <link>https://thejatakatales.com/vidhurapandita-jataka-545</link>
 
 
@@ -21275,7 +21272,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2019/09/vidhurapandita-jataka-545-truthfulness.jpg" alt="the goblin Punnaka about to throw the Bodhisatta over a cliff" class="wp-image-3410" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2019/09/vidhurapandita-jataka-545-truthfulness.jpg" alt="the goblin Punnaka about to throw the Bodhisatta over a cliff" class="wp-image-3410" width="400" height="348" >
 
 
 
@@ -21343,7 +21340,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vighasa Jataka (#393)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/158-Suhanu-Jataka.jpg" alt="temple painting of Suhanu Jataka" class="wp-image-6781" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/158-Suhanu-Jataka.jpg" alt="temple painting of Suhanu Jataka" class="wp-image-6781" width="400" height="348" >
 <link>https://thejatakatales.com/vighasa-jataka-393</link>
 
 
@@ -21368,7 +21365,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vikannaka Jataka (#233)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/233-Vikannaka-Jataka.jpg" alt="temple painting of Vikannaka Jataka" class="wp-image-5991" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/03/233-Vikannaka-Jataka.jpg" alt="temple painting of Vikannaka Jataka" class="wp-image-5991" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/vikannaka-jataka-233</link>
 
 
@@ -21401,7 +21398,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vina-Thuna Jataka (#232)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/232-Vina-Thuna-Jataka.jpg" alt="temple painting of Vina-Thuna Jataka" class="wp-image-5990" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/232-Vina-Thuna-Jataka.jpg" alt="temple painting of Vina-Thuna Jataka" class="wp-image-5990" width="400" height="348" >
 <link>https://thejatakatales.com/vina-thuna-jataka-232</link>
 
 
@@ -21430,7 +21427,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vinilaka Jataka (#160)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/160-Vinilaka-Jataka.jpg" alt="temple painting of Vinilaka Jataka" class="wp-image-5839" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/160-Vinilaka-Jataka.jpg" alt="temple painting of Vinilaka Jataka" class="wp-image-5839" width="400" height="348" >
 <link>https://thejatakatales.com/vinilaka-jataka-160</link>
 
 
@@ -21459,7 +21456,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Viraka Jataka (#204)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/204-Viraka-Jataka.jpg" alt="temple painting of Viraka Jataka" class="wp-image-5945" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/204-Viraka-Jataka.jpg" alt="temple painting of Viraka Jataka" class="wp-image-5945" width="400" height="348" >
 <link>https://thejatakatales.com/viraka-jataka-204</link>
 
 
@@ -21492,7 +21489,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Virocana Jataka (#143)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/143-Virocana-Jataka.jpg" alt="temple painting of Virocana Jataka" class="wp-image-5783" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/143-Virocana-Jataka.jpg" alt="temple painting of Virocana Jataka" class="wp-image-5783" width="400" height="348" >
 <link>https://thejatakatales.com/virocana-jataka-143</link>
 
 
@@ -21525,7 +21522,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Visavanta Jataka (#69)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/69-Visavanta-Jataka.jpg" alt="temple painting of Visavanta Jataka" class="wp-image-5343" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/69-Visavanta-Jataka.jpg" alt="temple painting of Visavanta Jataka" class="wp-image-5343" width="400" height="348" >
 <link>https://thejatakatales.com/visavanta-jataka-69</link>
 
 
@@ -21554,7 +21551,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Visayha Jataka (#340)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/340-Visayha-Jataka.jpg" alt="temple painting of Visayha Jataka" class="wp-image-6228" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/340-Visayha-Jataka.jpg" alt="temple painting of Visayha Jataka" class="wp-image-6228" width="400" height="348" >
 <link>https://thejatakatales.com/visayha-jataka-340</link>
 
 
@@ -21607,7 +21604,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vissasabhojana Jataka (#93)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/03/93-Vissasabhojana-Jataka.jpg" alt="temple painting of Vissasabhojana Jataka" class="wp-image-5633" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/03/93-Vissasabhojana-Jataka.jpg" alt="temple painting of Vissasabhojana Jataka" class="wp-image-5633" width="400" height="348" >
 <link>https://thejatakatales.com/vissasabhojana-jataka-93</link>
 
 
@@ -21636,7 +21633,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Viticcha Jataka (#244)</h3>
 		
 <div class="entry-content>
-<figure><img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/244-Viticcha-Jataka.jpg" alt="temple painting of Viticcha Jataka" class="wp-image-6034" style="width:400px;height:348px" ></figure>
+<img width="800" height="696" src="https://thejatakatales.com/wp-content/uploads/2021/04/244-Viticcha-Jataka.jpg" alt="temple painting of Viticcha Jataka" class="wp-image-6034" style="width:400px;height:348px" >
 <link>https://thejatakatales.com/viticcha-jataka-244</link>
 
 
@@ -21661,7 +21658,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Vyaggha Jataka (#272)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/272-Vyaggha-Jataka.jpg" alt="temple painting of Vyaggha Jataka" class="wp-image-6083" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/272-Vyaggha-Jataka.jpg" alt="temple painting of Vyaggha Jataka" class="wp-image-6083" width="400" height="348" >
 <link>https://thejatakatales.com/vyaggha-jataka-272</link>
 
 
@@ -21702,7 +21699,7 @@ O wise one, eat and read my riddle right.</pre>
 				<h3 class="entry-title" itemprop="headline">Yuvanjaya Jataka (#460)</h3>
 		
 <div class="entry-content>
-<figure><img src="https://thejatakatales.com/wp-content/uploads/2021/04/460-Yuvanjaya-Jataka.jpg" alt="temple painting of Yuvanjaya Jataka" class="wp-image-6537" width="400" height="348" ></figure>
+<img src="https://thejatakatales.com/wp-content/uploads/2021/04/460-Yuvanjaya-Jataka.jpg" alt="temple painting of Yuvanjaya Jataka" class="wp-image-6537" width="400" height="348" >
 <link>https://thejatakatales.com/yuvanjaya-jataka-460</link>
 
 
