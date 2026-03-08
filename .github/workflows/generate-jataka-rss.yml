@@ -1,0 +1,38 @@
+name: Generate Daily Jataka RSS Feed
+
+on:
+  schedule:
+    - cron: '32 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run generation script
+        run: node generate-rss-jataka.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add jataka.xml history-jataka.json cycle-state-jataka.json
+          git commit -m "chore: update Jataka RSS feed and Stories history" || exit 0
+
+          git push
+
+
+
+
+
