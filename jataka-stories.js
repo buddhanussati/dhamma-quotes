@@ -46,6 +46,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -74,7 +76,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 <p>The elephant and the dog were earlier births of two friends, one a disciple of the Buddha who lived at the monastery and the other a lay follower. The two men were so close, they sat and talked together all day every day. When the Buddha heard some of his disciples discussing the two men’s friendship, he told them this story so they knew that the pair had also been best friends in the past.</p>
 
 
-
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -108,6 +111,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -141,6 +146,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -174,6 +181,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -217,6 +226,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -246,6 +257,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -279,6 +292,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -320,6 +335,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -361,6 +378,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -418,6 +437,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -451,6 +472,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -476,6 +499,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -537,6 +562,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -566,6 +593,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -595,6 +624,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -624,6 +655,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -661,6 +694,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -718,6 +753,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -747,6 +784,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -776,6 +815,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -817,6 +858,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -846,6 +889,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -858,6 +903,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -891,6 +938,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -924,6 +973,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -969,6 +1020,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1006,6 +1059,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1035,6 +1090,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1080,6 +1137,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1125,6 +1184,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1154,6 +1215,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1199,6 +1262,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1232,6 +1297,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1269,6 +1336,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1360,6 +1429,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1437,6 +1508,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1462,6 +1535,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1499,6 +1574,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1544,6 +1621,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1573,6 +1652,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1602,6 +1683,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1643,6 +1726,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1684,6 +1769,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1709,6 +1796,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1746,6 +1835,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1771,6 +1862,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1812,6 +1905,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1845,6 +1940,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1894,6 +1991,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -1919,6 +2018,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2000,6 +2101,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2029,6 +2132,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2058,6 +2163,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2099,6 +2206,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2124,6 +2233,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2165,6 +2276,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2198,6 +2311,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2243,6 +2358,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2272,6 +2389,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2313,6 +2432,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2350,6 +2471,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2503,6 +2626,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2532,6 +2657,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2577,6 +2704,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2610,6 +2739,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2651,6 +2782,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2680,6 +2813,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2709,6 +2844,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2738,6 +2875,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2799,6 +2938,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2844,6 +2985,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2869,6 +3012,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2914,6 +3059,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2951,6 +3098,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -2980,6 +3129,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3021,6 +3172,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3074,6 +3227,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3107,6 +3262,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3160,6 +3317,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3198,6 +3357,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3239,6 +3400,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3272,6 +3435,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3305,6 +3470,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3358,6 +3525,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3399,6 +3568,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3440,6 +3611,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3481,6 +3654,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3518,6 +3693,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3583,6 +3760,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3656,6 +3835,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3705,6 +3886,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3742,6 +3925,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3775,6 +3960,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3812,6 +3999,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3845,6 +4034,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3874,6 +4065,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3927,6 +4120,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -3968,6 +4163,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4013,6 +4210,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4062,6 +4261,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4099,6 +4300,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4136,6 +4339,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4181,6 +4386,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4230,6 +4437,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4291,6 +4500,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4332,6 +4543,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4365,6 +4578,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4438,6 +4653,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4467,6 +4684,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4504,6 +4723,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4541,6 +4762,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4578,6 +4801,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4607,6 +4832,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4632,6 +4859,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4657,6 +4886,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4686,6 +4917,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4715,6 +4948,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4752,6 +4987,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4781,6 +5018,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4810,6 +5049,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4843,6 +5084,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4880,6 +5123,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4909,6 +5154,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4934,6 +5181,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -4971,6 +5220,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5014,6 +5265,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5051,6 +5304,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5088,6 +5343,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5113,6 +5370,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5250,6 +5509,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5313,6 +5574,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5362,6 +5625,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5423,6 +5688,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5452,6 +5719,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5485,6 +5754,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5572,6 +5843,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5605,6 +5878,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5646,6 +5921,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5675,6 +5952,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5700,6 +5979,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5725,6 +6006,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5758,6 +6041,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5791,6 +6076,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5820,6 +6107,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5857,6 +6146,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5886,6 +6177,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5927,6 +6220,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -5960,6 +6255,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6013,6 +6310,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6046,6 +6345,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6085,6 +6386,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6114,6 +6417,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6191,6 +6496,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6254,6 +6561,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6283,6 +6592,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6328,6 +6639,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6361,6 +6674,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6390,6 +6705,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6423,6 +6740,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6452,6 +6771,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6485,6 +6806,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6538,6 +6861,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6567,6 +6892,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6640,6 +6967,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6665,6 +6994,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6698,6 +7029,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6739,6 +7072,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6772,6 +7107,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6817,6 +7154,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6850,6 +7189,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6891,6 +7232,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6920,6 +7263,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6955,6 +7300,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -6980,6 +7327,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7009,6 +7358,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7050,6 +7401,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7087,6 +7440,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7116,6 +7471,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7149,6 +7506,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7186,6 +7545,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7219,6 +7580,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7272,6 +7635,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7313,6 +7678,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7358,6 +7725,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7387,6 +7756,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7424,6 +7795,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7469,6 +7842,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7502,6 +7877,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7527,6 +7904,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7572,6 +7951,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7609,6 +7990,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7642,6 +8025,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7679,6 +8064,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7736,6 +8123,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7767,6 +8156,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7806,6 +8197,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7839,6 +8232,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7872,6 +8267,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7905,6 +8302,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -7950,6 +8349,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8003,6 +8404,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8036,6 +8439,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8073,6 +8478,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8114,6 +8521,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8163,6 +8572,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8200,6 +8611,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8261,6 +8674,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8290,6 +8705,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8319,6 +8736,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8360,6 +8779,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8389,6 +8810,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8442,6 +8865,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8475,6 +8900,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8504,6 +8931,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8549,6 +8978,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8578,6 +9009,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8611,6 +9044,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8648,6 +9083,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8685,6 +9122,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8716,6 +9155,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8749,6 +9190,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8761,6 +9204,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8794,6 +9239,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8835,6 +9282,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8864,6 +9313,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8901,6 +9352,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -8986,6 +9439,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9015,6 +9470,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9040,6 +9497,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9109,6 +9568,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9162,6 +9623,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9215,6 +9678,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9262,6 +9727,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9413,6 +9880,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9466,6 +9935,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9495,6 +9966,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9524,6 +9997,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9629,6 +10104,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9654,6 +10131,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9691,6 +10170,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9796,6 +10277,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9845,6 +10328,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9878,6 +10363,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9911,6 +10398,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9948,6 +10437,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -9977,6 +10468,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10014,6 +10507,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10047,6 +10542,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10076,6 +10573,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10117,6 +10616,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10152,6 +10653,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10197,6 +10700,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10262,6 +10767,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10299,6 +10806,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10324,6 +10833,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10357,6 +10868,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10390,6 +10903,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10431,6 +10946,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10468,6 +10985,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10509,6 +11028,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10566,6 +11087,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10615,6 +11138,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10658,6 +11183,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10809,6 +11336,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -10866,6 +11395,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11381,6 +11912,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11422,6 +11955,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11467,6 +12002,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11552,6 +12089,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11625,6 +12164,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11726,6 +12267,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11815,6 +12358,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11848,6 +12393,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11929,6 +12476,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -11958,6 +12507,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12003,6 +12554,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12048,6 +12601,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12081,6 +12636,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12219,6 +12776,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12256,6 +12815,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12289,6 +12850,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12318,6 +12881,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12347,6 +12912,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12380,6 +12947,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12405,6 +12974,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12434,6 +13005,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12463,6 +13036,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12504,6 +13079,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12545,6 +13122,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12582,6 +13161,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12621,6 +13202,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12658,6 +13241,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12695,6 +13280,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12772,6 +13359,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12801,6 +13390,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12854,6 +13445,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12887,6 +13480,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12920,6 +13515,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12961,6 +13558,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -12986,6 +13585,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13011,6 +13612,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13036,6 +13639,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13069,6 +13674,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13098,6 +13705,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13110,6 +13719,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13122,6 +13733,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13134,6 +13747,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13179,6 +13794,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13216,6 +13833,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13261,6 +13880,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13408,6 +14029,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13441,6 +14064,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13474,6 +14099,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13519,6 +14146,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13548,6 +14177,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13581,6 +14212,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13610,6 +14243,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13643,6 +14278,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13684,6 +14321,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13713,6 +14352,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13746,6 +14387,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13783,6 +14426,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13816,6 +14461,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13853,6 +14500,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13886,6 +14535,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13919,6 +14570,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -13952,6 +14605,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14005,6 +14660,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14050,6 +14707,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14177,6 +14836,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14202,6 +14863,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14347,6 +15010,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14376,6 +15041,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14409,6 +15076,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14438,6 +15107,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14467,6 +15138,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14496,6 +15169,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14549,6 +15224,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14602,6 +15279,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14643,6 +15322,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14680,6 +15361,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14721,6 +15404,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14770,6 +15455,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14795,6 +15482,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14840,6 +15529,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14865,6 +15556,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14904,6 +15597,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14945,6 +15640,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -14978,6 +15675,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15015,6 +15714,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15055,6 +15756,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15084,6 +15787,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15113,6 +15818,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15150,6 +15857,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15175,6 +15884,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15216,6 +15927,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15253,6 +15966,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15286,6 +16001,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15323,6 +16040,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15356,6 +16075,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15393,6 +16114,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15458,6 +16181,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15483,6 +16208,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15520,6 +16247,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15555,6 +16284,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15592,6 +16323,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15653,6 +16386,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15694,6 +16429,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15731,6 +16468,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15772,6 +16511,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15813,6 +16554,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15838,6 +16581,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15850,6 +16595,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15879,6 +16626,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15912,6 +16661,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15941,6 +16692,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -15974,6 +16727,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16023,6 +16778,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16060,6 +16817,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16085,6 +16844,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16168,6 +16929,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16217,6 +16980,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16262,6 +17027,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16299,6 +17066,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16328,6 +17097,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16365,6 +17136,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16390,6 +17163,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16439,6 +17214,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16476,6 +17253,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16509,6 +17288,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16542,6 +17323,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16603,6 +17386,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16640,6 +17425,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16673,6 +17460,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16710,6 +17499,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16747,6 +17538,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16784,6 +17577,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16817,6 +17612,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16870,6 +17667,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16943,6 +17742,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16955,6 +17756,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -16992,6 +17795,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17025,6 +17830,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17058,6 +17865,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17099,6 +17908,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17160,6 +17971,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17189,6 +18002,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17224,6 +18039,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17261,6 +18078,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17306,6 +18125,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17335,6 +18156,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17364,6 +18187,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17397,6 +18222,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17438,6 +18265,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17467,6 +18296,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17500,6 +18331,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17539,6 +18372,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17576,6 +18411,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17625,6 +18462,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17662,6 +18501,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17695,6 +18536,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17736,6 +18579,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17789,6 +18634,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17830,6 +18677,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17871,6 +18720,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17908,6 +18759,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17957,6 +18810,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -17986,6 +18841,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18011,6 +18868,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18060,6 +18919,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18129,6 +18990,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18186,6 +19049,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18227,6 +19092,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18268,6 +19135,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18317,6 +19186,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18354,6 +19225,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18391,6 +19264,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18420,6 +19295,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18453,6 +19330,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18482,6 +19361,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18523,6 +19404,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18556,6 +19439,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18605,6 +19490,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18638,6 +19525,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18671,6 +19560,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18700,6 +19591,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18745,6 +19638,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18798,6 +19693,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18831,6 +19728,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18880,6 +19779,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18917,6 +19818,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18950,6 +19853,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -18991,6 +19896,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19040,6 +19947,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19073,6 +19982,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19122,6 +20033,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19155,6 +20068,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19184,6 +20099,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19196,6 +20113,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19233,6 +20152,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19278,6 +20199,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19357,6 +20280,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19390,6 +20315,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19431,6 +20358,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19472,6 +20401,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19501,6 +20432,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19538,6 +20471,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19587,6 +20522,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19624,6 +20561,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19665,6 +20604,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19706,6 +20647,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19751,6 +20694,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19784,6 +20729,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19825,6 +20772,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19866,6 +20815,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19899,6 +20850,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19944,6 +20897,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -19981,6 +20936,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20010,6 +20967,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20039,6 +20998,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20064,6 +21025,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20097,6 +21060,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20122,6 +21087,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20171,6 +21138,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20208,6 +21177,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20237,6 +21208,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20270,6 +21243,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20315,6 +21290,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20348,6 +21325,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20381,6 +21360,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20414,6 +21395,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20455,6 +21438,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20488,6 +21473,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20541,6 +21528,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20574,6 +21563,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20611,6 +21602,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20644,6 +21637,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20673,6 +21668,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20710,6 +21707,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20743,6 +21742,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20784,6 +21785,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20821,6 +21824,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20850,6 +21855,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20887,6 +21894,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20920,6 +21929,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20957,6 +21968,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -20990,6 +22003,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21015,6 +22030,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21052,6 +22069,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21081,6 +22100,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21110,6 +22131,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21247,6 +22270,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21332,6 +22357,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21357,6 +22384,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21390,6 +22419,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21419,6 +22450,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21448,6 +22481,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21481,6 +22516,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21514,6 +22551,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21543,6 +22582,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21596,6 +22637,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21625,6 +22668,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21650,6 +22695,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21691,6 +22738,8 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>
 
@@ -21728,5 +22777,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
+<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
+<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
 </div>
 <hr>`;
