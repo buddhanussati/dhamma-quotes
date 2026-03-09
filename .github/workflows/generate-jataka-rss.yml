@@ -2,7 +2,7 @@ name: Generate Daily Jataka RSS Feed
 
 on:
   schedule:
-    - cron: '32 0 * * *'
+    - cron: '32 1 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -31,6 +31,7 @@ jobs:
           git commit -m "chore: update Jataka RSS feed and Stories history" || exit 0
 
           git push
+
 
 
 
