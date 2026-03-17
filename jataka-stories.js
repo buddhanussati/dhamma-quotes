@@ -896,20 +896,6 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-				<h3 class="entry-title" itemprop="headline">Arama-Dusa Jataka (#268)</h3>
-		
-<div class="entry-content">
-<p>This is the same story as the <a href="https://thejatakatales.com/aramadusaka-jataka-46/" data-type="page" data-id="803">Aramadusaka Jataka (#46)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/aramadusaka-jataka-46</link>
 				<h3 class="entry-title" itemprop="headline">Aramadusaka Jataka (#46)</h3>
 		
 <div class="entry-content">
@@ -9197,20 +9183,7 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 
 
 
-				<h3 class="entry-title" itemprop="headline">Kosiya Jataka (#470)</h3>
-		
-<div class="entry-content">
-<p>The Kosiya birth will be given under the <a href="https://thejatakatales.com/sudhabhojana-jataka-535/" data-type="page" data-id="1843">Sudhabhojana Jataka (#535)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/kotisimbali-jataka-412</link>
+				
 				<h3 class="entry-title" itemprop="headline">Kotisimbali Jataka (#412)</h3>
 		
 <div class="entry-content">
@@ -13711,49 +13684,8 @@ const JatakaStoriesData = `<h3 class="entry-title" itemprop="headline">Abbhantar
 <hr>
 
 
-
-				<h3 class="entry-title" itemprop="headline">Mittavinda Jataka (#104)</h3>
-		
-<div class="entry-content">
-<p>The incidents of this birth are the same as those in the <a href="https://thejatakatales.com/catu-dvara-jataka-439/" data-type="page" data-id="1649">Catu-Dvara Jataka (#439)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/mittavinda-jataka-369</link>
-				<h3 class="entry-title" itemprop="headline">Mittavinda Jataka (#369)</h3>
-		
-<div class="entry-content">
-<p>The incidents of this story will be found in the <a href="https://thejatakatales.com/catu-dvara-jataka-439/" data-type="page" data-id="1649">Catu-Dvara Jataka (#439)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/mittavinda-jataka-82</link>
-				<h3 class="entry-title" itemprop="headline">Mittavinda Jataka (#82)</h3>
-		
-<div class="entry-content">
-<p>The incidents of this birth are told in the <a href="https://thejatakatales.com/catu-dvara-jataka-439/" data-type="page" data-id="1649">Catu-Dvara Jataka (#439)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/mora-jataka-159</link>
+				
+				
 				<h3 class="entry-title" itemprop="headline">Mora Jataka (#159)</h3>
 		
 <div class="entry-content">
@@ -16588,20 +16520,6 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-				<h3 class="entry-title" itemprop="headline">Saketa Jataka (#237)</h3>
-		
-<div class="entry-content">
-<p>Both the circumstances that suggested the story and the story itself have already been given in the <a href="https://thejatakatales.com/saketa-jataka-68/" data-type="page" data-id="848">Saketa Jataka (#68)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/saketa-jataka-68</link>
 				<h3 class="entry-title" itemprop="headline">Saketa Jataka (#68)</h3>
 		
 <div class="entry-content">
@@ -17749,20 +17667,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-				<h3 class="entry-title" itemprop="headline">Sarambha Jataka (#88)</h3>
-		
-<div class="entry-content">
-<p>The stories of the past and the present are the same as the <a href="https://thejatakatales.com/nandivisala-jataka-28/" data-type="page" data-id="762">Nandivisala Jataka (#28)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/sasa-jataka-316</link>
+				
 				<h3 class="entry-title" itemprop="headline">Sasa Jataka (#316)</h3>
 		
 <div class="entry-content">
@@ -20106,20 +20011,7 @@ O wise one, eat and read my riddle right.</pre>
 
 
 
-				<h3 class="entry-title" itemprop="headline">Taccha-Sukara Jataka (#492)</h3>
-		
-<div class="entry-content">
-<p>The stories of the past and the present are the same as the <a href="https://thejatakatales.com/vaddhaki-sukara-jataka-283/" data-type="page" data-id="1328">Vaddhaki-Sukara Jataka (#283)</a>.</p>
-
-
-
-<p><strong>📖 Read more at: </strong><a href="https://thejatakatales.com">thejatakatales.com</a>
-<br><i>Courtesy of <a href="http://www.timbewer.com">Tim Bewer</a></i></p>
-</div>
-<hr>
-
-
-<link>https://thejatakatales.com/takka-jataka-63</link>
+				
 				<h3 class="entry-title" itemprop="headline">Takka Jataka (#63)</h3>
 		
 <div class="entry-content">
