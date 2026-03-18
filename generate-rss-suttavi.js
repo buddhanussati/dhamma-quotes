@@ -25,7 +25,7 @@ const BUDDHIST_IMAGES = [
 	"https://budsas.net/sen/hoasen_tranh11.jpg",
 	"https://budsas.net/sen/fragrant-waterlily.jpg",
 	"https://budsas.net/senv/sen_vn001.jpg",
-	
+	"https://image.giacngo.vn/w770/userimages/2015/03/24/12/tu%20van.jpg",
 	"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Painting_Lotus_Art.jpg/960px-Painting_Lotus_Art.jpg",	"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nelumbo_nucifera_%289150136377%29.jpg/960px-Nelumbo_nucifera_%289150136377%29.jpg",
 	"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sacred_Lotus_in_a_Pond.jpg/960px-Sacred_Lotus_in_a_Pond.jpg",
 	"https://image.giacngo.vn/w800/Uploaded/2026/uobkhuo/2026_03_05/lotus-6588180-5776-1144.jpg",
