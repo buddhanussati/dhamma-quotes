@@ -1839,7 +1839,7 @@ Ajahn Jayasāro<br/>
                                             <div class="quote-entry">
                                                 <blockquote>
   <span class="cite-title">Ajahn Jayasāro:</span><br>
-                                                    One of the goals of Buddhist practice is to abandon attachment to views and opinions. To do so, we begin with self-inquiry: What are the basic beliefs and assumptions that underlie my views and opinions ? How solid are they &amp; Are they <a class="postlink" href="https://en.wikipedia.org/wiki/Falsifiability">falsifiable</a> &amp; How much trust should I place in them ? Many intelligent people fall into the trap of looking only at the quality of the logic that led them to their conclusions. When they are satisfied that each step of their logic is faultless, they feel confident that their position must be correct. They overlook the fact that if their initial premise is false, then that logic, however impeccable it may be, is compromised. Amazing logical edifices built upon the bog of superstitious belief can be found throughout human history. <br/>
+                                                    One of the goals of Buddhist practice is to abandon attachment to views and opinions. To do so, we begin with self-inquiry: What are the basic beliefs and assumptions that underlie my views and opinions ? How solid are they &amp; Are they falsifiable &amp; How much trust should I place in them ? Many intelligent people fall into the trap of looking only at the quality of the logic that led them to their conclusions. When they are satisfied that each step of their logic is faultless, they feel confident that their position must be correct. They overlook the fact that if their initial premise is false, then that logic, however impeccable it may be, is compromised. Amazing logical edifices built upon the bog of superstitious belief can be found throughout human history. <br/>
 <br/>
 So keep on looking. Be vigilant. "What am i taking for granted ? What seems to be obviously true - so obvious that it hardly needs mentioning - and yet perhaps, just perhaps, might not be ? How can i hold my views and opinions skilfully without getting  tangled up in them, like an unwary traveller in a thorn bush ?<br/>
 <br/>
@@ -5150,7 +5150,6 @@ Good teachers give us the confidence and means to teach ourselves, and finally i
 Ajahn Jayasāro<br/>
 23/7/22<br/>
 <br/>
-<img alt="Image" class="postimage" src="https://i.imgur.com/hlB7RqY.png"/>
                                                 </blockquote>
                                             </div>
                                             <hr>
@@ -6931,13 +6930,7 @@ Ajahn Jayasāro <br/>
                                             </div>
                                             <hr>
                                             
-                                            <div class="quote-entry">
-                                                <blockquote>
-  <span class="cite-title">Ajahn Jayasāro:</span><br>
-                                                    European talks of Venerable Ajahn Jayasāro <img alt="🙏" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"/><img alt="🙏" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"/><img alt="🙏" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"/>
-                                                </blockquote>
-                                            </div>
-                                            <hr>
+                                            
                                             
                                             <div class="quote-entry">
                                                 <blockquote>
@@ -7062,6 +7055,335 @@ Ajahn Jayasāro <br/>
                                                 </blockquote>
                                             </div>
                                             <hr>
+											
+											
+
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Loyalty is a word with a halo. It seems like an obviously good thing, just as disloyalty shouts out moral corruption. But is loyalty always such a virtue? And if not, how and under what circumstances does loyalty become toxic? And what exactly do we mean by loyalty, anyway? One definition states that 'loyalty implies a faithfulness that is steadfast in the face of any temptation to renounce, desert or betray.' Put like that it sounds noble. It is comparable to the Buddhist virtue of khanti or forbearance. But the concept of loyalty is an idea that raises a number of questions:<br/>
+<br/>
+Should one maintain one's commitment to a person or an organization that is causing harm to oneself and others; or is itself being disloyal to the very principles on which your own sense of loyalty to them or it is founded?<br/>
+<br/>
+Does being loyal mean, 'My ****, right or wrong', or is there room for making constructive criticisms?<br/>
+<br/>
+How does one choose a path when there is a conflict of loyalties? How can loyalty be prevented from becoming tribalism and strengthening attachment to divisive ideas of us and them?<br/>
+<br/>
+From a Buddhist perspective, I would say loyalty is a commitment, a fidelity which must be governed by wisdom and aligned with Dhamma. Criteria we use in accomplishing this are the waxing and waning of wholesome dhammas in those giving and receiving loyalty, and the long-term welfare and happiness of all beings.<br/>
+<br/>
+Disloyalty sounds bad. But reviling a path of conduct as treacherous, treasonous or disloyal may sometimes be nothing other than angry name-calling. In fact it may simply be a matter of someone refusing to do the wrong thing.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+24/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Wherever you are,<br/>
+In a friendly or a hostile place,<br/>
+A busy place or a lonely one<br/>
+Whether you’re feeling confident or diffident<br/>
+Up or down<br/>
+On an even keel or surfing uncertain waves<br/>
+Whether you feel enthusiastic or indifferent<br/>
+Subject to praise or blame<br/>
+Given attention or ignored<br/>
+Laughed with or laughed at<br/>
+Whether you feel inspired or disenchanted<br/>
+Hopeful or dispirited<br/>
+Calm or dull<br/>
+<br/>
+Ask yourself:<br/>
+<br/>
+What is the best thing<br/>
+the very best thing<br/>
+I can bring to this?<br/>
+<br/>
+Ajahn Jayasāro<br/>
+28/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    In the time of the Buddha, the word ‘tapas’ (heat, fervour) was used to refer to spiritual austerities practised either as a means to stimulate inner fire or, in the case of the Jains, to burn up old kamma. The Buddha gave tapas a new meaning and purpose: the incineration of mental defilement. On the first Māgha full moon after his enlightenment, the Buddha taught a verse of key teachings, the Ovāda Pātimokkha, to a group of 1,250 arahants, many of whom were former fire worshippers. In it, he stated that khanti (patience, forbearance) is the supreme tapas.<br/>
+<br/>
+Forbearance incinerates defilements because it opposes the mind’s natural tendency towards anger, resentment and depression in the face of the unpleasant. Without it, the mind is easily hijacked by defilement, and all its wholesome qualities remain brittle and immature. Khanti allows us to bear with unpleasant phenomena without agitation, whether it be physical pain and discomfort, the harsh words of others, or one’s own inner urges towards unwise action. We don’t make bad situations worse.<br/>
+<br/>
+In our efforts to cultivate khanti, we are guided by our understanding that the mind is vast, big enough to include the unpleasant. We keep it big and spacious. We don’t allow our mind to contract to the shape of the pain.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+3/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    There are two levels of Right View: mundane and supramundane. (see, for example, MN 117). Supramundane (lokuttara) Right View refers to the clear vision of the way things are in light of the Four Noble Truths. Mundane (lokiya) Right View requires us to adopt certain propositions, not as religious dogmas, but as working hypotheses. By doing so, these propositions provide the foundation and the framework for the cultivation of Right Thought and all the other aspects of the Eightfold Path. The word 'Right' here is used in a functional sense. These principles of Right View are 'right' in the sense that they provide views and values necessary for fulfilment of the path to Nibbāna. Rejecting them creates an obstacle—not to leading a good life, certainly, but to liberation.<br/>
+<br/>
+For a new student, taking on a teaching of causality may be straightforward. But it may be difficult to grasp why accepting, for example, a deep karmic link with one’s parents, or rebirth and the existence of different realms of being, is in any way vital for Dhamma practice. Our willingness to accept this will depend on the depth of confidence we have in the wisdom of the Buddha. We may consider: if the Buddha is teaching untrue things, or presenting trivial matters as important, what does that say about his Buddhahood? If we cherry-pick his teachings, how can we claim to have taken refuge in the Triple Gem.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+7/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Again, Udayin, I have proclaimed to my disciples the way to develop the four right kinds of striving. Here, a bhikkhu awakens zeal for the non-arising of unarisen evil unwholesome states, and he makes effort, arouses energy, exerts his mind and strives. He awakens zeal for the abandoning of arisen evil unwholesome states... He awakens zeal for the arising of unarisen wholesome states... He awakens zeal for the continuance, non-disappearance, strengthening, increase and fulfilment by development of arisen wholesome states, and he makes effort, arouses energy, exerts his mind, and strives. And thereby many disciples of mine abide, having reached the consummation and perfection of direct knowledge (MN 77)<br/>
+<br/>
+These days a lot of emphasis is put on the fine details of meditation techniques, as if Dhamma practice is a matter of correctly applying a formula. In the suttas the Buddha puts much more emphasis on attitude. In the stock passage quoted above, the first and most important step is to awaken zeal. When zeal has been awakened, Right Effort follows naturally.<br/>
+<br/>
+So how is zeal awakened? It may be done by reflecting on the dukkha you've seen in your life caused by unwholesome mental states, until you are inspired to put effort into protecting the mind against them. It may be done by reflecting on the beauty of wholesome dhammas to the extent that you are inspired to cultivate them. It may be to remind yourself that life is short and that you should waste no time in following the path to liberation while you still can. Create zeal, cultivate zeal and practice becomes smoother and energised.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+10/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    These days people are often told they should love themselves. It sounds reasonable. But it’s not clear exactly what loving yourself entails, or, indeed, what the phrase really means at all. Presumably, it refers to having a certain kind of feeling towards yourself. Many people check to see whether they have the feeling, don’t find it, and end up harbouring toxic and incoherent ideas like not being good enough.<br/>
+<br/>
+Buddhadhamma is precise and pragmatic. It starts with practical down-to-earth questions like: How can you be a good friend to yourself. The answer it gives is<br/>
+Nourish your heart with acts of kindness and generosity.<br/>
+Create and maintain intelligent boundaries for your life by upholding the five precepts.<br/>
+Apply yourself to abandoning unwholesome mental states and cultivating positive ones such as patience, mettā and mindfulness.<br/>
+Seek to learn from every experience, and develop insight into the way things are, free from attachment and bias.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+14/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    n 1978, in London, just before coming to Thailand, I had a conversation with a psychiatrist who had recently retired after a long, successful career. It surprised me when she said that she had rarely recommended her patients to meditate. In her view, the most essential thing to impress upon people with mental health issues was how tied their problems were to their actions and speech, and how their first most important step was giving care to their behaviour in the world.<br/>
+<br/>
+The importance of sīla cannot be overestimated. Lay meditation retreats have certainly been a very positive development in Buddhist communities over the past fifty years. However, meditation is just one part of the integrated training of body, speech and mind necessary for liberation. Too much emphasis on applying a particular meditation technique and not enough on the supporting conditions provided by dāna and sīla, often leads to unsustainable progress. Under the special conditions of a retreat, the mind may enjoy a glimpse of the sublime. The question is whether it is mature enough to deepen that vision. Learning the joy of selfless giving, and experiencing the integrity and self-respect that comes through upholding the precepts, are vital constituents of that maturity.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+17/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    You may have been asked: How sure can you be that the Buddha even existed? How far can you trust your texts? My answer is that our faith is well-grounded indeed.<br/>
+<br/>
+The Sutta and Vinaya Pali texts show an incredible internal consistency and unity, while containing no references to later texts. They reveal no historical anachronisms. This gives the informed reader a strong sense of them all being the work of a single mind. The uniformity of the texts across isolated transmission lineages indicates a common pre-sectarian origin. It also indicates the reliability of the oral transmission methods the monks used to preserve them.<br/>
+<br/>
+The sixteen countries mentioned in the texts were soon swallowed up by the Nanda empire. A lack of references to this or the following Mauryan empire and its great figures such as Candagutta and Asoka reinforces the texts' early provenance. As does any reference to writing. Archaeological discoveries have corroborated the existence of most of the monasteries and cities, and dated them to the 5-6th cent. BCE.<br/>
+<br/>
+The Asokan columns, erected some 150 years after the Buddha’s passing offer compelling evidence. The Lumbini column states 'Here, the Buddha, Shakyamuni, was born.' Another includes the names of suttas the great emperor advised his subjects to study. The great stupas he had built at Sanchi and Bharhut, 1000 kms from his capital, feature stone carvings depicting episodes from the Buddha’s life, showing how widely the teaching had already spread.<br/>
+<br/>
+There is much more. I’m only scratching the surface with this single yellow page. For anyone interested in this topic, I recommend the excellent "The Authenticity of the Early Buddhist Texts", by the venerable bhikkhus, Sujāto and Brahmāli.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+21/3/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            
+                                                
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    In the old story a king decrees that everywhere he walks must be paved with gold. A crisis looms: the taxes needed to finance such a project would cause widespread misery. A wise minister solves the problem by presenting the king with a pair of shoes with gold-plated soles. Change your attitude to your surroundings, the story teaches us, rather than always trying to change the surroundings themselves. I've been fond of this story since childhood, and to this day, it's one I still retell.<br/>
+<br/>
+But, to me, this story doesn't mean that we don't have to keep our pavements in good order. Or that there is one way of looking at the world that will keep us in a happy mood whatever happens. Rather, it encourages us to be aware of what we bring to situations, the frame through which we perceive them. So many times, through our thinking, we make matters worse than they need to be, or less beneficial than they might be. Instead we can ask ourselves, "Right now, what simple change of thinking could make a difference."<br/>
+<br/>
+Once upon a time (two days ago) a monk was in a very busy public place. He was waiting. And waiting. He gave himself the task of counting 108 consecutive breaths. Wanting to complete the task before he left reversed his attitude to time passing, and plated his mind with gold.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+13/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    The Buddha taught that having respect for values, principles, truths or people worthy of respect is auspicious, and elevates the mind. In the Gārava Sutta (SN6.2) the Buddha declares a lack of respect to be a source of dukkha. The feeling of respect is a treasure of the heart that even the Buddha felt appropriate to maintain. Shortly after his enlightenment seeing nobody who could match him in sīla, samādhi, paññā and vimutti (deliverance) he did not conclude that, therefore, he had no further need for respect. He decided that his object of respect would be the Dhamma.<br/>
+<br/>
+Respect means 'looking up to', and it promotes humility. At the same time respect means giving weight and significance to, giving priority, giving precedence. The Buddha spoke of seven objects of respect: Buddha, Dhamma, Sangha, the training (sikkhā), samādhi, heedfulness (appamāda) and hospitality. Respect for Buddha, Dhamma and Sangha may be expressed through simple rituals such as putting the hands together in añjali or bowing. Respect for the training is shown by bearing in mind the suffering inherent in even minor transgressions against precepts; being consistent and devoted to the abandonment of unwholesome states and the cultivation of the wholesome; bringing the mind back, again and again, to the perception of anicca, dukkha and anattā.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+17/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Suppose you were to take on the task of watching a stream of people coming through a door. All you have to do is observe which ones are dressed in white. With this task in mind, other perceptions such as man, woman, big, small, attractive, unattractive etc may appear in the mind briefly, but only on the periphery of consciousness. By prioritising a single factor - white clothes - you automatically de-prioritise everything else.<br/>
+<br/>
+Similarly, by focusing on an object such as the breath, meditators de-prioritise all other mental activity. Thoughts and memories regardless of content become simply 'not the breath'. Meditators struggling to stay with the breath easily fall prey to discouragement. What they often miss is that however often their mind gets drawn away from the breath into desire or aversion, dullness, agitation or doubt, a significant change has already taken place in their mind. Their identification with mental states as being 'me' or mine, their assumption of ownership, has been radically undermined. The perception of mental states as simply impersonal states of mind arising and passing away, has now been born. It is a revolutionary leap in awareness.<br/>
+<br/>
+Too often, meditators overlook the most important long-term benefit of meditation - understanding the way things are as a direct experience - for the short-term gains of wholesome mental states.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+20/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Recently, I spent some time talking to school students. I observed how people can be so smart as to build machines that travel to Mars, and so stupid as to be prejudiced against fellow human beings merely because of the colour of their skin. The same person may gain a doctorate from a leading university and still be unable to apply their intelligence to the most basic tasks of eating, resting and taking exercise. To get beyond this usual mishmash of intelligence and its opposite we need the rounded approach to life given by the Buddha. His teachings reveal our defilements and blind spots, and give us efficient tools to deal with them. He points to our potential and shows us how to reach it. Practising the Dhamma, we can harmonize our inner and outer worlds.<br/>
+<br/>
+Someone asked me about beliefs. I said that actions of body, speech and mind are more important. History is full of people claiming to be acting in the name of their god or philosophy, and treating others with great cruelty and violence. Lofty beliefs don't necessarily lead to wise and compassionate conduct. Buddhist beliefs are verifiable hypotheses about our capacity to abandon the unwholesome, cultivate the wholesome and purify the mind. Put them to the test. Your actions will be the proof of the Dhamma pudding.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+24/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    One of the epithets of the Buddha is 'vijjācarana sampanno', 'perfect in knowledge and conduct'. On the night of his enlightenment, the Buddha realised the tevijjā, three vijjā or knowledges. In the first part of the night he gained profound knowledge of his own past lives, in the second part of the night profound knowledge of the passing on and rebirth of beings according to their actions, and in the third part of the night, the profound knowledge of the destruction of all taints (āsavā, a synonym for kilesa or defilements). Although it was only the last of these three knowledges that constituted his enlightenment, the role of the first two in preparing the ground for the third should not be underestimated.<br/>
+<br/>
+The Buddha's vijjā - it is also translated as wisdom and understanding - is accompanied by carana, or conduct. His wisdom guides and informs his every action. This is a principle not restricted to the Buddha, but shared by all those who follow his path. Authentic wisdom is inevitably expressed in action. Eventually, certain kinds of conduct and speech become, literally, unthinkable. On a more basic level of practice, experiential understanding of the stream of causes and conditions that have contributed to one's life leads to gratitude and actions that seek to express it; experiential understanding of the law of kamma give rise to firm commitment to precepts. The inner and the outer come into harmonious alignment.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+27/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Dwelling on all of the dangers facing humanity in the coming years might seem a sure way to invite unnecessary stress and anxiety into our lives. Surely, it is better to try to stay in the present moment and just take everything step by step, one breath at a time. <br/>
+<br/>
+Well, yes and no. It depends how we hold those dangers in our minds. On occasions, the Buddha encouraged monks to contemplate the fragility of their present favourable situation in order to motivate them in their practice. He told young and healthy monks to consider how much more difficult it would be in the future to put forth effort in seclusion when afflicted by illness and old age. He pointed out how difficult their lives would become if local villages were affected by famine or social unrest, or what would happen if there was serious discord in the Sangha. <br/>
+<br/>
+The Buddha also pointed out more immediate dangers that could threaten monks practising in solitude. They might be bitten by poisonous snakes, centipedes or scorpions. They might suddenly fall ill with food poisoning or have an accident and break a limb. They might be attacked by wild animals such as tigers or leopards. They might be mistreated by criminals taking refuge in the forest to plan crimes or escape capture. They might be mistreated by non-human beings. <br/>
+<br/>
+Rather than being depressed or anxious in the face of dangers, we can also consider them in a constructive way. By contemplating them calmly, we can deepen our appreciation of the advantages we have right now and make the best use of them while we can.<br/>
+<br/>
+Ajahn Jayasāro <br/>
+31/1/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    Some religious doctrines, most conspiracy theories, many explosions of anger at home and in the workplace begin with the question, 'Who's to blame?'. Ideas of punishment and revenge and even forgiveness stem from this question, 'Who's to blame?' <br/>
+<br/>
+From the question, 'Who's to blame' a hard-edged cartoon world of blacks and whites emerges. <br/>
+A false peace may be gained by the words, 'We're all to blame.' <br/>
+A false humility may be claimed by the words 'I'm to blame.' <br/>
+A false responsibility may be accepted by 'taking the blame.' <br/>
+<br/>
+The idea of blame is not to blame for human conflict, but it is a contributing factor. <br/>
+Wisdom begins with the questions: <br/>
+'What has contributed?' <br/>
+'What is contributing?' <br/>
+'What will contribute?'<br/>
+<br/>
+Ajahn Jayasāro <br/>
+3/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    During my teens, before closing my eyes to sleep at the end of a frustrating day, I would often play myself a short piece of music on my cassette player. The song was 'The Great Gig in the Sky', performed by Pink Floyd, my favourite band. To me, the song expressed emotional struggle, catharsis and acceptance in a profoundly satisfying way.<br/>
+<br/>
+After I began meditating, I discovered a middle way between indulgence in emotion and repression of it, that became more and more natural. When I became a monk, giving up music wasn't difficult. In a life devoted to abandoning craving in all its forms, including for excitement, distraction and even emotional soothing, it seemed an obvious step. I would hear music sometimes on alms round, or in a vehicle, and be surprised by how tiresome I found it. The exception would be the occasional ripples of enjoyment I'd feel if the song was one I'd enjoyed in the past. It was a reminder of how much sensual pleasure is bound up with memory and expectation.<br/>
+<br/>
+The path of practice isn't so much about giving up things through acts of will. Renunciation is more a reorientation of the mind. We find that certain things no longer answer the questions we want to ask of our life, and may, in fact, hold us back.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+10/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    One of the most surprising passages in the suttas occurs in the Sakkapañhā Sutta (DN 21). In it, a celestial musician (gandhabba) called Pañcasikha, approaches the cave where the Buddha is residing, and to the strains of his yellow lute, ‘sings verses extolling the Buddha, the Dhamma, the Arahants, and love’. The verses he sings are, in fact, rather risqué, and are almost all devoted to the sensual desire he feels for his lady love. Certainly not the kind of thing you might feel suitable for the Buddha’s ears. His Buddhist references when they appear, serve only to illustrate his love.<br/>
+<br/>
+‘Delightful as the breeze to one who sweats,<br/>
+Or as a cooling draught to one who thirsts,<br/>
+Your radiant beauty is to me as dear<br/>
+As the Dhamma is to arahants.’<br/>
+<br/>
+… My desire was slight at first,<br/>
+O maid of waving tresses, but it grew apace,<br/>
+As grow the gifts that arahants receive.<br/>
+<br/>
+One might expect that at the end of the song, the Buddha would give him a stern rebuke. Far from it. He says “Pañcasikha, the sound of your strings blends so well with your song, and your song with the strings, that neither prevails excessively over the other.”<br/>
+<br/>
+My contemplation of this passage over the years has led me to the conclusion that the Buddha knew that rebuking a gandhabba for sensual musical verse would be akin to admonishing a cat for purring. Instead, out of compassion, and drawing on memories of his youth in the palace, the Buddha graciously turned to musical merits.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+14/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    The King of Yan wanted the best of everything for his country: the best ministers, the best administrators, the best generals, and the best horses. He wanted horses that could travel 1,000 li a day, and announced he would be willing to pay 1,000 gold coins for one. Despite this stupendous offer being broadcast throughout the country, nobody came forward. In frustration, the king turned to his wisest advisor.<br/>
+<br/>
+After some time of searching through the countryside, the advisor heard the news of one of these wonderful horses. Unfortunately, it had just died. Unfazed, he gave the horse's owner 500 gold coins for its bones. On the advisor's return to the palace, the king was angry that he'd wasted so much money. What use to the king were mere bones? The advisor begged for patience. Before long, a steady stream of people with 1,000 li horses came forward, ready to sell them to the king.<br/>
+<br/>
+The 500 gold coins bought trust. Before that, nobody believed that the king would actually pay for the horses. When news got round that he would pay 500 just for the bones, they were reassured.<br/>
+<br/>
+Commercial transactions and personal communication need a foundation of trust. If you can't get through to someone, it may not be your logic or your intentions that are at fault. Consider whether or not you've earned their trust. If all else fails, the story of the King of Yan suggests you might need to prove your sincerity with some kind of measurable commitment.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+17/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+                                            <div class="quote-entry">
+                                                <blockquote>
+  <span class="cite-title">Ajahn Jayasāro:</span><br>
+                                                    On a recent retreat, a meditator told me that as her mind calmed down during meditation she often had insights into problems at work. She felt frustrated that after the meditation session was over, try as she might, she was unable to recall them. She asked whether it would be alright to have a notebook and pen by her side when she meditated, so that she could jot down any ideas that popped into her head.<br/>
+<br/>
+I didn't think it was a good idea. Paying attention to work matters during meditation is included in the first hindrance of kāmachanda, sensual desire. The obstacle here is not only created by indulgence in memories or fantasies of sensual pleasures, but by any sustained interest in any aspect of the material world.<br/>
+<br/>
+I suggested to the meditator that back home she might use a meditation exercise to calm her mind specifically in order to create space for useful work-related insights to arise, notebook and pen by her side. The important thing was not to mix Buddhist meditation and its goal of freedom from suffering from calming exercises with more mundane goals.<br/>
+<br/>
+Ajahn Jayasāro<br/>
+21/2/26
+                                                </blockquote>
+                                            </div>
+                                            <hr>
+                                            
+
+											
                                             
                                             <div class="quote-entry">
                                                 <blockquote>
