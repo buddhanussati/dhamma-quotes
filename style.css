@@ -204,24 +204,30 @@ h3 {
 
 /* Add to your style.css */
 
+/* 2. Match quote-container to button behavior */
 #quote-container {
-    /* ... existing styles ... */
+    background-color: var(--container-bg);
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    min-height: 150px;
+    font-size: 1.15em;
+    line-height: 1.6;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    
     cursor: pointer;
-    transition: opacity 0.4s ease-in-out, transform 0.1s;
+    /* Match the button's 0.2s transition for colors */
+    transition: background-color 0.2s, opacity 0.4s ease-in-out, transform 0.1s; 
+    user-select: none;
 }
 
-#quote-container:active {
-    /* No movement - keeps things perfectly still */
-    transform: none; 
 
-    /* A subtle "inset" shadow makes it look pressed inward */
-    box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.1);
-    
-    /* A very slight color shift for instant feedback */
+
+/* Active click effect (the "little" transform you liked) */
+#quote-container:active {
+    transform: translateY(1px);
     background-color: var(--border-color);
-    
-    /* Make the transition back to normal instant on release */
-    transition: background-color 0.4s, box-shadow 0.4s;
+    transition: transform 0.05s; /* Snappy response like a real button */
 }
 
 .button-group {
