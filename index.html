@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link rel="icon" type="image/x-icon" href="favicon6.ico">
     <title>Dhamma Quotes</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -19,11 +19,14 @@
 </div>
     
     <div class="container">
-        <div id="tabs-container" class="tabs"></div>
-
-        <div id="quote-container"></div>
-        <button id="new-quote-btn">Get Random Quote</button>
+    <div id="tabs-container" class="tabs"></div>
+    <div id="quote-container" style="cursor: pointer;" title="Click for new quote"></div>
+    
+    <div class="button-group" style="display: flex; gap: 10px; justify-content: center;">
+        <button id="new-quote-btn">Random Quote</button>
+        <button id="copy-btn" style="background-color: var(--container-bg); color: var(--text-color); border: 1px solid var(--border-color);">Copy Text</button>
     </div>
+</div>
 
     <script src="thanissaro-quotes.js"></script>
     <script src="jayasaro-quotes.js"></script>

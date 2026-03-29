@@ -42,7 +42,7 @@ body {
 
 .header h1 {
     margin: 0;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .container {
@@ -86,10 +86,12 @@ button:hover {
 .quote-entry blockquote {
     margin: 0;
 }
-.cite-title {
+.cite-title, 
+h3 {
     font-weight: bold;
     color: var(--cite-color);
     font-size: 1.1em;
+    margin: 0.5em 0; /* Added a small margin for better h3 spacing */
 }
 .text-strong {
     font-weight: bold;
@@ -101,6 +103,7 @@ button:hover {
     color: var(--link-color);
     text-decoration: none;
     word-break: break-all;
+
 }
 .postlink:hover {
     text-decoration: underline;
@@ -199,7 +202,38 @@ button:hover {
 }
 
 
+/* Add to your style.css */
 
+#quote-container {
+    /* ... existing styles ... */
+    cursor: pointer;
+    transition: opacity 0.4s ease-in-out, transform 0.1s;
+}
+
+#quote-container:active {
+    /* No movement - keeps things perfectly still */
+    transform: none; 
+
+    /* A subtle "inset" shadow makes it look pressed inward */
+    box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.1);
+    
+    /* A very slight color shift for instant feedback */
+    background-color: var(--border-color);
+    
+    /* Make the transition back to normal instant on release */
+    transition: background-color 0.4s, box-shadow 0.4s;
+}
+
+.button-group {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#copy-btn:hover {
+    background-color: var(--border-color) !important;
+}
 
 
 
