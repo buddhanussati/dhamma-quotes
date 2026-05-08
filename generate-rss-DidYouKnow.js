@@ -110,7 +110,7 @@ const currentPubDate = new Date().toUTCString();
 const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>DidYouKnow-SuttaEdition</title>
+    <title>#DidYouKnow-SuttaEdition</title>
     <link>https://buddhanussati.github.io/dhamma-quotes/</link>
     <description>DidYouKnow-SuttaEdition</description>
     <lastBuildDate>${currentPubDate}</lastBuildDate>
