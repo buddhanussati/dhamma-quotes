@@ -116,7 +116,7 @@ const rssXml = `<?xml version="1.0" encoding="UTF-8" ?>
     <lastBuildDate>${currentPubDate}</lastBuildDate>
     <image>
       <url>https://loicuaducphat.org/congcu/images/favicon6.ico</url>
-      <title>DidYouKnow-SuttaEdition</title>
+      <title>#DidYouKnow-SuttaEdition</title>
       <link>https://loicuaducphat.org/congcu/images/favicon6.ico</link>
     </image>
     ${itemsXml}
