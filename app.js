@@ -10,7 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
         thanissaro: 'thanissaro.xml',
         jayasaro: 'jayasaro.xml',
         chah: 'ajahnchah.xml',
-        panna: 'pannavaddho.xml'
+        panna: 'pannavaddho.xml',
+		thate: 'ajahnThate.xml',
+		funn: 'ajahnFunn.xml',
+		DYK: 'DidYouKnow.xml',
     };
 
     const teachers = {
@@ -18,6 +21,10 @@ document.addEventListener('DOMContentLoaded', () => {
         jayasaro: { name: "Ajahn Jayasaro", getData: () => typeof JayasaroQuotesData !== 'undefined' ? JayasaroQuotesData : "", quotes: [], queue: [] },
         chah: { name: "Ajahn Chah", getData: () => typeof AjahnChahQuotesData !== 'undefined' ? AjahnChahQuotesData : "", quotes: [], queue: [] },
         panna: { name: "Ajaan Paññāvaddho", getData: () => typeof PannavaddhoQuotesData !== 'undefined' ? PannavaddhoQuotesData : "", quotes: [], queue: [] },
+		thate: { name: "Ajaan Thate", getData: () => typeof ajahnThateQuotes !== 'undefined' ? ajahnThateQuotes : "", quotes: [], queue: [] },
+		funn: { name: "Ajaan Funn Ācāro", getData: () => typeof ajahnFunnQuotes !== 'undefined' ? ajahnFunnQuotes : "", quotes: [], queue: [] },
+		DYK: { name: "#DidYouKnow", getData: () => typeof DYKQuotesData !== 'undefined' ? DYKQuotesData : "", quotes: [], queue: [] },
+
     };
 
     let currentTeacherKey = 'thanissaro';
