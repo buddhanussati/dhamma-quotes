@@ -1,6 +1,4 @@
-const ajahnFunnQuotes =
-
-`<div class="quote-entry"><h3>Seeing the Four Noble Truths Makes You Truly a Monk</h3>
+const ajahnFunnQuotes = `<div class="quote-entry"><h3>Seeing the Four Noble Truths Makes You Truly a Monk</h3>
 
 <p>When you see all four of these noble truths, that’s when you truly become a monk. If you don’t see them, then no matter how much else you may know, it’s all just book-knowledge. But once you see the four noble truths, you see the Dhamma. You can’t keep on living in this world anymore. What would you live for? There’d be nothing at all that you would gain. Think about it. Birth and aging: They’re nothing but suffering.<br>
 <br>

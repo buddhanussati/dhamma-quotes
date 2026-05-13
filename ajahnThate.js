@@ -1,6 +1,4 @@
-const ajahnThateQuotes = 
-
-`<div class="quote-entry"><h3>Incorrect Meditation Accumulates Defilements</h3>
+const ajahnThateQuotes = `<div class="quote-entry"><h3>Incorrect Meditation Accumulates Defilements</h3>
 
 <p>I will speak about meditation practice. Every person who practices meditation desires for their mind to be complete, pure, and clean – every single one of them. They practice day and night, practicing all the time. But those who practice incorrectly end up deluded, accumulating even more defilements. Some people, thinking back and forth, arouse their effort, then take that very thing as an object, and thus only accumulate defilements, piling up mounds within – not purifying defilements. Purification of defilements requires removing, withdrawing – that is what is called meditation.</p>
 </div>
