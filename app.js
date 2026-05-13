@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         panna: { name: "Ajaan Paññāvaddho", getData: () => typeof PannavaddhoQuotesData !== 'undefined' ? PannavaddhoQuotesData : "", quotes: [], queue: [] },
 		thate: { name: "Ajaan Thate", getData: () => typeof ajahnThateQuotes !== 'undefined' ? ajahnThateQuotes : "", quotes: [], queue: [] },
 		funn: { name: "Ajaan Funn Ācāro", getData: () => typeof ajahnFunnQuotes !== 'undefined' ? ajahnFunnQuotes : "", quotes: [], queue: [] },
-		DYK: { name: "#DidYouKnow", getData: () => typeof DYKQuotesData !== 'undefined' ? DYKQuotesData : "", quotes: [], queue: [] },
+		DYK: { name: "#DidYouKnow", getData: () => typeof DidYouKnowData !== 'undefined' ? DidYouKnowData : "", quotes: [], queue: [] },
 
     };
 
