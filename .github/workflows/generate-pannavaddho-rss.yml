@@ -3,7 +3,7 @@ name: Generate Ajaan Paññāvaddho RSS Feed
 on:
   schedule:
     # Runs at minute 0 past every 6th hour.
-    - cron: '47 */5 * * *'
+    - cron: '47 */6 * * *'
   workflow_dispatch: 
 
 jobs:
