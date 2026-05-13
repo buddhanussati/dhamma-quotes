@@ -1,0 +1,36 @@
+name: Generate Ajahn Funn Ācāro RSS Feed
+
+on:
+  schedule:
+    - cron: '09 1 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Run generation script
+        run: node generate-rss-ajahnFunn.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ajahnFunn.xml history-ajahnFunn.json cycle-state-ajahnFunn.json
+          git commit -m "chore: update Ajaan Funn RSS feed and quote history" || exit 0
+
+          git push
+
+
+
