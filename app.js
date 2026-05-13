@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', () => {
         thanissaro: { name: "Thanissaro Bhikkhu", getData: () => typeof thanissaroQuotesData !== 'undefined' ? thanissaroQuotesData : "", quotes: [], queue: [] },
         jayasaro: { name: "Ajahn Jayasaro", getData: () => typeof JayasaroQuotesData !== 'undefined' ? JayasaroQuotesData : "", quotes: [], queue: [] },
         chah: { name: "Ajahn Chah", getData: () => typeof AjahnChahQuotesData !== 'undefined' ? AjahnChahQuotesData : "", quotes: [], queue: [] },
-        panna: { name: "Ajaan Paññāvaddho", getData: () => typeof PannavaddhoQuotesData !== 'undefined' ? PannavaddhoQuotesData : "", quotes: [], queue: [] },
+        panna: { name: "A. Paññāvaddho", getData: () => typeof PannavaddhoQuotesData !== 'undefined' ? PannavaddhoQuotesData : "", quotes: [], queue: [] },
 		thate: { name: "Ajaan Thate", getData: () => typeof ajahnThateQuotes !== 'undefined' ? ajahnThateQuotes : "", quotes: [], queue: [] },
-		funn: { name: "Ajaan Funn Ācāro", getData: () => typeof ajahnFunnQuotes !== 'undefined' ? ajahnFunnQuotes : "", quotes: [], queue: [] },
+		funn: { name: "Ajaan Funn", getData: () => typeof ajahnFunnQuotes !== 'undefined' ? ajahnFunnQuotes : "", quotes: [], queue: [] },
 		DYK: { name: "#DidYouKnow", getData: () => typeof DidYouKnowData !== 'undefined' ? DidYouKnowData : "", quotes: [], queue: [] },
 
     };
