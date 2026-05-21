@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
         jayasaro: 'jayasaro.xml',
         chah: 'ajahnchah.xml',
         panna: 'pannavaddho.xml',
-		thate: 'ajahnThate.xml',
-		funn: 'ajahnFunn.xml',
+		thate: 'https://meormine.github.io/ajahn-thate/ajahnThate.xml',
+		funn: 'https://meormine.github.io/ajahn-funn/ajahnFunn.xml',
 		DYK: 'DidYouKnow.xml',
     };
 
