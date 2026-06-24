@@ -4,13 +4,28 @@
     <title>Trích Dẫn Kinh Điển Nikaya</title>
     <link>https://loicuaducphat.org/congcu/trichdan</link>
     <description>Trích Dẫn Kinh Điển Nikaya</description>
-    <lastBuildDate>Wed, 24 Jun 2026 04:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:31:53 GMT</lastBuildDate>
     <image>
       <url>https://loicuaducphat.org/congcu/images/favicon6.ico</url>
       <title>Trích Dẫn Kinh Điển Nikaya</title>
       <link>https://loicuaducphat.org/congcu/images/favicon6.ico</link>
     </image>
     
+    <item>
+      <title><![CDATA[Vị Tỷ-kheo khất thực, Tự sống không nhờ người, Chư Thiên thương vị ấy, Nhưng nếu Tỷ-kheo ấy, Y tựa vào danh vọng, Chư Thiên…]]></title>
+      <link>https://loicuaducphat.org/ud/ud3.8.html#content</link>
+      <description><![CDATA[
+        <img src="https://budsas.net/sen/hoasen_tranh02.jpg" alt="Buddhist imagery" style="max-width: 100%; height: auto; margin-bottom: 15px;" /><br>
+        Vị Tỷ-kheo khất thực,<br>Tự sống không nhờ người,<br>Chư Thiên thương vị ấy,<br>Nhưng nếu Tỷ-kheo ấy,<br>Y tựa vào danh vọng,<br>Chư Thiên không có thương.
+        <br><br>
+        <strong>Trích:</strong> Udana 3.8
+        <br><a href="https://loicuaducphat.org/ud/ud3.8.html#content">📖 Đọc kinh này</a>
+      ]]></description>
+      <enclosure url="https://budsas.net/sen/hoasen_tranh02.jpg" type="image/jpeg" length="0" />
+      <pubDate>Wed, 24 Jun 2026 08:31:53 GMT</pubDate>
+      <guid isPermaLink="false">1782289913341</guid>
+    </item>
+
     <item>
       <title><![CDATA[Chư Tỷ-kheo, Ta ly dục, ly ác, bất thiện pháp, chứng và trú Thiền thứ nhất, một trạng thái hỷ lạc do ly dục sanh,…]]></title>
       <link>https://loicuaducphat.org/mn/mn19.html#content</link>
@@ -144,21 +159,6 @@
       <enclosure url="https://budsas.net/sen/hoasen_tranh01.jpg" type="image/jpeg" length="0" />
       <pubDate>Mon, 22 Jun 2026 05:26:30 GMT</pubDate>
       <guid isPermaLink="false">1782105990223</guid>
-    </item>
-
-    <item>
-      <title><![CDATA[Những gì, này Ānanda, vị Ðạo sư cần phải làm, vì lòng từ mẫn mưu tìm hạnh phúc cho các đệ tử, những điều ấy…]]></title>
-      <link>https://loicuaducphat.org/mn/mn106.html#content</link>
-      <description><![CDATA[
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/P4230227.jpg_-_Flickr_-_zorrotran.jpg/960px-P4230227.jpg_-_Flickr_-_zorrotran.jpg" alt="Buddhist imagery" style="max-width: 100%; height: auto; margin-bottom: 15px;" /><br>
-        Những gì, này Ānanda, vị Ðạo sư cần phải làm, vì lòng từ mẫn mưu tìm hạnh phúc cho các đệ tử, những điều ấy đã được Ta làm, vì lòng từ mẫn của Ta đối với Ông. Này Ānanda, đây là những gốc cây, đây là những khoảng trống. Hãy tu Thiền, này Ānanda, chớ có phóng dật, chớ có hối hận về sau. Ðây là lời dạy của Ta cho Ông.
-        <br><br>
-        <strong>Trích:</strong> Trung Bộ 106 – Kinh Bất Động Lợi Ích
-        <br><a href="https://loicuaducphat.org/mn/mn106.html#content">📖 Đọc kinh này</a>
-      ]]></description>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/P4230227.jpg_-_Flickr_-_zorrotran.jpg/960px-P4230227.jpg_-_Flickr_-_zorrotran.jpg" type="image/jpeg" length="0" />
-      <pubDate>Sun, 21 Jun 2026 21:39:25 GMT</pubDate>
-      <guid isPermaLink="false">1782077965605</guid>
     </item>
   </channel>
 </rss>
